@@ -1,0 +1,1 @@
+# geo_marketing_amenity_rent
