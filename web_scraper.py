@@ -1,8 +1,7 @@
+import time
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-import time
 import pandas as pd
 
 chrome_options = Options()
@@ -11,16 +10,17 @@ chrome_options.add_experimental_option("detach", True)
 # Initialize the Chrome driver
 driver = webdriver.Chrome(options=chrome_options)
 
-# Navigate to the URL
-
-
 def getPageRentals(pageNr, rental):
+    # Construct the URL for the page
     url = 'https://www.homegate.ch/mieten/immobilien/land-schweiz/trefferliste?ep=' + pageNr
+    # Navigate to the URL
     driver.get(url)
     rentalProperties = driver.find_elements(By.CSS_SELECTOR, '[role="listitem"]')
+    # Check if rentalProperties is empty
     if len(rentalProperties) == 0:
         print("No more rental properties found.")
         return rental
+    # Loop through the rental properties and extract the required information
     for rentalProperty in rentalProperties:
         price = rentalProperty.find_element(By.XPATH, "//*[contains(@class, 'HgListingCard_price')]").text
         address = rentalProperty.find_element(By.TAG_NAME, "address").text
@@ -30,7 +30,9 @@ def getPageRentals(pageNr, rental):
         })
     return rental
 
+# Set the maximum number of pages to scrape
 maxPages = 50
+# Initialize an empty list to store the rental properties
 rental = []
 for i in range(1, maxPages):
     pageNr = str(i)
@@ -40,8 +42,8 @@ for i in range(1, maxPages):
         print("Sleeping for 5 seconds...")
         time.sleep(5)
 
+# Save the data to a JSON file
 df = pd.DataFrame(rental)
-
 filename = 'rental_properties.json'
 df.to_json(filename, orient='records', lines=True)
 
