@@ -113,8 +113,8 @@ def add_amenities_to_properties(input_file, output_file, transport_type, radius=
 
 def main():
     input_file = 'rental_properties_geocoded.json'
-    radius = 500  # search radius in meters
-    distance_in_minutes = 5  # distance in minutes for isochrone
+    radiuses = [500, 2000, 5000]  # search radius in meters
+    distances_in_minutes = [5, 10, 15]  # distance in minutes for isochrone
     transport_types = ["walking", "driving"]
     # list of allowed amenities to search for
     allowed_amenities = [
@@ -134,16 +134,17 @@ def main():
         "bus_station",
         "parking"
     ]
-    #get amenties for all types
-    for transport_type in transport_types:
-        print(f"getting amenities for {transport_type}...")
-        if transport_type == "walking":
-            output_file = f'rental_properties_with_walking_{distance_in_minutes}_amenities.json'
-        elif transport_type == "driving":
-            output_file = f'rental_properties_with_driving_{distance_in_minutes}_amenities.json'
-        else:
-            output_file = f'rental_properties_with_radius_{radius}_amenities.json'
-        add_amenities_to_properties(input_file, output_file, transport_type, radius=radius, distance_in_minutes=distance_in_minutes, allowed_amenities=allowed_amenities)
+    for index, distance_in_minutes in enumerate(distances_in_minutes):
+        #get amenties for all types
+        for transport_type in transport_types:
+            print(f"getting amenities for {transport_type}...")
+            if transport_type == "walking":
+                output_file = f'rental_properties_with_walking_{distance_in_minutes}_amenities.json'
+            elif transport_type == "driving":
+                output_file = f'rental_properties_with_driving_{distance_in_minutes}_amenities.json'
+            else:
+                output_file = f'rental_properties_with_radius_{radiuses[index]}_amenities.json'
+            add_amenities_to_properties(input_file, output_file, transport_type, radius=radiuses[index], distance_in_minutes=distance_in_minutes, allowed_amenities=allowed_amenities)
     print("all done!")
 
 
