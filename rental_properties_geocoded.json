@@ -1,0 +1,980 @@
+{"address": "Bläsiring 10, 4057 Basel", "price": "CHF 2’880.– / Monat", "lat": 47.5683969, "lon": 7.5871397}
+{"address": "Erlenmattstr. 79, 4058 Basel", "price": "CHF 2’880.– / Monat", "lat": 47.5701012, "lon": 7.6034944}
+{"address": "Erlenmattstr. 81, 4058 Basel", "price": "CHF 2’880.– / Monat", "lat": 47.5699218, "lon": 7.6036353}
+{"address": "Muttenzerstrasse 129, 4127 Birsfelden", "price": "CHF 2’880.– / Monat", "lat": 47.5447189, "lon": 7.62688715}
+{"address": "Volkmarstrasse 15, 8006 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.38532765, "lon": 8.543725200223658}
+{"address": "Hölzliweg 9, 8405 Winterthur", "price": "CHF 2’880.– / Monat", "lat": 47.4859972, "lon": 8.77093975}
+{"address": "Bucheggstrasse 130, 8057 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.39817607643384, "lon": 8.53650116095477}
+{"address": "Weidmannstrasse 13, 8046 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.42325975, "lon": 8.502611041329322}
+{"address": "Erlenmattstr. 81, 4058 Basel", "price": "CHF 2’880.– / Monat", "lat": 47.5699218, "lon": 7.6036353}
+{"address": "Erlenmattstr. 75, 4058 Basel", "price": "CHF 2’880.– / Monat", "lat": 47.5705088, "lon": 7.6031744}
+{"address": "Bellerivestrasse 49, 8008 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.3566457, "lon": 8.551761367777775}
+{"address": "Guggistrasse 14 A, 6005 Luzern", "price": "CHF 2’880.– / Monat", "lat": 47.0442778, "lon": 8.2996906}
+{"address": "Chemin des Buclines, 1223 Cologny", "price": "CHF 2’880.– / Monat", "lat": 46.20714761985418, "lon": 6.1937325206598555}
+{"address": "Hagenholzstrasse 55, 8050 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.4146839, "lon": 8.5548323}
+{"address": "Erlenmattstr. 67, 4058 Basel", "price": "CHF 2’880.– / Monat", "lat": 47.5702203, "lon": 7.6026203}
+{"address": "Ahornweg 23, 2542 Pieterlen", "price": "CHF 2’880.– / Monat", "lat": 47.17285930609854, "lon": 7.338240061537902}
+{"address": "Käferholzstrasse 48, 8057 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.4021195, "lon": 8.532901204787251}
+{"address": "Fachstrasse 10A, 8942 Oberrieden", "price": "CHF 2’880.– / Monat", "lat": 47.2800669, "lon": 8.5778404}
+{"address": "Rue de la Fonderie 2, 1957 Ardon", "price": "CHF 2’880.– / Monat", "lat": 46.2126158, "lon": 7.2592384}
+{"address": "Anna-Heer-Strasse 16, 8057 Zürich", "price": "CHF 2’880.– / Monat", "lat": 47.3995807, "lon": 8.541604131681714}
+{"address": "Anna-Heer-Strasse 14, 8057 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.3997054, "lon": 8.541471626099582}
+{"address": "Spinnereistr. 2, 8192 Glattfelden", "price": "CHF 4’170.– / Monat", "lat": 47.5561854, "lon": 8.5011681}
+{"address": "Anna-Heer-Strasse 14, 8057 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.3997054, "lon": 8.541471626099582}
+{"address": "Anna-Heer-Strasse 16, 8057 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.3995807, "lon": 8.541604131681714}
+{"address": "Hagenholzstrasse 55, 8050 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.4146839, "lon": 8.5548323}
+{"address": "Zürcherstrasse 100, 8800 Thalwil", "price": "CHF 4’170.– / Monat", "lat": 47.2898797, "lon": 8.5602706}
+{"address": "Zürcherstrasse 100, 8800 Thalwil", "price": "CHF 4’170.– / Monat", "lat": 47.2898797, "lon": 8.5602706}
+{"address": "Landstrasse 8, 4452 Itingen", "price": "CHF 4’170.– / Monat", "lat": 47.4675898, "lon": 7.7813654}
+{"address": "Leerber 16, 5722 Gränichen", "price": "CHF 4’170.– / Monat", "lat": 47.3582355916191, "lon": 8.102339868051248}
+{"address": "Anna-Heer-Strasse 14, 8057 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.3997054, "lon": 8.541471626099582}
+{"address": "Schwendetalstrasse 13, 9057 Schwende", "price": "CHF 4’170.– / Monat", "lat": 47.30717810735074, "lon": 9.435084607601722}
+{"address": "Spinnereistr. 2, 8192 Glattfelden", "price": "CHF 4’170.– / Monat", "lat": 47.5561854, "lon": 8.5011681}
+{"address": "Hubenstrasse 19, 8057 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.4034427, "lon": 8.559250955954088}
+{"address": "Hohlstrasse 212, 8004 Zurich", "price": "CHF 4’170.– / Monat", "lat": 47.38223105, "lon": 8.516862452975728}
+{"address": "Kirchgasse 4, 8524 Uesslingen", "price": "CHF 4’170.– / Monat", "lat": 47.580021599999995, "lon": 8.829747663121518}
+{"address": "Sonneggstr. 41, 8006 Zürich", "price": "CHF 4’170.– / Monat", "lat": 47.380462, "lon": 8.545837108916057}
+{"address": "Bifitstrasse 80, 3145 Niederscherli", "price": "CHF 4’170.– / Monat", "lat": 46.881679649999995, "lon": 7.382850310572916}
+{"address": "Talstrasse 23, 4112 Flüh", "price": "CHF 4’170.– / Monat", "lat": 47.4860836, "lon": 7.498951124978069}
+{"address": "Oberdorfgasse 39, 4107 Ettingen", "price": "CHF 4’170.– / Monat", "lat": 47.4762327, "lon": 7.5453864}
+{"address": "Centralstrasse 25, 2540 Grenchen", "price": "CHF 4’170.– / Monat", "lat": 47.19389355, "lon": 7.395187744893286}
+{"address": "Im Heugarten 47, 8617 Mönchaltorf", "price": "CHF 5’520.– / Monat", "lat": 47.3090093, "lon": 8.725236969259775}
+{"address": "Saumackerstrasse 28, 8048 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.3887156, "lon": 8.488407815217391}
+{"address": "Seestrasse 51, 8805 Richterswil", "price": "CHF 5’520.– / Monat", "lat": 47.2124572, "lon": 8.702375165932201}
+{"address": "Rue du Léman 32, 1920 Martigny", "price": "CHF 5’520.– / Monat", "lat": 46.1061874, "lon": 7.0731912}
+{"address": "Seestrasse 623, 8706 Meilen", "price": "CHF 5’520.– / Monat", "lat": 47.267748350000005, "lon": 8.642523801279976}
+{"address": "Schlösslistrasse 13, 8044 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.385263, "lon": 8.556671469917257}
+{"address": "Via Capriccio 16, 6855 Stabio", "price": "CHF 5’520.– / Monat", "lat": 45.848677963641954, "lon": 8.933513949249786}
+{"address": "Sonneggstr. 41, 8006 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.380462, "lon": 8.545837108916057}
+{"address": "Underem Berg 9, 8475 Ossingen", "price": "CHF 5’520.– / Monat", "lat": 47.61406635, "lon": 8.722711651898727}
+{"address": "Weidächerstrasse 15, 8706 Meilen", "price": "CHF 5’520.– / Monat", "lat": 47.26558625, "lon": 8.666853060657653}
+{"address": "Hauptstrasse 24, 8114 Dänikon ZH", "price": "CHF 5’520.– / Monat", "lat": 47.4460003, "lon": 8.406764497030906}
+{"address": "Siewerdtstrasse 75, 8050 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.41222707079166, "lon": 8.554573319832105}
+{"address": "Passage Perdonnet 1, 1005 Lausanne", "price": "CHF 5’520.– / Monat", "lat": 46.520913, "lon": 6.640209787160385}
+{"address": "Rotwandstrasse 66, 8004 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.3758876, "lon": 8.5294158}
+{"address": "Kapfstrasse 31, 8032 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.36278985, "lon": 8.570155449194985}
+{"address": "Wallenrütistrasse 16, 8234 Stetten SH", "price": "CHF 5’520.– / Monat", "lat": 47.73463605, "lon": 8.656805457356477}
+{"address": "Hinterbergstrasse 106, 8044 Zürich", "price": "CHF 5’520.– / Monat", "lat": 47.38514105, "lon": 8.559907746084386}
+{"address": "Grabenweg 15, 8484 Weisslingen", "price": "CHF 5’520.– / Monat", "lat": 47.42847146408095, "lon": 8.769254069734341}
+{"address": "Asylstrasse 14, 8953 Dietikon", "price": "CHF 5’520.– / Monat", "lat": 47.40164435, "lon": 8.405244750457825}
+{"address": "Baumgartenweg 3, 4416 Bubendorf", "price": "CHF 5’520.– / Monat", "lat": 47.4514301, "lon": 7.7376953}
+{"address": "6353 Weggis", "price": "CHF 18’630.– / Monat", "lat": 47.03189628530987, "lon": 8.433771373374139}
+{"address": "Binzallee 11, 8055 Zurich", "price": "CHF 18’630.– / Monat", "lat": 47.3637737, "lon": 8.5165243}
+{"address": "Zollstrasse 14, 8219 Trasadingen", "price": "CHF 18’630.– / Monat", "lat": 47.66409265, "lon": 8.433804350000003}
+{"address": "Ilbachstrasse 14, 4228 Erschwil", "price": "CHF 18’630.– / Monat", "lat": 47.3750290204464, "lon": 7.536895680856094}
+{"address": "Allée Charles Edouard Guillaume 3, 1723 Marly", "price": "CHF 18’630.– / Monat", "lat": 46.77652935478131, "lon": 7.155262363082695}
+{"address": "Rietstrasse 6, 8702 Zollikon", "price": "CHF 18’630.– / Monat", "lat": 47.3461825, "lon": 8.576322881476464}
+{"address": "Rue des Epinettes, 1227 Carouge", "price": "CHF 18’630.– / Monat", "lat": 46.18874213266147, "lon": 6.137177738468982}
+{"address": "Röschenzerstrasse, 4053 Basel", "price": "CHF 18’630.– / Monat", "lat": 47.54061313569169, "lon": 7.587552213860931}
+{"address": "Böndlerstrasse 54, 8802 Kilchberg ZH", "price": "CHF 18’630.– / Monat", "lat": 47.31596745, "lon": 8.54880834858756}
+{"address": "Grossfeldstrasse 7, 6010 Kriens", "price": "CHF 18’630.– / Monat", "lat": 47.0332402, "lon": 8.283929931561875}
+{"address": "Pfistergasse 15, 4800 Zofingen", "price": "CHF 18’630.– / Monat", "lat": 47.2871885, "lon": 7.945703}
+{"address": "Gmeindrütistrasse 11, 8630 Rüti ZH", "price": "CHF 18’630.– / Monat", "lat": 47.26159345881681, "lon": 8.867779674601445}
+{"address": "Bremgarterstrasse 17, 5525 Fischbach-Göslikon", "price": "CHF 18’630.– / Monat", "lat": 47.36498418619837, "lon": 8.31549066098213}
+{"address": "Chemin de Chamblandes 55, 1009 Pully", "price": "CHF 18’630.– / Monat", "lat": 46.5081511, "lon": 6.644447980223605}
+{"address": "Sonneggstr. 41, 8006 Zürich", "price": "CHF 18’630.– / Monat", "lat": 47.380462, "lon": 8.545837108916057}
+{"address": "Weiherweg 38, 4054 Basel", "price": "CHF 18’630.– / Monat", "lat": 47.5537867, "lon": 7.5761886}
+{"address": "Rotwandstrasse 66, 8004 Zürich", "price": "CHF 18’630.– / Monat", "lat": 47.3758876, "lon": 8.5294158}
+{"address": "Bachgrabenweg 16, 4123 Allschwil", "price": "CHF 18’630.– / Monat", "lat": 47.5590537, "lon": 7.5554694}
+{"address": "Grabenweg 17, 8484 Weisslingen", "price": "CHF 18’630.– / Monat", "lat": 47.4296268, "lon": 8.76936175209196}
+{"address": "1012 Lausanne", "price": "CHF 18’630.– / Monat", "lat": 46.525320238787025, "lon": 6.654456749929478}
+{"address": "Via Morella, 6900 Lugano", "price": "CHF 1’900.–", "lat": 46.037986599999996, "lon": 8.97931275}
+{"address": "Höhenweg 61, 8965 Berikon", "price": "CHF 1’900.–", "lat": 47.35645731665608, "lon": 8.364022193915872}
+{"address": "Avenue des Alpes 5, 1006 Lausanne", "price": "CHF 1’900.–", "lat": 46.51475925, "lon": 6.638347572447524}
+{"address": "Seefeldstrasse 104, 8008 Zürich", "price": "CHF 1’900.–", "lat": 47.35929725, "lon": 8.5526727}
+{"address": "Karl Stauffer-Strasse, 8008 Zürich", "price": "CHF 1’900.–", "lat": 47.35517074021481, "lon": 8.572854620731947}
+{"address": "Allée Charles Edouard Guillaume 5, 1723 Marly", "price": "CHF 1’900.–", "lat": 46.77652935478131, "lon": 7.155262363082695}
+{"address": "Dietlikerstrasse 64, 8302 Kloten", "price": "CHF 1’900.–", "lat": 47.44329035, "lon": 8.59071275055883}
+{"address": "Schwenkelweg 11, 8645 Rapperswil-Jona", "price": "CHF 1’900.–", "lat": 47.2432192, "lon": 8.811271526203207}
+{"address": "Dorfstrasse 31, 5244 Birrhard", "price": "CHF 1’900.–", "lat": 47.4331612, "lon": 8.2458127}
+{"address": "St. Alban-Anlage 58, 4052 Basel", "price": "CHF 1’900.–", "lat": 47.5525328, "lon": 7.6023191}
+{"address": "Birsfelderstrasse 17, 4052 Basel", "price": "CHF 1’900.–", "lat": 47.5561865, "lon": 7.616146}
+{"address": "Passage des Colombes 5, 1920 Martigny", "price": "CHF 1’900.–", "lat": 46.1091445, "lon": 7.0750882}
+{"address": "Batastrasse 9, 4313 Möhlin", "price": "CHF 1’900.–", "lat": 47.56864815, "lon": 7.8399536096587354}
+{"address": "Säntisstrasse 4, 8118 Pfaffhausen", "price": "CHF 1’900.–", "lat": 47.3615569, "lon": 8.622370391694009}
+{"address": "Hubackerstrasse 12, 8635 Dürnten", "price": "CHF 1’900.–", "lat": 47.27754422756713, "lon": 8.878725016382443}
+{"address": "Oskar Bider-Strasse 7, 8600 Dübendorf", "price": "CHF 1’900.–", "lat": 47.3973501, "lon": 8.62661320540809}
+{"address": "Bremgarterstrasse 17, 5525 Fischbach-Göslikon", "price": "CHF 1’900.–", "lat": 47.36498418619837, "lon": 8.31549066098213}
+{"address": "Bremgarterstrasse 17, 5525 Fischbach-Göslikon", "price": "CHF 1’900.–", "lat": 47.36498418619837, "lon": 8.31549066098213}
+{"address": "Brünnenstrasse 35, 3018 Bern-Bümpliz", "price": "CHF 1’900.–", "lat": 46.9450284, "lon": 7.3837389}
+{"address": "Muhlebachstrasse 30, 8008 Zürich", "price": "CHF 1’900.–", "lat": 47.364692250000004, "lon": 8.55033112306425}
+{"address": "Hofuhrenstrasse 1, 4543 Deitingen", "price": "CHF 2’890.– / Monat", "lat": 47.222646, "lon": 7.614776834117062}
+{"address": "Rotwandstrasse 66, 8004 Zürich", "price": "CHF 2’890.– / Monat", "lat": 47.3758876, "lon": 8.5294158}
+{"address": "Weidstrasse 3, 8754 Netstal", "price": "CHF 2’890.– / Monat", "lat": null, "lon": null}
+{"address": "Talweg 172, 8610 Uster", "price": "CHF 2’890.– / Monat", "lat": 47.3499269, "lon": 8.728389906140471}
+{"address": "Holbeinstrasse 36, 4051 Basel", "price": "CHF 2’890.– / Monat", "lat": 47.5532552, "lon": 7.5845469}
+{"address": "Rue du Moulin 4a, 2732 Reconvilier", "price": "CHF 2’890.– / Monat", "lat": null, "lon": null}
+{"address": "Rue du Moulin 4a, 2732 Reconvilier", "price": "CHF 2’890.– / Monat", "lat": 47.235751524257104, "lon": 7.227042221057059}
+{"address": "Belpstrasse 23, 3007 Bern", "price": "CHF 2’890.– / Monat", "lat": 46.9447507, "lon": 7.4330638}
+{"address": "Merkurstrasse 1, 9000 St. Gallen", "price": "CHF 2’890.– / Monat", "lat": 47.4234406, "lon": 9.371866945326087}
+{"address": "Spinnereistr. 2, 8192 Glattfelden", "price": "CHF 2’890.– / Monat", "lat": 47.5561854, "lon": 8.5011681}
+{"address": "Bernerstrasse S 169, 8048 Zürich", "price": "CHF 2’890.– / Monat", "lat": 47.3959693235867, "lon": 8.481302211449924}
+{"address": "Willikonerstrasse 46, 8618 Oetwil am See", "price": "CHF 2’890.– / Monat", "lat": 47.2673125, "lon": 8.727074}
+{"address": "Rue de Contamines 16, 1206 Genève", "price": "CHF 2’890.– / Monat", "lat": 46.1967836, "lon": 6.1559984}
+{"address": "Landenbergstrasse 3a, 6005 Lucerne", "price": "CHF 2’890.– / Monat", "lat": 47.04267545, "lon": 8.320934090220995}
+{"address": "1922 Salvan", "price": "CHF 2’890.– / Monat", "lat": 46.12434650149254, "lon": 7.018213599402985}
+{"address": "Kühneweg 20, 6020 Emmen", "price": "CHF 2’890.– / Monat", "lat": 47.0802389, "lon": 8.277798730573746}
+{"address": "Oberhallauerstrasse 4, 8215 Hallau", "price": "CHF 2’890.– / Monat", "lat": 47.6975576, "lon": 8.4650174}
+{"address": "Badenerstrasse 12, 8953 Dietikon", "price": "CHF 2’890.– / Monat", "lat": 47.40589815, "lon": 8.39862565}
+{"address": "Seestrasse, 6204 Sempach", "price": "CHF 2’890.– / Monat", "lat": 47.137883811385855, "lon": 8.19070639072205}
+{"address": "Rue Mauborget 6, 1003 Lausanne", "price": "CHF 2’890.– / Monat", "lat": 46.522865350000004, "lon": 6.628976650364546}
+{"address": "Via San Gottardo 28, 6500 Bellinzona", "price": "CHF 620.– / Monat", "lat": 46.1522571, "lon": 8.952995393471355}
+{"address": "8107 Buchs ZH", "price": "CHF 620.– / Monat", "lat": 47.45711328414518, "lon": 8.43730061365807}
+{"address": "Waldeggweg 2a, 8302 Kloten", "price": "CHF 620.– / Monat", "lat": 47.4408747, "lon": 8.575733}
+{"address": "Engstringerstrasse 54, 8952 Schlieren", "price": "CHF 620.– / Monat", "lat": 47.4077604, "lon": 8.448176698974663}
+{"address": "8272 Ermatingen", "price": "CHF 620.– / Monat", "lat": 47.669418659730724, "lon": 9.081911619706242}
+{"address": "Freiburgstrasse 446, 3018 Berna", "price": "CHF 620.– / Monat", "lat": 46.9332898, "lon": 7.389619250795455}
+{"address": "Gamlikon 14, 8143 Stallikon", "price": "CHF 620.– / Monat", "lat": 47.31393665, "lon": 8.494276606367318}
+{"address": "Route du Chasseur 30 bis, 1008 Prilly", "price": "CHF 620.– / Monat", "lat": 46.5369511202113, "lon": 6.606352814058171}
+{"address": "Plaz, 7546 Ardez", "price": "CHF 620.– / Monat", "lat": null, "lon": null}
+{"address": "8152 Opfikon", "price": "CHF 620.– / Monat", "lat": 47.429687660338985, "lon": 8.568407220813558}
+{"address": "3780 Gstaad", "price": "CHF 620.– / Monat", "lat": 46.4761004, "lon": 7.2873587}
+{"address": "Route de Cossonay 57, 1008 Prilly", "price": "CHF 620.– / Monat", "lat": 46.5371779, "lon": 6.601186397571567}
+{"address": "Champs Saint-Martin 41, 2942 Alle", "price": "CHF 620.– / Monat", "lat": 47.4229949, "lon": 7.1260547}
+{"address": "Tannwaldweg 6, 4112 Hofstetten-Flüh", "price": "CHF 620.– / Monat", "lat": 47.483485, "lon": 7.493989299450808}
+{"address": "Gotthardstrasse 1, 8248 Laufen-Uhwiesen", "price": "CHF 620.– / Monat", "lat": 47.6712717, "lon": 8.637511549779248}
+{"address": "Rotwandstrasse 66, 8004 Zürich", "price": "CHF 620.– / Monat", "lat": 47.3758876, "lon": 8.5294158}
+{"address": "Seengerstrasse 28, 5706 Boniswil", "price": "CHF 620.– / Monat", "lat": 47.31804, "lon": 8.1878031}
+{"address": "Rotbuchstrasse 9, 8006 Zürich", "price": "CHF 620.– / Monat", "lat": 47.390825199999995, "lon": 8.537652620686456}
+{"address": "St. Gallerstrasse 194, 9548 Matzingen", "price": "CHF 620.– / Monat", "lat": 47.51751048716474, "lon": 8.93554946066718}
+{"address": "St. Gallerstrasse 194, 9548 Matzingen", "price": "CHF 620.– / Monat", "lat": 47.51751048716474, "lon": 8.93554946066718}
+{"address": "Dorfgasse 4, 8708 Männedorf", "price": "CHF 7’260.– / Monat", "lat": 47.2552406, "lon": 8.688731842874493}
+{"address": "Im Rickenbacherfeld 11, 4612 Wangen b. Olten", "price": "CHF 7’260.– / Monat", "lat": null, "lon": null}
+{"address": "Im Rickenbacherfeld 11, 4612 Wangen b. Olten", "price": "CHF 7’260.– / Monat", "lat": null, "lon": null}
+{"address": "Im Rickenbacherfeld 11, 4612 Wangen b. Olten", "price": "CHF 7’260.– / Monat", "lat": null, "lon": null}
+{"address": "Teichgässlein 9 / Webergasse 34, 4053 Basel", "price": "CHF 7’260.– / Monat", "lat": null, "lon": null}
+{"address": "Mattenstrasse 81, 2503 Biel", "price": "CHF 7’260.– / Monat", "lat": 47.13653564014356, "lon": 7.254708116929318}
+{"address": "Alleestrasse 7, 2503 Biel", "price": "CHF 7’260.– / Monat", "lat": 47.13458171730643, "lon": 7.254391997657591}
+{"address": "Alleestrasse 7, 2503 Biel", "price": "CHF 7’260.– / Monat", "lat": 47.13458171730643, "lon": 7.254391997657591}
+{"address": "Mostelbergstrasse 3B, 6417 Sattel", "price": "CHF 7’260.– / Monat", "lat": 47.0765973, "lon": 8.6326847}
+{"address": "Chemin du Devin 47B, 1012 Lausanne", "price": "CHF 7’260.– / Monat", "lat": 46.5316201, "lon": 6.6519271}
+{"address": "Rütistrasse 4, 8032 Zürich", "price": "CHF 7’260.– / Monat", "lat": 47.3685518, "lon": 8.56076049670398}
+{"address": "Reimen 2, 8775 Hätzingen", "price": "CHF 7’260.– / Monat", "lat": 46.9591892, "lon": 9.032821053279804}
+{"address": "Goldschlägiplatz 1, 8952 Schlieren", "price": "CHF 7’260.– / Monat", "lat": 47.4002669, "lon": 8.4408926}
+{"address": "Chemin Edgar Rouge 2b, 1525 Henniez", "price": "CHF 7’260.– / Monat", "lat": 46.740842087136514, "lon": 6.880992643903269}
+{"address": "8623 Wetzikon ZH", "price": "CHF 7’260.– / Monat", "lat": 47.331947779107985, "lon": 8.815287635054773}
+{"address": "Seefeldstrasse 231, 8008 Zürich", "price": "CHF 7’260.– / Monat", "lat": 47.3515728, "lon": 8.5610673}
+{"address": "Mülhauserstrasse, 4056 Basel", "price": "CHF 7’260.– / Monat", "lat": 47.56715671323375, "lon": 7.577037294298449}
+{"address": "Henri-Mussard, 1208 Genève", "price": "CHF 7’260.– / Monat", "lat": 46.19796704258514, "lon": 6.162689956283832}
+{"address": "Eichelwiesenstrasse 4, 8305 Dietlikon", "price": "CHF 7’260.– / Monat", "lat": 47.4205726, "lon": 8.620340136638688}
+{"address": "Rotwandstrasse 66, 8004 Zürich", "price": "CHF 7’260.– / Monat", "lat": 47.3758876, "lon": 8.5294158}
+{"address": "Rotwandstrasse 66, 8004 Zürich", "price": "CHF 4’020.– / Monat", "lat": 47.3758876, "lon": 8.5294158}
+{"address": "Industrieplatz 2, 8212 Neuhausen", "price": "CHF 4’020.– / Monat", "lat": 47.678848450000004, "lon": 8.618526866674316}
+{"address": "Bildstrasse, 9030 Abtwil SG", "price": "CHF 4’020.– / Monat", "lat": 47.42004857576465, "lon": 9.31458970304635}
+{"address": "Aufhabenweg 3, 4900 Langenthal", "price": "CHF 4’020.– / Monat", "lat": 47.21036155, "lon": 7.794828992613875}
+{"address": "Riva Paradiso, 6900 Paradiso", "price": "CHF 4’020.– / Monat", "lat": 45.98833054283855, "lon": 8.955053953159664}
+{"address": "Rue de la Croix-d'Or, 1204 Genève", "price": "CHF 4’020.– / Monat", "lat": 46.20258844372848, "lon": 6.149231022640383}
+{"address": "Birkenstrasse 2, 4144 Arlesheim", "price": "CHF 4’020.– / Monat", "lat": 47.497051400000004, "lon": 7.564314100000001}
+{"address": "Allée Charles Edouard Guillaume 3, 1723 Marly", "price": "CHF 4’020.– / Monat", "lat": 46.77652935478131, "lon": 7.155262363082695}
+{"address": "3280 Murten", "price": "CHF 4’020.– / Monat", "lat": 46.92391518978583, "lon": 7.1162434390444815}
+{"address": "4852 Rothrist", "price": "CHF 4’020.– / Monat", "lat": 47.30250085833333, "lon": 7.887098213930347}
+{"address": "Brückmattstrasse 3, 4441 Thürnen", "price": "CHF 4’020.– / Monat", "lat": 47.4585327, "lon": 7.826944963335787}
+{"address": "Schöngrundweg 6, 4144 Arlesheim", "price": "CHF 4’020.– / Monat", "lat": 47.4881609, "lon": 7.6231777}
+{"address": "Rue du Jura 7, 1196 Gland", "price": "CHF 4’020.– / Monat", "lat": 46.424138049999996, "lon": 6.263368286486378}
+{"address": "Chemin de Cuard 2, 2022 Bevaix", "price": "CHF 4’020.– / Monat", "lat": 46.9319525, "lon": 6.8128406}
+{"address": "Rue Auguste-Quiquerez 16, 2800 Delémont", "price": "CHF 4’020.– / Monat", "lat": 47.36996555, "lon": 7.35719085}
+{"address": "Militärstrasse 106, 8004 Zürich", "price": "CHF 4’020.– / Monat", "lat": 47.3792981, "lon": 8.528828562868632}
+{"address": "Schwalbenstrasse 1a, 8374 Dussnang", "price": "CHF 4’020.– / Monat", "lat": 47.438624995832825, "lon": 8.967076133166168}
+{"address": "St. Gallerstrasse 194, 9548 Matzingen", "price": "CHF 4’020.– / Monat", "lat": 47.51751048716474, "lon": 8.93554946066718}
+{"address": "Riva Paradiso 18, 6900 Paradiso", "price": "CHF 4’020.– / Monat", "lat": 45.98833054283855, "lon": 8.955053953159664}
+{"address": "Place du Bourg-de-Four, 1204 Genève", "price": "CHF 4’020.– / Monat", "lat": 46.200590397406856, "lon": 6.1492850817568225}
+{"address": "Chemin de Bonne-Espérance, 1006 Lausanne", "price": "CHF 1’530.– / Monat", "lat": 46.5137693, "lon": 6.64813095}
+{"address": "Route des Arsenaux, 1700 Fribourg", "price": "CHF 1’530.– / Monat", "lat": 46.80234615042749, "lon": 7.151277144027662}
+{"address": "6319 Allenwinden", "price": "CHF 1’530.– / Monat", "lat": 47.1642467, "lon": 8.5559123}
+{"address": "Stationsstrasse 40, 8606 Nänikon", "price": "CHF 1’530.– / Monat", "lat": 47.370981632801765, "lon": 8.691602069188155}
+{"address": "Stationsstrasse 40, 8606 Nänikon", "price": "CHF 1’530.– / Monat", "lat": 47.370981632801765, "lon": 8.691602069188155}
+{"address": "Buchholzstrasse 9, 8053 Zürich", "price": "CHF 1’530.– / Monat", "lat": 47.36008005, "lon": 8.584235621294921}
+{"address": "Buchholzstrasse 9, 8053 Zürich", "price": "CHF 1’530.– / Monat", "lat": 47.36008005, "lon": 8.584235621294921}
+{"address": "Wankdorffeldstrasse 103, 3014 Bern", "price": "CHF 1’530.– / Monat", "lat": 46.9645669, "lon": 7.4576422}
+{"address": "Rue Charles-Giron 14, 1203 Genève", "price": "CHF 1’530.– / Monat", "lat": 46.2062582, "lon": 6.1287819}
+{"address": "Avenue Louis-Casaï, 1215 Genève 15 Aéroport", "price": "CHF 1’530.– / Monat", "lat": null, "lon": null}
+{"address": "Parkweg 1, 5610 Wohlen", "price": "CHF 1’530.– / Monat", "lat": 47.35266795, "lon": 8.276408510810935}
+{"address": "Parkweg 1, 5610 Wohlen", "price": "CHF 1’530.– / Monat", "lat": 47.35266795, "lon": 8.276408510810935}
+{"address": "Parkweg 1, 5610 Wohlen", "price": "CHF 1’530.– / Monat", "lat": 47.35266795, "lon": 8.276408510810935}
+{"address": "Dorfstrasse 14, 8536 Hüttwilen", "price": "CHF 1’530.– / Monat", "lat": 47.60958400871186, "lon": 8.874056531881356}
+{"address": "Wibergstrasse 41, 8180 Bülach", "price": "CHF 1’530.– / Monat", "lat": 47.52078910660015, "lon": 8.546722507633008}
+{"address": "Rue Rousseau, 1201 Genève", "price": "CHF 1’530.– / Monat", "lat": 46.20658246136488, "lon": 6.144387408041137}
+{"address": "Krankenhausstrasse 3, 3672 Oberdiessbach", "price": "CHF 1’530.– / Monat", "lat": 46.83869279425274, "lon": 7.621472699721271}
+{"address": "3324 Hindelbank", "price": "CHF 1’530.– / Monat", "lat": 47.04506483390728, "lon": 7.54374995245033}
+{"address": "Mythenquai 353, 8038 Zürich", "price": "CHF 1’530.– / Monat", "lat": 47.34537705, "lon": 8.534918838760948}
+{"address": "Sonnenbergstrasse 16, 8032 Zürich", "price": "CHF 1’530.– / Monat", "lat": 47.3659841, "lon": 8.56693383994975}
+{"address": "Zeughausstrasse 3, 8004 Zürich", "price": "CHF 3’870.– / Monat", "lat": 47.3746475, "lon": 8.531878190960995}
+{"address": "Altweg 5 (Haus B), 6264 Pfaffnau", "price": "CHF 3’870.– / Monat", "lat": null, "lon": null}
+{"address": "Buchholzstrasse 19, 8053 Zürich", "price": "CHF 3’870.– / Monat", "lat": 47.36026205, "lon": 8.58390939911855}
+{"address": "Via Schlifras 85, 7130 Ilanz", "price": "CHF 3’870.– / Monat", "lat": 46.7675924813497, "lon": 9.205492693228543}
+{"address": "Florastrasse 53, 8610 Uster", "price": "CHF 3’870.– / Monat", "lat": 47.34717575, "lon": 8.722654225069576}
+{"address": "Im Steinenmüller 6, 4142 Münchenstein", "price": "CHF 3’870.– / Monat", "lat": 47.5241918, "lon": 7.6104038}
+{"address": "Chemin de la Planaz 19, 1807 Blonay", "price": "CHF 3’870.– / Monat", "lat": 46.457493639360436, "lon": 6.8934537586009}
+{"address": "Steinfeldstrasse 19b, 8153 Rümlang", "price": "CHF 3’870.– / Monat", "lat": 47.452723000000006, "lon": 8.527081449999995}
+{"address": "Obstgartenweg 9, 8645 Jona", "price": "CHF 3’870.– / Monat", "lat": 47.23657508329699, "lon": 8.822696823453066}
+{"address": "Höhenstrasse West 2D, 4600 Olten", "price": "CHF 3’870.– / Monat", "lat": 47.343348318088765, "lon": 7.917049235808684}
+{"address": "Junkerstrasse 85, 8238 Büsingen am Hochrhein", "price": "CHF 3’870.– / Monat", "lat": null, "lon": null}
+{"address": "Frohdörfli 28, 5034 Suhr", "price": "CHF 3’870.– / Monat", "lat": 47.367286899999996, "lon": 8.081614202391894}
+{"address": "Oberdorfstrasse 5c, 5612 Villmergen", "price": "CHF 3’870.– / Monat", "lat": 47.34521709887833, "lon": 8.244428300777432}
+{"address": "Route de Lugnez 32, 2924 Montignez", "price": "CHF 3’870.– / Monat", "lat": 47.48666734756893, "lon": 7.066875694260591}
+{"address": "Route, 1236 Cartigny", "price": "CHF 3’870.– / Monat", "lat": null, "lon": null}
+{"address": "Wiesenstrasse 11, 2540 Grenchen", "price": "CHF 3’870.– / Monat", "lat": 47.196409, "lon": 7.395694993822099}
+{"address": "Gärtnerstr. 35/Holderstr. 32, 4057 Basel", "price": "CHF 3’870.– / Monat", "lat": null, "lon": null}
+{"address": "Brombacherstrasse 44, 4057 Basel", "price": "CHF 3’870.– / Monat", "lat": 47.5698504, "lon": 7.5973694}
+{"address": "Zollikerstrasse 275, 8008 Zürich", "price": "CHF 3’870.– / Monat", "lat": 47.34689855, "lon": 8.567435347638552}
+{"address": "Falkensteinerstr. 9, 4053 Basel", "price": "CHF 3’870.– / Monat", "lat": 47.5400615, "lon": 7.6021273}
+{"address": "Tödistrasse 63, 8810 Horgen", "price": "CHF 3’680.– / Monat", "lat": 47.2589398, "lon": 8.5861078}
+{"address": "Hiltiwaldweg 8, 5443 Niederrohrdorf", "price": "CHF 3’680.– / Monat", "lat": 47.425804850000006, "lon": 8.300059147209826}
+{"address": "Avenue Eugène Burnand, 1510 Moudon", "price": "CHF 3’680.– / Monat", "lat": 46.663834107676806, "lon": 6.796740436653159}
+{"address": "Zelgli 2, 8413 Neftenbach", "price": "CHF 3’680.– / Monat", "lat": 47.52363165, "lon": 8.655157029526048}
+{"address": "Steinentorstrasse 14, 4051 Basel", "price": "CHF 3’680.– / Monat", "lat": 47.5520827, "lon": 7.5891929}
+{"address": "Seestrasse 55, 8266 Steckborn", "price": "CHF 3’680.– / Monat", "lat": 47.66837765, "lon": 8.985935925062465}
+{"address": "Tödistrasse 63, 8810 Horgen", "price": "CHF 3’680.– / Monat", "lat": 47.2589398, "lon": 8.5861078}
+{"address": "Riedstrasse 40, 3626 Hünibach", "price": "CHF 3’680.– / Monat", "lat": 46.749756000000005, "lon": 7.645871996003282}
+{"address": "Riedstrasse 40, 3626 Hünibach", "price": "CHF 3’680.– / Monat", "lat": 46.749756000000005, "lon": 7.645871996003282}
+{"address": "Landstrasse 48, 8750 Glarus", "price": "CHF 3’680.– / Monat", "lat": 47.04537765, "lon": 9.062219999403919}
+{"address": "1222 Vésenaz", "price": "CHF 3’680.– / Monat", "lat": 46.2399181, "lon": 6.1982222}
+{"address": "Ferrajo, 1468 Cheyres", "price": "CHF 3’680.– / Monat", "lat": 46.8188698970769, "lon": 6.79087485002364}
+{"address": "Thurgauerstrasse 107, 8152 Opfikon", "price": "CHF 3’680.– / Monat", "lat": 47.42274065, "lon": 8.557988986206166}
+{"address": "Fraumattstrasse 12, 4410 Liestal", "price": "CHF 3’680.– / Monat", "lat": 47.492626099999995, "lon": 7.728784574275336}
+{"address": "8640 Rapperswil", "price": "CHF 3’680.– / Monat", "lat": 47.22682681254579, "lon": 8.82190953580586}
+{"address": "Rue des Alpes 62, 1023 Crissier", "price": "CHF 3’680.– / Monat", "lat": 46.54070134293022, "lon": 6.579657691592629}
+{"address": "Widenplatz 12, 5070 Frick", "price": "CHF 3’680.– / Monat", "lat": 47.507388899999995, "lon": 8.022840880760747}
+{"address": "Haingartenstrasse 36, 8215 Hallau", "price": "CHF 3’680.– / Monat", "lat": 47.69473618791175, "lon": 8.45912701492628}
+{"address": "Haingartenstrasse 36, 8215 Hallau", "price": "CHF 3’680.– / Monat", "lat": 47.69473618791175, "lon": 8.45912701492628}
+{"address": "8640 Rapperswil", "price": "CHF 3’680.– / Monat", "lat": 47.22682681254579, "lon": 8.82190953580586}
+{"address": "Grederstrasse 66, 4512 Bellach", "price": "CHF 1’810.– / Monat", "lat": 47.21138181008529, "lon": 7.509765695537941}
+{"address": "Hofwiesenstrasse 107, 8105 Regensdorf", "price": "CHF 1’810.– / Monat", "lat": 47.4287115, "lon": 8.474126199999999}
+{"address": "Rue des Charpentiers 6, 1110 Morges", "price": "CHF 1’810.– / Monat", "lat": 46.5107983, "lon": 6.4972875}
+{"address": "Wiesenstrasse 9, 2540 Grenchen", "price": "CHF 1’810.– / Monat", "lat": 47.19621789999999, "lon": 7.395377251455352}
+{"address": "Hardturmstrasse, 8005 Zürich", "price": "CHF 1’810.– / Monat", "lat": 47.3909137320677, "lon": 8.521390117364133}
+{"address": "Amriswilerstrasse 17, 8589 Sitterdorf", "price": "CHF 1’810.– / Monat", "lat": 47.50329214040986, "lon": 9.247335259948304}
+{"address": "Goldbachweg 26, 4058 Basel", "price": "CHF 1’810.– / Monat", "lat": 47.57088108498735, "lon": 7.601832794308766}
+{"address": "1093 La Conversion", "price": "CHF 1’810.– / Monat", "lat": 46.50579258507006, "lon": 6.685744899804894}
+{"address": "Langgasse 74, 9008 St. Gallen", "price": "CHF 1’810.– / Monat", "lat": 47.43910325, "lon": 9.39094039442598}
+{"address": "Langgasse 74, 9008 St. Gallen", "price": "CHF 1’810.– / Monat", "lat": 47.43910325, "lon": 9.39094039442598}
+{"address": "Langgasse 74, 9008 St. Gallen", "price": "CHF 1’810.– / Monat", "lat": 47.43910325, "lon": 9.39094039442598}
+{"address": "Langgasse 74, 9008 St. Gallen", "price": "CHF 1’810.– / Monat", "lat": 47.43910325, "lon": 9.39094039442598}
+{"address": "Langgasse 74, 9008 St. Gallen", "price": "CHF 1’810.– / Monat", "lat": 47.43910325, "lon": 9.39094039442598}
+{"address": "Langgasse 74, 9008 St. Gallen", "price": "CHF 1’810.– / Monat", "lat": 47.43910325, "lon": 9.39094039442598}
+{"address": "Kapellenweg 3, 5462 Siglistorf", "price": "CHF 1’810.– / Monat", "lat": 47.5457979, "lon": 8.3804154}
+{"address": "Kyburgstrasse 27, 8037 Zürich", "price": "CHF 1’810.– / Monat", "lat": 47.39301815, "lon": 8.526413761037087}
+{"address": "Avenue Ernest Biéler 12, 1800 Vevey", "price": "CHF 1’810.– / Monat", "lat": 46.46546535, "lon": 6.850341555552301}
+{"address": "1218 Le Grand-Saconnex", "price": "CHF 1’810.– / Monat", "lat": 46.23095772985074, "lon": 6.12115087238806}
+{"address": "Viale Stazione 21, 6500 Bellinzona", "price": "CHF 1’810.– / Monat", "lat": 46.19253788886129, "lon": 9.024526792034687}
+{"address": "Doktorsträssli 5a, 4704 Niederbipp", "price": "CHF 1’810.– / Monat", "lat": 47.27176935, "lon": 7.692159349387261}
+{"address": "Langenhagweg 9, 4123 Allschwil", "price": "CHF 2’820.– / Monat", "lat": 47.5484145, "lon": 7.5549351}
+{"address": "Via F. Borromini 29, 6500 Bellinzona", "price": "CHF 2’820.– / Monat", "lat": null, "lon": null}
+{"address": "Bartholoméplatz 3, 7310 Bad Ragaz", "price": "CHF 2’820.– / Monat", "lat": 47.003111849999996, "lon": 9.501156906929587}
+{"address": "Via Valle Maggia 13, 6600 Locarno", "price": "CHF 2’820.– / Monat", "lat": null, "lon": null}
+{"address": "Käferholzstrasse 60, 8057 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.402542600000004, "lon": 8.532090116551142}
+{"address": "Gestadeckplatz 6, 4410 Liestal", "price": "CHF 2’820.– / Monat", "lat": 47.4858593, "lon": 7.7372948}
+{"address": "Gerbergasse 70, 4001 Basel", "price": "CHF 2’820.– / Monat", "lat": 47.5553964, "lon": 7.5887611}
+{"address": "Oltenstrasse 5, 4536 Attiswil", "price": "CHF 2’820.– / Monat", "lat": 47.247339749999995, "lon": 7.614345777672844}
+{"address": "Jurastrasse 77, 2540 Grenchen", "price": "CHF 2’820.– / Monat", "lat": 47.198566400000004, "lon": 7.405474556029022}
+{"address": "Via Lischedo 3, 6802 Rivera", "price": "CHF 2’820.– / Monat", "lat": 46.12438468378332, "lon": 8.92242729216895}
+{"address": "Via F. Borromini 27, 6500 Bellinzona", "price": "CHF 2’820.– / Monat", "lat": null, "lon": null}
+{"address": "Via Sasso Corbaro 23, 6593 Cadenazzo", "price": "CHF 2’820.– / Monat", "lat": 46.15130057952928, "lon": 8.944419531213565}
+{"address": "Wiesenstrasse 4, 8580 Amriswil", "price": "CHF 2’820.– / Monat", "lat": 47.54249645, "lon": 9.30764684798977}
+{"address": "Via alla Bozzoreda 37, 6963 Pregassona", "price": "CHF 2’820.– / Monat", "lat": 46.02280509950002, "lon": 8.96948735653444}
+{"address": "Via Lischedo 3, 6802 Rivera", "price": "CHF 2’820.– / Monat", "lat": 46.12438468378332, "lon": 8.92242729216895}
+{"address": "Via San Gottardo 58a, 6500 Bellinzona", "price": "CHF 2’820.– / Monat", "lat": 46.201699475922474, "lon": 9.033391529636988}
+{"address": "Frank-Buchserstrasse 3, 4532 Feldbrunnen", "price": "CHF 2’820.– / Monat", "lat": 47.2198489, "lon": 7.5552774}
+{"address": "Le Grand-Chemin 126, 1066 Epalinges", "price": "CHF 2’820.– / Monat", "lat": 46.550450999999995, "lon": 6.681119175}
+{"address": "Leutschenbachstrasse 50/50a, 8050 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.41698710277659, "lon": 8.556155144939847}
+{"address": "Im Schänzli 101-103, 4132 Muttenz", "price": "CHF 2’820.– / Monat", "lat": 47.537875746388835, "lon": 7.62580170557377}
+{"address": "Marktstrasse 3, 4512 Bellach", "price": "CHF 1’950.– / Monat", "lat": 47.2098593, "lon": 7.5088179}
+{"address": "Viale Stazione 21, 6500 Bellinzona", "price": "CHF 1’950.– / Monat", "lat": 46.19253788886129, "lon": 9.024526792034687}
+{"address": "Vulpera 32, 7552 Vulpera", "price": "CHF 1’950.– / Monat", "lat": 46.7866961, "lon": 10.284163}
+{"address": "St. Jakobstrasse 46, 4147 Aesch BL", "price": "CHF 1’950.– / Monat", "lat": 47.4786529, "lon": 7.5974942}
+{"address": "Via Sasso Corbaro 19, 6593 Cadenazzo", "price": "CHF 1’950.– / Monat", "lat": 46.15130057952928, "lon": 8.944419531213565}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 1’950.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 1’950.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "Niederfeldstrasse 8, 8932 Mettmenstetten", "price": "CHF 1’950.– / Monat", "lat": 47.24654755, "lon": 8.46642889948233}
+{"address": "Hofackerstrasse 6e, 8157 Dielsdorf", "price": "CHF 1’950.– / Monat", "lat": 47.4854882, "lon": 8.4560237}
+{"address": "Schwaderloch 7, 8253 Diessenhofen", "price": "CHF 1’950.– / Monat", "lat": 47.6902444, "lon": 8.751494199917264}
+{"address": "St. Gallerstrasse 56 A, 9500 Wil SG", "price": "CHF 1’950.– / Monat", "lat": 47.46412415, "lon": 9.058282709405894}
+{"address": "Via Monte Carmen 13, 6900 Lugano", "price": "CHF 1’950.– / Monat", "lat": 46.013463099999996, "lon": 8.952825049999998}
+{"address": "Langenhagweg 9, 4123 Allschwil", "price": "CHF 1’950.– / Monat", "lat": 47.5484145, "lon": 7.5549351}
+{"address": "Langenhagweg 7, 4123 Allschwil", "price": "CHF 1’950.– / Monat", "lat": 47.5481697, "lon": 7.5546643}
+{"address": "Via Sasso Corbaro 17, 6593 Cadenazzo", "price": "CHF 1’950.– / Monat", "lat": 46.15130057952928, "lon": 8.944419531213565}
+{"address": "Via Monte Carmen 13, 6900 Lugano", "price": "CHF 1’950.– / Monat", "lat": 46.013463099999996, "lon": 8.952825049999998}
+{"address": "Oelebachweg 19, 3427 Utzenstorf", "price": "CHF 1’950.– / Monat", "lat": 47.135010050000005, "lon": 7.548367062500716}
+{"address": "Tittertenstrasse 9, 4418 Reigoldswil", "price": "CHF 1’950.– / Monat", "lat": 47.398839, "lon": 7.6921636}
+{"address": "Via Valle Maggia 13, 6600 Locarno", "price": "CHF 1’950.– / Monat", "lat": null, "lon": null}
+{"address": "Hauptstrasse 119, 4102 Binningen", "price": "CHF 1’950.– / Monat", "lat": 47.5382215, "lon": 7.5721395}
+{"address": "Spyristrasse 20, 8044 Zürich", "price": "CHF 5’270.– / Monat", "lat": 47.38233855, "lon": 8.552323701211794}
+{"address": "Avenue Beauregard 2, 1700 Fribourg", "price": "CHF 5’270.– / Monat", "lat": 46.8019815, "lon": 7.148923834893623}
+{"address": "Via Ghiringhelli 27 a, 6500 Bellinzona", "price": "CHF 5’270.– / Monat", "lat": 46.18717845, "lon": 9.016370013509558}
+{"address": "Via Franco Zorzi 25A, 6500 Bellinzona", "price": "CHF 5’270.– / Monat", "lat": 46.1910468, "lon": 9.0173119}
+{"address": "Stengelmattstrasse 24, 6252 Dagmersellen", "price": "CHF 5’270.– / Monat", "lat": 47.2130905, "lon": 7.983813114006721}
+{"address": "Küchengasse 16, 4051 Basel", "price": "CHF 5’270.– / Monat", "lat": 47.5486817, "lon": 7.5891942}
+{"address": "Esterlistrasse 20, 4133 Pratteln", "price": "CHF 5’270.– / Monat", "lat": 47.5193907, "lon": 7.6870362}
+{"address": "Jurastrasse 92, 2540 Grenchen", "price": "CHF 5’270.– / Monat", "lat": 47.1980531, "lon": 7.4066132}
+{"address": "Wartenweilerweg 3, 9214 Kradolf-Schönenberg", "price": "CHF 5’270.– / Monat", "lat": 47.52572055, "lon": 9.202142495289774}
+{"address": "Via alla Bozzoreda 37, 6963 Pregassona", "price": "CHF 5’270.– / Monat", "lat": 46.02280509950002, "lon": 8.96948735653444}
+{"address": "Via F. Borromini 20, 6500 Bellinzona", "price": "CHF 5’270.– / Monat", "lat": null, "lon": null}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 5’270.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 5’270.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 5’270.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 5’270.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "Stallenmattstrasse 10, 4104 Oberwil BL", "price": "CHF 5’270.– / Monat", "lat": 47.5199351, "lon": 7.5641078}
+{"address": "Eugen-Huber-Str. 113, 8048 Zürich", "price": "CHF 5’270.– / Monat", "lat": 47.3871702, "lon": 8.47548810019084}
+{"address": "Via del Carmagnola 36B, 6517 Arbedo", "price": "CHF 5’270.– / Monat", "lat": null, "lon": null}
+{"address": "Paracelsusstrasse 63, 4058 Basel", "price": "CHF 5’270.– / Monat", "lat": 47.5659154, "lon": 7.6115288}
+{"address": "Haltingerstr. 78, 4057 Basel", "price": "CHF 5’270.– / Monat", "lat": 47.5661802, "lon": 7.5958747}
+{"address": "Rosenstrasse 1, 4410 Liestal", "price": "CHF 2’250.– / Monat", "lat": 47.4856124, "lon": 7.7376025}
+{"address": "Gestadeckplatz 6, 4410 Liestal", "price": "CHF 2’250.– / Monat", "lat": 47.4858593, "lon": 7.7372948}
+{"address": "Via F. Borromini 20, 6500 Bellinzona", "price": "CHF 2’250.– / Monat", "lat": null, "lon": null}
+{"address": "Pilgerstr. 71, 5405 Dättwil AG", "price": "CHF 2’250.– / Monat", "lat": 47.451521299999996, "lon": 8.285572549999998}
+{"address": "Wylerstrasse 115, 3014 Bern", "price": "CHF 2’250.– / Monat", "lat": 46.9614166, "lon": 7.4471717}
+{"address": "Burgdorfstrasse 13, 3422 Alchenflüh", "price": "CHF 2’250.– / Monat", "lat": 47.081564150000005, "lon": 7.5817915000000005}
+{"address": "Via del Tiglio 5, 6592 S. Antonino", "price": "CHF 2’250.– / Monat", "lat": 46.15726144300873, "lon": 8.981426511805067}
+{"address": "Rigiring 3, 6280 Hochdorf", "price": "CHF 2’250.– / Monat", "lat": 47.16723734999999, "lon": 8.300823292293916}
+{"address": "Riedterstrasse 11 B, 8162 Steinmaur", "price": "CHF 2’250.– / Monat", "lat": 47.499428, "lon": 8.4570675}
+{"address": "Rue de Romont 1, 1700 Fribourg", "price": "CHF 2’250.– / Monat", "lat": 46.80477419280557, "lon": 7.154945651114175}
+{"address": "Grabenwies 32, 8057 Zürich", "price": "CHF 2’250.– / Monat", "lat": 47.40208707142021, "lon": 8.537186403662702}
+{"address": "Rue Jacques-Vogt 2, 1700 Fribourg", "price": "CHF 2’250.– / Monat", "lat": 46.799118, "lon": 7.1532811}
+{"address": "Via F. Borromini 29a, 6500 Bellinzona", "price": "CHF 2’250.– / Monat", "lat": null, "lon": null}
+{"address": "Säntisstrasse 3, 9400 Rorschach", "price": "CHF 2’250.– / Monat", "lat": 47.47599175, "lon": 9.483794046335444}
+{"address": "Wehntalerstrasse 432, 8046 Zürich", "price": "CHF 2’250.– / Monat", "lat": 47.41566745, "lon": 8.51443105020198}
+{"address": "Plänkestrasse 30, 2500 Biel/Bienne", "price": "CHF 2’250.– / Monat", "lat": 47.1374238, "lon": 7.2453202}
+{"address": "Via Franco Zorzi 25A, 6500 Bellinzona", "price": "CHF 2’250.– / Monat", "lat": 46.1910468, "lon": 9.0173119}
+{"address": "Paul-Kleestrasse 107, 3053 Münchenbuchsee", "price": "CHF 2’250.– / Monat", "lat": 47.0213248, "lon": 7.438463979875334}
+{"address": "Via Franco Zorzi 25A, 6500 Bellinzona", "price": "CHF 2’250.– / Monat", "lat": 46.1910468, "lon": 9.0173119}
+{"address": "Schmiedengasse 1, 3400 Burgdorf", "price": "CHF 2’250.– / Monat", "lat": 47.0556724, "lon": 7.626666590668881}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 1’770.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "rue du Kirlou 24, 2800 Delémont", "price": "CHF 1’770.– / Monat", "lat": 47.374442349999995, "lon": 7.359278187978271}
+{"address": "Chemin des Grands-Pins 2, 2000 Neuchâtel", "price": "CHF 1’770.– / Monat", "lat": 46.99772462006891, "lon": 6.93381776677924}
+{"address": "Via Cantonale 12 A, 6942 Savosa", "price": "CHF 1’770.– / Monat", "lat": 46.02190331744186, "lon": 8.948039760912136}
+{"address": "Rue Adrien-Pichard 2, 1003 Lausanne", "price": "CHF 1’770.– / Monat", "lat": 46.5222215, "lon": 6.630389990562497}
+{"address": "Feldeggstrasse 73, 3322 Urtenen-Schönbühl", "price": "CHF 1’770.– / Monat", "lat": 47.019027, "lon": 7.512513961459841}
+{"address": "Industriestrasse 23, 8212 Neuhausen", "price": "CHF 1’770.– / Monat", "lat": 47.6800487, "lon": 8.617868083105442}
+{"address": "Heidenerstrasse 6, 9400 Rorschach", "price": "CHF 1’770.– / Monat", "lat": 47.4734897, "lon": 9.49802463109404}
+{"address": "Seeblickstrasse 31, 8738 Uetliburg", "price": "CHF 1’770.– / Monat", "lat": 47.23658149355519, "lon": 9.035249119596008}
+{"address": "Husächerstr. 5, 8907 Wettswil", "price": "CHF 1’770.– / Monat", "lat": 47.340765149999996, "lon": 8.47290759882921}
+{"address": "Route de Vandœuvres 6, 1223 Cologny", "price": "CHF 1’770.– / Monat", "lat": 46.20678975, "lon": 6.180745826280712}
+{"address": "Via F. Borromini 27, 6500 Bellinzona", "price": "CHF 1’770.– / Monat", "lat": null, "lon": null}
+{"address": "Wylerstrasse 115, 3014 Bern", "price": "CHF 1’770.– / Monat", "lat": 46.9614166, "lon": 7.4471717}
+{"address": "Hammerstrasse 92, 4057 Basel", "price": "CHF 1’770.– / Monat", "lat": 47.5646568, "lon": 7.5957185}
+{"address": "Bleicherstrasse, Nr. 33, 8953 Dietikon", "price": "CHF 1’770.– / Monat", "lat": 47.40921233470551, "lon": 8.394223725452228}
+{"address": "Rue Daubin 4, 1203 Genève", "price": "CHF 1’770.– / Monat", "lat": 46.2058238, "lon": 6.1294096}
+{"address": "Eigenheimweg 18, 4614 Hägendorf", "price": "CHF 1’770.– / Monat", "lat": 47.338101300000005, "lon": 7.850007494505492}
+{"address": "Grossackerstrasse 100, 8041 Zürich", "price": "CHF 1’770.– / Monat", "lat": 47.3248345, "lon": 8.509407696426527}
+{"address": "Langgasse 58, 8400 Winterthur", "price": "CHF 1’770.– / Monat", "lat": 47.492165549999996, "lon": 8.733411217709435}
+{"address": "Rathausstrasse 30, 8570 Weinfelden", "price": "CHF 1’770.– / Monat", "lat": 47.5666802, "lon": 9.108451}
+{"address": "Haldenstrasse 26, 8424 Embrach", "price": "CHF 3’300.– / Monat", "lat": 47.5052737, "lon": 8.590339976759363}
+{"address": "Rosenberghöhe 22, 6004 Luzern", "price": "CHF 3’300.– / Monat", "lat": 47.06215595, "lon": 8.305896578423365}
+{"address": "Seeburgstrasse 49B, 6006 Luzern", "price": "CHF 3’300.– / Monat", "lat": 47.048066649999996, "lon": 8.343181157242544}
+{"address": "vicolo di Caprino 10, 6823 Pugerna", "price": "CHF 3’300.– / Monat", "lat": null, "lon": null}
+{"address": "Bernstrasse 147, 3400 Burgdorf", "price": "CHF 3’300.– / Monat", "lat": 47.0517618, "lon": 7.609701935373495}
+{"address": "Batteriestrasse 4a, 4103 Bottmingen", "price": "CHF 3’300.– / Monat", "lat": 47.5273022, "lon": 7.5747135}
+{"address": "Via Giuseppe Torti 6, 6500 Bellinzona", "price": "CHF 3’300.– / Monat", "lat": 46.1867087, "lon": 9.018155593143119}
+{"address": "Via Monte Carmen 13, 6900 Lugano", "price": "CHF 3’300.– / Monat", "lat": 46.013463099999996, "lon": 8.952825049999998}
+{"address": "Hammerstrasse 33, 8008 Zürich", "price": "CHF 3’300.– / Monat", "lat": 47.36028865, "lon": 8.560204209430795}
+{"address": "Via ai Saleggi 26, 6600 Locarno", "price": "CHF 3’300.– / Monat", "lat": 46.16346001336507, "lon": 8.794475766532312}
+{"address": "Wyde 7, 5242 Birr", "price": "CHF 3’300.– / Monat", "lat": 47.4383401, "lon": 8.2119354}
+{"address": "Dorfstrasse 31, 8310 Grafstal", "price": "CHF 3’300.– / Monat", "lat": 47.4439564, "lon": 8.699784}
+{"address": "Quellenstrasse 39 E, 4310 Rheinfelden", "price": "CHF 3’300.– / Monat", "lat": 47.5493911, "lon": 7.7843761}
+{"address": "Am Stausee 25, 4127 Birsfelden", "price": "CHF 3’300.– / Monat", "lat": 47.5564628, "lon": 7.6317042}
+{"address": "Rue de l'Aubépine 3, 1205 Genève", "price": "CHF 3’300.– / Monat", "lat": 46.1903575, "lon": 6.1439867}
+{"address": "Pappelnweg 36d, 4310 Rheinfelden", "price": "CHF 3’300.– / Monat", "lat": 47.5472909, "lon": 7.7729954}
+{"address": "Mattengasse 11, 8005 Zürich", "price": "CHF 3’300.– / Monat", "lat": 47.382205400000004, "lon": 8.530119794759537}
+{"address": "Via Olgiati 20B, 6512 Giubiasco", "price": "CHF 3’300.– / Monat", "lat": null, "lon": null}
+{"address": "Rainstrasse 1, 5415 Nussbaumen AG", "price": "CHF 3’300.– / Monat", "lat": 47.489159900000004, "lon": 8.295717210445172}
+{"address": "Belchenring 51, 4123 Allschwil", "price": "CHF 3’300.– / Monat", "lat": 47.5426986, "lon": 7.544792556830408}
+{"address": "Blochmonterstr. 4, 4054 Basel", "price": "CHF 2’300.– / Monat", "lat": 47.5473878, "lon": 7.5748705}
+{"address": "Bahnweg 1, 8700 Küsnacht", "price": "CHF 2’300.– / Monat", "lat": 47.31359705, "lon": 8.583121980708345}
+{"address": "Wehrligasse 5A, 8476 Stammheim", "price": "CHF 2’300.– / Monat", "lat": 47.63902950885018, "lon": 8.78807594115428}
+{"address": "Bernapark 28, 3066 Stettlen", "price": "CHF 2’300.– / Monat", "lat": 46.96048, "lon": 7.51292}
+{"address": "Pappelnweg 34b, 4310 Rheinfelden", "price": "CHF 2’300.– / Monat", "lat": 47.5476981, "lon": 7.7730956}
+{"address": "Chemin de la Pousaz 16, 1866 Ormont-Dessous", "price": "CHF 2’300.– / Monat", "lat": 46.35223275, "lon": 7.0693374}
+{"address": "Helgenfeld 21, 5034 Suhr", "price": "CHF 2’300.– / Monat", "lat": 47.3684536, "lon": 8.0794586}
+{"address": "Zihlweg 41, 2557 Studen BE", "price": "CHF 2’300.– / Monat", "lat": 47.1178126, "lon": 7.300076177451997}
+{"address": "Schiltstrasse 49, 8750 Glarus", "price": "CHF 2’300.– / Monat", "lat": 47.037585050000004, "lon": 9.063123102820335}
+{"address": "Birsfelderstrasse 95, 4132 Muttenz", "price": "CHF 2’300.– / Monat", "lat": 47.5390924, "lon": 7.6310616}
+{"address": "Sankt Martinstrasse 60, 6430 Schwyz", "price": "CHF 2’300.– / Monat", "lat": null, "lon": null}
+{"address": "Rothausstrasse 15, 4132 Muttenz", "price": "CHF 2’300.– / Monat", "lat": 47.5257782, "lon": 7.6560595}
+{"address": "Heinrich-Wolff-Strasse 10, 8046 Zürich", "price": "CHF 2’300.– / Monat", "lat": 47.4236779, "lon": 8.4997459}
+{"address": "Zürcherstrasse 24B, 8852 Altendorf", "price": "CHF 2’300.– / Monat", "lat": 47.1932529, "lon": 8.8263019}
+{"address": "Löwenstrasse 15, 8133 Esslingen", "price": "CHF 2’300.– / Monat", "lat": 47.28857775, "lon": 8.710732199340137}
+{"address": "Schärenfeld 30, 8052 Seebach", "price": "CHF 2’300.– / Monat", "lat": 47.4196989, "lon": 8.5500524}
+{"address": "Avenue du Temple 1-3, 1020 Renens VD", "price": "CHF 2’300.– / Monat", "lat": 46.53648792285093, "lon": 6.588527170146207}
+{"address": "Bernstrasse 149, 3400 Burgdorf", "price": "CHF 2’300.– / Monat", "lat": 47.05178875, "lon": 7.609185739948456}
+{"address": "Altweg 25, 8905 Arni", "price": "CHF 2’300.– / Monat", "lat": 47.3209176, "lon": 8.42691644742525}
+{"address": "Steinenbühlstrasse 50A, 5417 Untersiggenthal", "price": "CHF 2’300.– / Monat", "lat": 47.5126923, "lon": 8.2705985}
+{"address": "Schwärzere 19, 3425 Koppigen", "price": "CHF 2’740.– / Monat", "lat": 47.1324178, "lon": 7.6059752}
+{"address": "Trogmattweg 9, 3506 Grosshöchstetten", "price": "CHF 2’740.– / Monat", "lat": 46.90452365, "lon": 7.634434849999991}
+{"address": "Im Burgfelderhof 43, 4055 Basel", "price": "CHF 2’740.– / Monat", "lat": 47.5716655, "lon": 7.5585205}
+{"address": "Grubenstrasse 13b, 5070 Frick", "price": "CHF 2’740.– / Monat", "lat": 47.5102226, "lon": 8.020031975629749}
+{"address": "Elsastrasse 16, 8004 Zürich", "price": "CHF 2’740.– / Monat", "lat": 47.3771242, "lon": 8.514328753943873}
+{"address": "Chemin des Semailles 9 B, 1212 Grand-Lancy", "price": "CHF 2’740.– / Monat", "lat": 46.1795085, "lon": 6.1206918}
+{"address": "Mühlemattstrasse 11, 6374 Buochs", "price": "CHF 2’740.– / Monat", "lat": 46.97376468661957, "lon": 8.418765948002582}
+{"address": "Birsfelderstrasse 34, 4132 Muttenz", "price": "CHF 2’740.– / Monat", "lat": 47.5347248, "lon": 7.634326}
+{"address": "Apfelseestr. 9, 4143 Dornach", "price": "CHF 2’740.– / Monat", "lat": 47.47575195, "lon": 7.609075814242029}
+{"address": "Bergstrasse 14, 8953 Dietikon", "price": "CHF 2’740.– / Monat", "lat": 47.4041445, "lon": 8.398524000000005}
+{"address": "Guyer-Zeller-Strasse10, 8620 Wetzikon ZH", "price": "CHF 2’740.– / Monat", "lat": null, "lon": null}
+{"address": "Kempttalstrasse 78, 8308 Illnau-Effretikon", "price": "CHF 2’740.– / Monat", "lat": 47.41100875, "lon": 8.724510062325784}
+{"address": "Via Galli 8, 6600 Locarno", "price": "CHF 2’740.– / Monat", "lat": 46.16895456964882, "lon": 8.787960044939735}
+{"address": "Schipferstrasse 5, 8800 Thalwil", "price": "CHF 2’740.– / Monat", "lat": 47.2835233, "lon": 8.574650081167732}
+{"address": "Burgunderweg 46, 2505 Biel/Bienne", "price": "CHF 2’740.– / Monat", "lat": 47.1313327, "lon": 7.218417510528404}
+{"address": "Billoweg 3, 8038 Zürich", "price": "CHF 2’740.– / Monat", "lat": 47.3521244, "lon": 8.531395453366446}
+{"address": "Baselstrasse 95, 4153 Reinach", "price": "CHF 2’740.– / Monat", "lat": 47.505625550000005, "lon": 7.6017265231786135}
+{"address": "Werkgasse 28, 3018 Bern", "price": "CHF 2’740.– / Monat", "lat": 46.94342855, "lon": 7.402900516018621}
+{"address": "Winzerweg 9, 4123 Allschwil", "price": "CHF 2’740.– / Monat", "lat": 47.54724455, "lon": 7.539286550000006}
+{"address": "Haldenstrasse 8, 8045 Zürich", "price": "CHF 2’740.– / Monat", "lat": 47.363161149999996, "lon": 8.518535792443249}
+{"address": "Hauptstrasse 7, 4132 Muttenz", "price": "CHF 2’460.– / Monat", "lat": 47.5232867, "lon": 7.644928819844468}
+{"address": "Dammweg 35, 5610 Wohlen AG", "price": "CHF 2’460.– / Monat", "lat": 47.34419055, "lon": 8.278715696733439}
+{"address": "Via Monte Carmen 13, 6900 Lugano", "price": "CHF 2’460.– / Monat", "lat": 46.013463099999996, "lon": 8.952825049999998}
+{"address": "Sonnhaldenstrasse 1, 8113 Boppelsen", "price": "CHF 2’460.– / Monat", "lat": 47.47083325, "lon": 8.402901931889762}
+{"address": "Lungolago Giuseppe Motta 78, 6815 Melide", "price": "CHF 2’460.– / Monat", "lat": 45.9478196, "lon": 8.9403066}
+{"address": "Oberburgstrasse 90, 3400 Burgdorf", "price": "CHF 2’460.– / Monat", "lat": 47.04559505, "lon": 7.62219187575692}
+{"address": "Bernstrasse 149, 3400 Burgdorf", "price": "CHF 2’460.– / Monat", "lat": 47.05178875, "lon": 7.609185739948456}
+{"address": "Länggasse 43, 4624 Härkingen", "price": "CHF 2’460.– / Monat", "lat": 47.30563544239009, "lon": 7.8159775588664955}
+{"address": "Rainackerweg 70, 5303 Würenlingen", "price": "CHF 2’460.– / Monat", "lat": 47.5279237, "lon": 8.248165}
+{"address": "Via Mario Jaeggli 10, 6500 Bellinzona", "price": "CHF 2’460.– / Monat", "lat": 46.20418855377601, "lon": 9.026276238479598}
+{"address": "Länggenstrasse 3, 8184 Bachenbülach", "price": "CHF 2’460.– / Monat", "lat": 47.50265715553123, "lon": 8.540043901235798}
+{"address": "Worbigstrasse 10B, 8416 Flaach", "price": "CHF 2’460.– / Monat", "lat": 47.57571707567317, "lon": 8.613739979021048}
+{"address": "Rebenweid 26, 6332 Hagendorn", "price": "CHF 2’460.– / Monat", "lat": 47.19974985, "lon": 8.431996999999999}
+{"address": "Heimstr. 12, 9014 St. Gallen", "price": "CHF 2’460.– / Monat", "lat": 47.414502600000006, "lon": 9.337264349999995}
+{"address": "Via Crocetta 27a, 6962 Lugano", "price": "CHF 2’460.– / Monat", "lat": 46.01508128415641, "lon": 8.966345803085744}
+{"address": "Via Crocetta 25, 6962 Lugano", "price": "CHF 2’460.– / Monat", "lat": 46.01597435, "lon": 8.966801499999999}
+{"address": "Auweg 20, 4450 Sissach", "price": "CHF 2’460.– / Monat", "lat": 47.4709665, "lon": 7.8018981341067875}
+{"address": "Tulpenweg 19, 4153 Reinach", "price": "CHF 2’460.– / Monat", "lat": 47.4931212, "lon": 7.5842139}
+{"address": "Frohburgerstrasse 9, 4132 Muttenz", "price": "CHF 2’460.– / Monat", "lat": 47.5282337, "lon": 7.6524755}
+{"address": "Kronengasse 1, 5000 Aarau", "price": "CHF 2’460.– / Monat", "lat": 47.3929414, "lon": 8.043904}
+{"address": "Heidenlochstrasse 110, 4410 Liestal", "price": "CHF 1’890.– / Monat", "lat": 47.4787022, "lon": 7.7509410451127785}
+{"address": "Schlossbergweg 6b, 5400 Baden", "price": "CHF 1’890.– / Monat", "lat": 47.4726002, "lon": 8.3052335}
+{"address": "Zürcherstrasse 42, 8142 Uitikon Waldegg", "price": "CHF 1’890.– / Monat", "lat": 47.37024365, "lon": 8.455823626386483}
+{"address": "Bächtelenweg 3, 3084 Wabern", "price": "CHF 1’890.– / Monat", "lat": 46.925251200000005, "lon": 7.455897556289661}
+{"address": "Parkweg 2, 4852 Rothrist", "price": "CHF 1’890.– / Monat", "lat": 47.30602742185098, "lon": 7.894973696697397}
+{"address": "Parkweg 2, 4852 Rothrist", "price": "CHF 1’890.– / Monat", "lat": 47.30602742185098, "lon": 7.894973696697397}
+{"address": "Holeestrasse 101, 4054 Basel", "price": "CHF 1’890.– / Monat", "lat": 47.5451884, "lon": 7.5686832}
+{"address": "Hammerstrasse 92, 4057 Basel", "price": "CHF 1’890.– / Monat", "lat": 47.5646568, "lon": 7.5957185}
+{"address": "Parkweg 2, 4852 Rothrist", "price": "CHF 1’890.– / Monat", "lat": 47.30602742185098, "lon": 7.894973696697397}
+{"address": "Dietenrainweg 8, 8610 Uster", "price": "CHF 1’890.– / Monat", "lat": 47.33931025, "lon": 8.716507492458366}
+{"address": "Zürcherstrasse 35, 9500 Wil SG", "price": "CHF 1’890.– / Monat", "lat": 47.46471715, "lon": 9.03736830541764}
+{"address": "Im Kirchbrunnen 7, 8153 Rümlang", "price": "CHF 1’890.– / Monat", "lat": 47.4520824, "lon": 8.5332495400413}
+{"address": "Mühlestrasse 9, 6022 Grosswangen", "price": "CHF 1’890.– / Monat", "lat": 47.13506945, "lon": 8.048150283694106}
+{"address": "Neuhardstrasse 11, 4600 Olten", "price": "CHF 1’890.– / Monat", "lat": 47.3491937, "lon": 7.9097581}
+{"address": "Via Tesserete 33, 6900 Massagno", "price": "CHF 1’890.– / Monat", "lat": 46.01194953517147, "lon": 8.949353416936145}
+{"address": "Kanalweg 38, 4800 Zofingen", "price": "CHF 1’890.– / Monat", "lat": 47.28255645, "lon": 7.936357713109162}
+{"address": "Via al Castello 12, 6964 Davesco-Soragno", "price": "CHF 1’890.– / Monat", "lat": 46.03655985739629, "lon": 8.976160583156183}
+{"address": "Langenmattstrasse 68, 8617 Mönchaltorf", "price": "CHF 1’890.– / Monat", "lat": 47.314177900000004, "lon": 8.718913226426208}
+{"address": "Bellariastrasse 81, 8038 Zürich", "price": "CHF 1’890.– / Monat", "lat": 47.34711055, "lon": 8.529533334862611}
+{"address": "Brotkorbstrasse 30 B, 4332 Stein AG", "price": "CHF 1’890.– / Monat", "lat": 47.54655414765215, "lon": 7.952595984967506}
+{"address": "Leimenstrasse 49, 4051 Basel", "price": "CHF 1’870.– / Monat", "lat": 47.5528828, "lon": 7.5815009}
+{"address": "Tösstalstrasse 3, 8332 Rumlikon", "price": "CHF 1’870.– / Monat", "lat": 47.4098043, "lon": 8.759462143920961}
+{"address": "Ramuzstrasse 17, 3027 Bern", "price": "CHF 1’870.– / Monat", "lat": 46.9447697, "lon": 7.3756914}
+{"address": "Im Wilacker 12, 4106 Therwil", "price": "CHF 1’870.– / Monat", "lat": null, "lon": null}
+{"address": "Rosengartenweg 8 C, 5417 Untersiggenthal", "price": "CHF 1’870.– / Monat", "lat": 47.49585585, "lon": 8.264444219485597}
+{"address": "Rennweg 43, 8001 Zürich", "price": "CHF 1’870.– / Monat", "lat": 47.3735089, "lon": 8.5390344}
+{"address": "Zielhagweg 28, 8240 Thayngen", "price": "CHF 1’870.– / Monat", "lat": 47.7520187, "lon": 8.700819450000001}
+{"address": "Südstrasse 36, 2504 Biel/Bienne", "price": "CHF 1’870.– / Monat", "lat": 47.1425522, "lon": 7.2741055822277865}
+{"address": "Südstrasse 33, 2504 Biel/Bienne", "price": "CHF 1’870.– / Monat", "lat": 47.142795, "lon": 7.272640641787747}
+{"address": "Schollstrasse 3-13, 2504 Biel/Bienne", "price": "CHF 1’870.– / Monat", "lat": 47.14224475, "lon": 7.2730028641108495}
+{"address": "Lothringerstrasse 51, 4056 Basel", "price": "CHF 1’870.– / Monat", "lat": 47.56772825, "lon": 7.577835327923802}
+{"address": "Baslerstrasse 71, 8048 Zürich", "price": "CHF 1’870.– / Monat", "lat": 47.3856884, "lon": 8.497091985801433}
+{"address": "St. Alban-Anlage 59/61/63, 4052 Basel", "price": "CHF 1’870.– / Monat", "lat": 47.55273940119511, "lon": 7.60301460462026}
+{"address": "Freilager-Platz 4, 4142 Münchenstein", "price": "CHF 1’870.– / Monat", "lat": 47.5323852, "lon": 7.6104069}
+{"address": "Route de la Feuillère 21, 1010 Lausanne", "price": "CHF 1’870.– / Monat", "lat": 46.5353324, "lon": 6.652067520123083}
+{"address": "Stauffacherstrasse 1, 6020 Emmenbrücke", "price": "CHF 1’870.– / Monat", "lat": 47.0743514, "lon": 8.28724384455263}
+{"address": "Zieglerweg 53, 8240 Thayngen", "price": "CHF 1’870.– / Monat", "lat": 47.75149385, "lon": 8.70152255}
+{"address": "Via Beltramina 10, 6900 Lugano", "price": "CHF 1’870.– / Monat", "lat": 46.0170708, "lon": 8.957293372791668}
+{"address": "Im Pfauenhof 10, 11, 4410 Liestal", "price": "CHF 1’870.– / Monat", "lat": null, "lon": null}
+{"address": "Zeisigweg 1, 8600 Dübendorf", "price": "CHF 1’870.– / Monat", "lat": 47.39527535, "lon": 8.61203502716673}
+{"address": "Haslenstrasse 13, 8903 Birmensdorf ZH", "price": "CHF 2’210.– / Monat", "lat": 47.35900115, "lon": 8.45976589798729}
+{"address": "Rte du Coteau 31, 1752 Villars-sur-Glâne", "price": "CHF 2’210.– / Monat", "lat": 46.7929922, "lon": 7.108139749618079}
+{"address": "Grendelbachstrasse 45, 8307 Effretikon", "price": "CHF 2’210.– / Monat", "lat": 47.4219013, "lon": 8.6923734}
+{"address": "Schlossstr. 5c, 4133 Pratteln", "price": "CHF 2’210.– / Monat", "lat": 47.5215712, "lon": 7.6964005}
+{"address": "Schlossstr. 5e, 4133 Pratteln", "price": "CHF 2’210.– / Monat", "lat": 47.5219526, "lon": 7.6962418}
+{"address": "Voltastrasse 2, 6005 Luzern", "price": "CHF 2’210.– / Monat", "lat": 47.0407079, "lon": 8.307770124491716}
+{"address": "Madretschstr. 108, 2503 Biel", "price": "CHF 2’210.– / Monat", "lat": 47.13571955, "lon": 7.257642730181663}
+{"address": "Seestrasse 46A, 8855 Wangen", "price": "CHF 2’210.– / Monat", "lat": 47.19467079720146, "lon": 8.892427862473681}
+{"address": "Richtiarkade 1, 8304 Wallisellen", "price": "CHF 2’210.– / Monat", "lat": 47.411226, "lon": 8.5947266}
+{"address": "Zur Stahlgiesserei 3, 8200 Schaffhausen", "price": "CHF 2’210.– / Monat", "lat": 47.70332075, "lon": 8.63034981645054}
+{"address": "Bruggstrasse 7, 4153 Reinach BL", "price": "CHF 2’210.– / Monat", "lat": 47.4907529, "lon": 7.5909074}
+{"address": "Ob der Müli, 8166 Niederweningen", "price": "CHF 2’210.– / Monat", "lat": 47.50809897646639, "lon": 8.382890724469666}
+{"address": "Marktstrasse 3, 2540 Grenchen", "price": "CHF 2’210.– / Monat", "lat": 47.193697, "lon": 7.3972052}
+{"address": "Vogelwinkel 4B, 6340 Baar", "price": "CHF 2’210.– / Monat", "lat": 47.1906121, "lon": 8.5398663}
+{"address": "Pfirsichstrasse 9, 8006 Zürich", "price": "CHF 2’210.– / Monat", "lat": 47.38945525, "lon": 8.537542392590117}
+{"address": "Schaffhauserstrasse 230 A, 8057 Zürich", "price": "CHF 2’210.– / Monat", "lat": 47.402217199999996, "lon": 8.547022474097131}
+{"address": "Rosengartenweg 4 B, 5417 Untersiggenthal", "price": "CHF 2’210.– / Monat", "lat": 47.4950399, "lon": 8.264029227139645}
+{"address": "Poststrasse 98, 7050 Arosa", "price": "CHF 2’210.– / Monat", "lat": 46.780591400000006, "lon": 9.678568732912016}
+{"address": "Im Bruppach 15, 8703 Erlenbach ZH", "price": "CHF 2’210.– / Monat", "lat": 47.3046257, "lon": 8.609070149999992}
+{"address": "Büelstrasse 3, 8863 Buttikon SZ", "price": "CHF 2’210.– / Monat", "lat": 47.174651499999996, "lon": 8.955432471863649}
+{"address": "Hubelweg 5, 3504 Niederhünigen", "price": "CHF 2’820.– / Monat", "lat": 46.87578605, "lon": 7.638747712829532}
+{"address": "Tellstrasse 26, 3014 Bern", "price": "CHF 2’820.– / Monat", "lat": 46.9622983, "lon": 7.4597325}
+{"address": "Tellstrasse 26, 3014 Bern", "price": "CHF 2’820.– / Monat", "lat": 46.9622983, "lon": 7.4597325}
+{"address": "Grabenwies 20, 8057 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.40234495, "lon": 8.537503571428573}
+{"address": "Theaterstrasse 13, 6003 Luzern", "price": "CHF 2’820.– / Monat", "lat": 47.04987255, "lon": 8.307012053641147}
+{"address": "Marktplatz 14, 9000 St. Gallen", "price": "CHF 2’820.– / Monat", "lat": 47.426303, "lon": 9.375243}
+{"address": "Seemoosholzstrasse 20, 9320 Arbon", "price": "CHF 2’820.– / Monat", "lat": 47.5208443, "lon": 9.423905756152205}
+{"address": "Rue du Chêne 5, 1020 Renens", "price": "CHF 2’820.– / Monat", "lat": 46.5307907, "lon": 6.5906664}
+{"address": "Rue du Chêne 5, 1020 Renens", "price": "CHF 2’820.– / Monat", "lat": 46.5307907, "lon": 6.5906664}
+{"address": "Rue du Chêne 5, 1020 Renens", "price": "CHF 2’820.– / Monat", "lat": 46.5307907, "lon": 6.5906664}
+{"address": "Rue du Chêne 5, 1020 Renens", "price": "CHF 2’820.– / Monat", "lat": 46.5307907, "lon": 6.5906664}
+{"address": "Säntisstrasse, 9542 Münchwilen TG", "price": "CHF 2’820.– / Monat", "lat": 47.47440185249841, "lon": 8.988025897811523}
+{"address": "Nüchternweg 12, 3038 Kirchlindach", "price": "CHF 2’820.– / Monat", "lat": 47.0003111, "lon": 7.4114947}
+{"address": "Murtenstrasse 143 D, 3008 Bern", "price": "CHF 2’820.– / Monat", "lat": 46.9484633, "lon": 7.4099937}
+{"address": "Bühlstr. 4, 8954 Geroldswil", "price": "CHF 2’820.– / Monat", "lat": 47.42655245, "lon": 8.411607736932847}
+{"address": "Erikastrasse 1, 4057 Basel", "price": "CHF 2’820.– / Monat", "lat": 47.5715692, "lon": 7.5910111}
+{"address": "Hinterdorfstrasse 27, 8157 Dielsdorf", "price": "CHF 2’820.– / Monat", "lat": 47.4846367, "lon": 8.4556048}
+{"address": "Untere Bühlenstrasse, 8708 Männedorf", "price": "CHF 2’820.– / Monat", "lat": 47.259433601353514, "lon": 8.685129579773593}
+{"address": "Avenue De France 22, 1004 Lausanne", "price": "CHF 2’820.– / Monat", "lat": 46.5249493, "lon": 6.6233321}
+{"address": "Baselmattweg 87, 4123 Allschwil", "price": "CHF 2’820.– / Monat", "lat": 47.5553292, "lon": 7.549207}
+{"address": "Obere Schöntalstrasse 48, 8406 Winterthur", "price": "CHF 3’250.– / Monat", "lat": 47.4952892, "lon": 8.7105785}
+{"address": "Felsenaustrasse 13, 8704 Herrliberg", "price": "CHF 3’250.– / Monat", "lat": 47.28965035, "lon": 8.607884033005254}
+{"address": "Überlandstrasse 198, 8600 Dübendorf", "price": "CHF 3’250.– / Monat", "lat": 47.395456800000005, "lon": 8.640347440101344}
+{"address": "Erlenstrasse 12, 4410 Liestal", "price": "CHF 3’250.– / Monat", "lat": 47.4948097, "lon": 7.7219152}
+{"address": "Via Borenco 22, 6648 Minusio", "price": "CHF 3’250.– / Monat", "lat": 46.174454832996496, "lon": 8.811003269702761}
+{"address": "Am Schmittenbach 10 A, 5236 Remigen", "price": "CHF 3’250.– / Monat", "lat": 47.5141175, "lon": 8.189743}
+{"address": "Eichholzstrasse 35, 8620 Wetzikon ZH", "price": "CHF 3’250.– / Monat", "lat": 47.334924650000005, "lon": 8.816746014793356}
+{"address": "Via Mulino Rosso 8, 6517 Arbedo", "price": "CHF 3’250.– / Monat", "lat": 46.210834857009694, "lon": 9.041734079584732}
+{"address": "Zwickystrasse 30, 8304 Wallisellen", "price": "CHF 3’250.– / Monat", "lat": 47.4050721, "lon": 8.6016424}
+{"address": "Gerbergasse 16/Rümelinplatz, 4001 Basel", "price": "CHF 3’250.– / Monat", "lat": null, "lon": null}
+{"address": "Kilchmattstrasse 100, 4132 Muttenz", "price": "CHF 3’250.– / Monat", "lat": 47.5249706, "lon": 7.6614536}
+{"address": "Route de Sion 81, 3960 Sierre", "price": "CHF 3’250.– / Monat", "lat": 46.2845187, "lon": 7.5163885}
+{"address": "Bernstrasse 141, 3400 Burgdorf", "price": "CHF 3’250.– / Monat", "lat": 47.05214545, "lon": 7.61092275658309}
+{"address": "Via Lugano 17, 6500 Bellinzona", "price": "CHF 3’250.– / Monat", "lat": 46.1899897111403, "lon": 9.022279406551428}
+{"address": "Am Oeschbrig 5, 8053 Zürich", "price": "CHF 3’250.– / Monat", "lat": 47.3572566, "lon": 8.599926624130191}
+{"address": "Gellertstrasse 2a, 4052 Basel", "price": "CHF 3’250.– / Monat", "lat": 47.5522254, "lon": 7.605309}
+{"address": "Iselisberg, 8524 Uesslingen-Buch", "price": "CHF 3’250.– / Monat", "lat": 47.5865601, "lon": 8.8261897}
+{"address": "Waffenplatzstrasse 80, 8002 Zürich", "price": "CHF 3’250.– / Monat", "lat": 47.355664250000004, "lon": 8.526745374054133}
+{"address": "Rue de la Fiaz 38, 2300 La Chaux-de-Fonds", "price": "CHF 3’250.– / Monat", "lat": 47.0893454, "lon": 6.807948252817535}
+{"address": "Rue des Musées 58, 2300 La Chaux-de-Fonds", "price": "CHF 3’250.– / Monat", "lat": 47.0996733, "lon": 6.826494632796034}
+{"address": "Rue du Nord 54, 2300 La Chaux-de-Fonds", "price": "CHF 1’320.– / Monat", "lat": 47.10687075, "lon": 6.826619204339931}
+{"address": "Via Montalbano 1, 6925 Gentilino", "price": "CHF 1’320.– / Monat", "lat": 45.992262141873915, "lon": 8.935168034601803}
+{"address": "Eggrainweg 7, 8803 Rüschlikon", "price": "CHF 1’320.– / Monat", "lat": 47.3060558, "lon": 8.5483635}
+{"address": "Hauptstrasse 41, 4437 Waldenburg", "price": "CHF 1’320.– / Monat", "lat": 47.3830863, "lon": 7.748652}
+{"address": "Amerbachstrasse 64, 4057 Basel", "price": "CHF 1’320.– / Monat", "lat": 47.5689904, "lon": 7.5940014}
+{"address": "Rue de la Fiaz 38, 2300 La Chaux-de-Fonds", "price": "CHF 1’320.– / Monat", "lat": 47.0893454, "lon": 6.807948252817535}
+{"address": "Rue de la Fiaz 38, 2300 La Chaux-de-Fonds", "price": "CHF 1’320.– / Monat", "lat": 47.0893454, "lon": 6.807948252817535}
+{"address": "Bahnhofstrasse 172, 6423 Seewen SZ", "price": "CHF 1’320.– / Monat", "lat": 47.0293613, "lon": 8.6299986}
+{"address": "Bahnhofstrasse 172, 6423 Seewen SZ", "price": "CHF 1’320.– / Monat", "lat": 47.0293613, "lon": 8.6299986}
+{"address": "Bibersteinerstrasse 41A, 5022 Rombach", "price": "CHF 1’320.– / Monat", "lat": 47.404305949999994, "lon": 8.049133592598787}
+{"address": "Culmannstrasse 20, 8006 Zürich", "price": "CHF 1’320.– / Monat", "lat": 47.38044745, "lon": 8.547529883985145}
+{"address": "Sandgrubenstrasse 18, 8330 Pfäffikon ZH", "price": "CHF 1’320.– / Monat", "lat": 47.3696913, "lon": 8.777423723618387}
+{"address": "Neuwiesenstrasse 2, 8610 Uster", "price": "CHF 1’320.– / Monat", "lat": 47.34997305, "lon": 8.720605817614736}
+{"address": "Stationsstrasse 17, 8604 Volketswil", "price": "CHF 1’320.– / Monat", "lat": 47.3866634, "lon": 8.670496886834925}
+{"address": "Untermatt 2, 8902 Urdorf", "price": "CHF 1’320.– / Monat", "lat": 47.390845299999995, "lon": 8.417148876306438}
+{"address": "Akazienweg 22, 8500 Frauenfeld", "price": "CHF 1’320.– / Monat", "lat": 47.5555129, "lon": 8.8849376}
+{"address": "Fluhmattstrasse 31, 5400 Baden", "price": "CHF 1’320.– / Monat", "lat": 47.481467949999995, "lon": 8.280336251021026}
+{"address": "Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten", "price": "CHF 1’320.– / Monat", "lat": null, "lon": null}
+{"address": "Zweierstrasse 20, 8004 Zürich", "price": "CHF 1’320.– / Monat", "lat": 47.373198099999996, "lon": 8.526359676835785}
+{"address": "Schulweg 3, 5453 Remetschwil", "price": "CHF 1’320.– / Monat", "lat": 47.4081806, "lon": 8.327730330427364}
+{"address": "Chapfstrasse 13, 8625 Gossau", "price": "CHF 2’170.– / Monat", "lat": 47.304239800000005, "lon": 8.76004094799984}
+{"address": "Altstetterstrasse 247 + 249, 8048 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.3883859406474, "lon": 8.486757038944555}
+{"address": "Avenue Parc-de-la-Rouvraie 6, 1018 Lausanne", "price": "CHF 2’170.– / Monat", "lat": null, "lon": null}
+{"address": "Zähringerstrasse 18, 4057 Basel", "price": "CHF 2’170.– / Monat", "lat": 47.5699369, "lon": 7.5884312}
+{"address": "Erlenmattweg 7, 4058 Basel", "price": "CHF 2’170.– / Monat", "lat": 47.5694446, "lon": 7.6017367}
+{"address": "Nordeckstrasse 10, 8636 Wald ZH", "price": "CHF 2’170.– / Monat", "lat": 47.2680332, "lon": 8.9159312}
+{"address": "Altstetterstrasse 247 + 249, 8048 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.3883859406474, "lon": 8.486757038944555}
+{"address": "Altstetterstrasse 247 + 249, 8048 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.3883859406474, "lon": 8.486757038944555}
+{"address": "Altstetterstrasse 247 + 249, 8048 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.3883859406474, "lon": 8.486757038944555}
+{"address": "Lerchenhalde 4, 8703 Erlenbach ZH", "price": "CHF 2’170.– / Monat", "lat": 47.3075037, "lon": 8.597878694041455}
+{"address": "Buckhauserstrasse 49, 8048 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.38425, "lon": 8.4941461}
+{"address": "Papillonallee 21a, 3172 Niederwangen BE", "price": "CHF 2’170.– / Monat", "lat": 46.928965649999995, "lon": 7.38840559959643}
+{"address": "Papillonallee 15b, 3172 Niederwangen BE", "price": "CHF 2’170.– / Monat", "lat": 46.9293239, "lon": 7.387921476002995}
+{"address": "Gartenstrasse 6, 8002 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.3688989, "lon": 8.5346665}
+{"address": "Kieshübelweg 2, 4310 Rheinfelden", "price": "CHF 2’170.– / Monat", "lat": 47.5484714, "lon": 7.7761875}
+{"address": "Rue Louis-D'Affry 6, 1700 Fribourg", "price": "CHF 2’170.– / Monat", "lat": 46.80358593281353, "lon": 7.150016759877996}
+{"address": "Erlenmattstrasse 18, 4058 Basel", "price": "CHF 2’170.– / Monat", "lat": 47.5696198, "lon": 7.6003248}
+{"address": "Via Quinta 59, 6710 Biasca", "price": "CHF 2’170.– / Monat", "lat": 46.349700944512584, "lon": 8.972572549112444}
+{"address": "Via Beltramina 8, 6900 Lugano", "price": "CHF 2’170.– / Monat", "lat": 46.01733183132692, "lon": 8.956635744418996}
+{"address": "Bahnhofstrasse 7, 4415 Lausen", "price": "CHF 2’170.– / Monat", "lat": 47.4704259, "lon": 7.760250659513142}
+{"address": "Berntorgasse 16, 3600 Thun", "price": "CHF 2’730.– / Monat", "lat": 46.76093845, "lon": 7.62720647145314}
+{"address": "Zwischenbächen 8, 8048 Zürich", "price": "CHF 2’730.– / Monat", "lat": 47.385465249999996, "lon": 8.480893407862188}
+{"address": "Bois de la Chapelle 63, 1213 Onex", "price": "CHF 2’730.– / Monat", "lat": 46.1890413, "lon": 6.102466}
+{"address": "Margrethenstrasse 3, 4103 Bottmingen", "price": "CHF 2’730.– / Monat", "lat": 47.527083399999995, "lon": 7.573730799999999}
+{"address": "Kranichweg 34, 3074 Muri b. Bern", "price": "CHF 2’730.– / Monat", "lat": null, "lon": null}
+{"address": "Kranichweg 4, 3074 Muri b. Bern", "price": "CHF 2’730.– / Monat", "lat": null, "lon": null}
+{"address": "Gellertpark 4, 4052 Basel", "price": "CHF 2’730.– / Monat", "lat": 47.5523999, "lon": 7.6088055}
+{"address": "Althardstr. 52D, 8105 Regensdorf", "price": "CHF 2’730.– / Monat", "lat": 47.437667149999996, "lon": 8.47283102198942}
+{"address": "Oberer Rheinweg 35, 4058 Basel", "price": "CHF 2’730.– / Monat", "lat": 47.5596364, "lon": 7.5922363}
+{"address": "Stauffacherstrasse 7, 9000 St. Gallen", "price": "CHF 2’730.– / Monat", "lat": 47.4233828, "lon": 9.363545290413684}
+{"address": "Burgstrasse 59, 9000 St. Gallen", "price": "CHF 2’730.– / Monat", "lat": 47.4175522, "lon": 9.3589454}
+{"address": "Girhaldenstrasse 20, 8048 Zürich", "price": "CHF 2’730.– / Monat", "lat": 47.3887106, "lon": 8.4778869}
+{"address": "Centralweg 16, 3013 Bern", "price": "CHF 2’730.– / Monat", "lat": 46.9568007, "lon": 7.4460501}
+{"address": "Hegenheimerstrasse 47, 4055 Basel", "price": "CHF 2’730.– / Monat", "lat": 47.5602871, "lon": 7.572334}
+{"address": "Lörracherstrasse 146, 4125 Riehen", "price": "CHF 2’730.– / Monat", "lat": 47.593975650000004, "lon": 7.655076756066734}
+{"address": "Büchelring 7, 8134 Adliswil", "price": "CHF 2’730.– / Monat", "lat": 47.3008182, "lon": 8.5204045}
+{"address": "Torggelstrasse 12, 8265 Mammern", "price": "CHF 2’730.– / Monat", "lat": 47.64235715, "lon": 8.913912191645869}
+{"address": "Bachlettenstrasse 47, 4054 Basel", "price": "CHF 2’730.– / Monat", "lat": 47.5485763, "lon": 7.5792627}
+{"address": "Muesmattweg 110a, 4123 Allschwil", "price": "CHF 2’730.– / Monat", "lat": 47.5570542, "lon": 7.5544453}
+{"address": "Lessingstrasse 9, 8002 Zürich", "price": "CHF 2’730.– / Monat", "lat": 47.3589702, "lon": 8.524235995596992}
+{"address": "Rosengartenhalde 9B, 6006 Luzern", "price": "CHF 5’000.– / Monat", "lat": 47.05582685, "lon": 8.33943285}
+{"address": "Bahnhofstrasse 29, 6162 Entlebuch", "price": "CHF 5’000.– / Monat", "lat": 46.99279905, "lon": 8.062181943454604}
+{"address": "Neuhardstrasse 11, 4600 Olten", "price": "CHF 5’000.– / Monat", "lat": 47.3491937, "lon": 7.9097581}
+{"address": "Klingentalgraben 37, 4057 Basel", "price": "CHF 5’000.– / Monat", "lat": 47.5642678, "lon": 7.5911068}
+{"address": "Niederdorfstrasse 37, 8001 Zürich", "price": "CHF 5’000.– / Monat", "lat": 47.37487745, "lon": 8.543692238869863}
+{"address": "Madretschstrasse 72, 2503 Bienne", "price": "CHF 5’000.– / Monat", "lat": 47.134571, "lon": 7.2555474}
+{"address": "Beckenmoosstrasse 10, 8586 Riedt b. Erlen", "price": "CHF 5’000.– / Monat", "lat": 47.547846907271904, "lon": 9.218592585520312}
+{"address": "Missionsstrasse 21D, 4055 Basel", "price": "CHF 5’000.– / Monat", "lat": 47.5584801, "lon": 7.57686}
+{"address": "Viale Serfontana, 6834 Morbio Inferiore", "price": "CHF 5’000.– / Monat", "lat": 45.84765255769844, "lon": 9.014801828419085}
+{"address": "Amerbachstrasse 66, 4057 Basel", "price": "CHF 5’000.– / Monat", "lat": 47.5692456, "lon": 7.5941997}
+{"address": "Kirchweg 30, 8102 Oberengstringen", "price": "CHF 5’000.– / Monat", "lat": 47.4051629, "lon": 8.4733558}
+{"address": "Via Sasso Corbaro 19, 6593 Cadenazzo", "price": "CHF 5’000.– / Monat", "lat": 46.15130057952928, "lon": 8.944419531213565}
+{"address": "Rue de la Fiaz 38, 2300 La Chaux-de-Fonds", "price": "CHF 5’000.– / Monat", "lat": 47.0893454, "lon": 6.807948252817535}
+{"address": "Veia Soras 33, 7460 Savognin", "price": "CHF 5’000.– / Monat", "lat": 46.60111125, "lon": 9.604059085660328}
+{"address": "Alte Gockhauserstrasse 4, 8044 Gockhausen", "price": "CHF 5’000.– / Monat", "lat": 47.381631, "lon": 8.59493805}
+{"address": "Hauptstrasse 10, 4147 Aesch BL", "price": "CHF 5’000.– / Monat", "lat": 47.4644298, "lon": 7.6016969}
+{"address": "Langägertenstrasse 22, 8125 Zollikerberg", "price": "CHF 5’000.– / Monat", "lat": 47.344475450000004, "lon": 8.596223350954984}
+{"address": "Underbach 19, 8494 Bauma", "price": "CHF 5’000.– / Monat", "lat": 47.372953949999996, "lon": 8.86868753088877}
+{"address": "Promenada 35b, 7018 Flims", "price": "CHF 5’000.– / Monat", "lat": 46.82793445, "lon": 9.28826024334023}
+{"address": "Laubisrütistrasse 53, 8712 Stäfa", "price": "CHF 5’000.– / Monat", "lat": 47.23907335, "lon": 8.74622725}
+{"address": "Oberwilerstrasse 27, 4106 Therwil", "price": "CHF 2’520.– / Monat", "lat": 47.5011527, "lon": 7.5533118}
+{"address": "Herbstweg 77, 8050 Zürich", "price": "CHF 2’520.– / Monat", "lat": 47.4064039, "lon": 8.5626009}
+{"address": "Riedstrasse 1, 8914 Aeugstertal", "price": "CHF 2’520.– / Monat", "lat": 47.28671065, "lon": 8.481126199999999}
+{"address": "Kirchweg 3, 5622 Waltenschwil", "price": "CHF 2’520.– / Monat", "lat": 47.333912749999996, "lon": 8.301122100000002}
+{"address": "Dorfstrasse 51, 8192 Glattfelden", "price": "CHF 2’520.– / Monat", "lat": 47.5585478, "lon": 8.502958}
+{"address": "Ausserdorf 15, 5705 Hallwil", "price": "CHF 2’520.– / Monat", "lat": 47.32608315, "lon": 8.17915964917013}
+{"address": "Grampenweg 29, 8180 Bülach", "price": "CHF 2’520.– / Monat", "lat": 47.5168349, "lon": 8.535016696550846}
+{"address": "Plattenstrasse 15, 8706 Meilen", "price": "CHF 2’520.– / Monat", "lat": 47.2715848, "lon": 8.637940756052142}
+{"address": "4202 Duggingen", "price": "CHF 2’520.– / Monat", "lat": 47.452058338444445, "lon": 7.606126141222222}
+{"address": "Chastli 40, 8718 Schänis", "price": "CHF 2’520.– / Monat", "lat": 47.1636044, "lon": 9.054859408769763}
+{"address": "Kruft 6, 9425 Thal", "price": "CHF 2’520.– / Monat", "lat": 47.46471255, "lon": 9.57227649864157}
+{"address": "Dorfstrasse 1, 8934 Knonau", "price": "CHF 2’520.– / Monat", "lat": 47.223993, "lon": 8.462869335753219}
+{"address": "Neubadstrasse 149, 4054 Basel", "price": "CHF 2’520.– / Monat", "lat": 47.5469038, "lon": 7.565355}
+{"address": "Lombardeiweg 12, 3904 Naters", "price": "CHF 2’520.– / Monat", "lat": 46.32691389480042, "lon": 7.988903061959285}
+{"address": "Dorfstrasse 45, 5436 Würenlos", "price": "CHF 2’520.– / Monat", "lat": 47.44325035, "lon": 8.3651756}
+{"address": "Oberdorfstrasse 43, 8874 Mühlehorn", "price": "CHF 2’520.– / Monat", "lat": 47.1165534, "lon": 9.17123933169014}
+{"address": "Bättwilerstrasse 37, 4108 Witterswil", "price": "CHF 2’520.– / Monat", "lat": 47.48694305, "lon": 7.519845104275655}
+{"address": "Roswiesenstrasse 122, 8051 Zürich", "price": "CHF 2’520.– / Monat", "lat": 47.40621455, "lon": 8.578507400000003}
+{"address": "Lindhaldenstrasse 120, 3076 Worb", "price": "CHF 2’520.– / Monat", "lat": 46.9278411, "lon": 7.577855769082266}
+{"address": "8008 Zürich", "price": "CHF 2’520.– / Monat", "lat": 47.3537532, "lon": 8.560742331897757}
+{"address": "Tobelhofstrasse 344, 8044 Gockhausen", "price": "CHF 2’610.– / Monat", "lat": 47.3819456324624, "lon": 8.598339804624782}
+{"address": "Kurvenstrasse 13, 8006 Zürich", "price": "CHF 2’610.– / Monat", "lat": 47.3843066, "lon": 8.542326805989921}
+{"address": "Stückelbergstrasse 4, 9000 St. Gallen", "price": "CHF 2’610.– / Monat", "lat": 47.4164503, "lon": 9.356135}
+{"address": "Pfäffikonerstrasse 16, 8834 Schindellegi", "price": "CHF 2’610.– / Monat", "lat": 47.1761, "lon": 8.713699}
+{"address": "Grünrain 7, 6026 Rain", "price": "CHF 2’610.– / Monat", "lat": 47.1277791, "lon": 8.245222155824393}
+{"address": "Steinacherrain 5, 6232 Geuensee", "price": "CHF 2’610.– / Monat", "lat": 47.2030294, "lon": 8.10650175}
+{"address": "Püntenstrasse 18, 8184 Bachenbülach", "price": "CHF 2’610.– / Monat", "lat": 47.5068791, "lon": 8.546710882453894}
+{"address": "Fischerhäuserstrasse 7, 8200 Schaffhausen", "price": "CHF 2’610.– / Monat", "lat": 47.696004450000004, "lon": 8.642428101973131}
+{"address": "Bergstrasse 10, 8735 St. Gallenkappel", "price": "CHF 2’610.– / Monat", "lat": 47.24392435, "lon": 8.960577349863977}
+{"address": "Grabackerstrasse 21, 8722 Kaltbrunn", "price": "CHF 2’610.– / Monat", "lat": 47.21528135, "lon": 9.010520044832697}
+{"address": "Bleikiwäg 16, 8197 Rafz", "price": "CHF 2’610.– / Monat", "lat": 47.6146648, "lon": 8.54868765699172}
+{"address": "Bahnhofplatz 1, 8802 Kilchberg", "price": "CHF 2’610.– / Monat", "lat": 47.3250602, "lon": 8.5479821}
+{"address": "Frohsinnweg 3, 6314 Unterägeri", "price": "CHF 2’610.– / Monat", "lat": 47.1368492, "lon": 8.5840794}
+{"address": "Baarerstrasse 125, 6300 Zug", "price": "CHF 2’610.– / Monat", "lat": 47.180355, "lon": 8.5186036}
+{"address": "Landvogt-Waser-Strasse 50, 8405 Winterthur", "price": "CHF 2’610.– / Monat", "lat": 47.4866977, "lon": 8.762284181119291}
+{"address": "Aeschenbrunnmattstrasse 81, 3047 Bremgarten b. Bern", "price": "CHF 2’610.– / Monat", "lat": null, "lon": null}
+{"address": "Wenkenhaldenweg 30, 4125 Riehen", "price": "CHF 2’610.– / Monat", "lat": 47.5785042, "lon": 7.6553412}
+{"address": "Schulhausstrasse 17, 5106 Veltheim AG", "price": "CHF 2’610.– / Monat", "lat": 47.4369809, "lon": 8.150988}
+{"address": "Maiengasse 26, 4123 Allschwil", "price": "CHF 2’610.– / Monat", "lat": 47.55523765, "lon": 7.547237714926867}
+{"address": "Vögeliacher 4, 8180 Bülach", "price": "CHF 2’610.– / Monat", "lat": 47.521693, "lon": 8.546436334346033}
+{"address": "Hauptstrasse 23, 3033 Wohlen b. Bern", "price": "CHF 2’770.– / Monat", "lat": null, "lon": null}
+{"address": "Engelwiese 5, 8913 Ottenbach", "price": "CHF 2’770.– / Monat", "lat": 47.281762964389124, "lon": 8.405592557776508}
+{"address": "Hiltystrasse 25, 3006 Bern", "price": "CHF 2’770.– / Monat", "lat": 46.9343912, "lon": 7.475397}
+{"address": "Route de la Feuillère 23, 1010 Lausanne", "price": "CHF 2’770.– / Monat", "lat": 46.535797849999994, "lon": 6.652298191667461}
+{"address": "Via alle Vigne 8, 6963 Lugano", "price": "CHF 2’770.– / Monat", "lat": 46.0203506, "lon": 8.96728355}
+{"address": "Naphtastrasse 10, 8005 Zürich", "price": "CHF 2’770.– / Monat", "lat": 47.3864105, "lon": 8.5156886}
+{"address": "Dorfstrasse 22, 8906 Bonstetten", "price": "CHF 2’770.– / Monat", "lat": 47.315065399999995, "lon": 8.468717621705022}
+{"address": "Via Consiglio Mezzano 40, 6644 Orselina", "price": "CHF 2’770.– / Monat", "lat": 46.17750495, "lon": 8.799296708402487}
+{"address": "Unter Stock 418, 3551 Oberfrittenbach", "price": "CHF 2’770.– / Monat", "lat": 46.9629106, "lon": 7.785385087663145}
+{"address": "Fälimattstrasse 4, 5735 Pfeffikon LU", "price": "CHF 2’770.– / Monat", "lat": 47.2522456, "lon": 8.174853842945469}
+{"address": "Im Burgfelderhof 43, 4055 Basel", "price": "CHF 2’770.– / Monat", "lat": 47.5716655, "lon": 7.5585205}
+{"address": "Garwiedstrasse 1, 8635 Dürnten", "price": "CHF 2’770.– / Monat", "lat": 47.273401, "lon": 8.871330305944372}
+{"address": "Spiegelacker 4, 8486 Rikon im Tösstal", "price": "CHF 2’770.– / Monat", "lat": null, "lon": null}
+{"address": "Hofweg 3, 8586 Engishofen", "price": "CHF 2’770.– / Monat", "lat": 47.5573109922237, "lon": 9.250343544947665}
+{"address": "Im Schachenhof 21A, 8906 Bonstetten", "price": "CHF 2’770.– / Monat", "lat": 47.32712825, "lon": 8.47221092671893}
+{"address": "Ala Brüga 15, 6593 Cadenazzo", "price": "CHF 2’770.– / Monat", "lat": 46.15356315749807, "lon": 8.953695288793071}
+{"address": "Hochhaus 2, 9630 Wattwil", "price": "CHF 2’770.– / Monat", "lat": 47.30575715, "lon": 9.083638220113261}
+{"address": "Via Ponte Vecchio 6, 6807 Taverne", "price": "CHF 2’770.– / Monat", "lat": 46.06536441464017, "lon": 8.931921138003231}
+{"address": "Hürststrasse 60, 8046 Zürich", "price": "CHF 2’770.– / Monat", "lat": 47.4146042, "lon": 8.5275469}
+{"address": "Gartenstrasse 2a, 8910 Affoltern am Albis", "price": "CHF 2’770.– / Monat", "lat": 47.2752468, "lon": 8.450888866952383}
+{"address": "Chemin Du Devin 47c, 1012 Lausanne", "price": "CHF 1’550.– / Monat", "lat": 46.5315348, "lon": 6.6517867}
+{"address": "Rue du Petit-St-Jean 5, 1003 Lausanne", "price": "CHF 1’550.– / Monat", "lat": 46.52120455, "lon": 6.632888237616485}
+{"address": "Martinsbergstrasse 32, 5400 Baden", "price": "CHF 1’550.– / Monat", "lat": 47.4794567, "lon": 8.2983375}
+{"address": "Quai du Seujet 14, 1201 Genève", "price": "CHF 1’550.– / Monat", "lat": 46.2055031, "lon": 6.1359321}
+{"address": "Hofwiesenweg 5, 8405 Winterthur", "price": "CHF 1’550.– / Monat", "lat": 47.486316349999996, "lon": 8.75760475}
+{"address": "Frankengasse 25, 8001 Zürich", "price": "CHF 1’550.– / Monat", "lat": 47.37006135, "lon": 8.546002265894861}
+{"address": "Hauptstrasse 20, 8246 Langwiesen", "price": "CHF 1’550.– / Monat", "lat": 47.68422685, "lon": 8.665684221652457}
+{"address": "Im Grossacher 38, 5622 Waltenschwil", "price": "CHF 1’550.– / Monat", "lat": 47.3326944, "lon": 8.2815917}
+{"address": "Rue de Lyon 61bis, 1203 Genève", "price": "CHF 1’550.– / Monat", "lat": 46.2084372, "lon": 6.1303105}
+{"address": "Steinhaldenweg 4, 8590 Romanshorn", "price": "CHF 1’550.– / Monat", "lat": 47.57479995, "lon": 9.368597600000001}
+{"address": "Im Grod 1, 6315 Oberägeri", "price": "CHF 1’550.– / Monat", "lat": 47.1350094, "lon": 8.6316499}
+{"address": "Untergütschstrasse 24, 6003 Luzern", "price": "CHF 1’550.– / Monat", "lat": 47.0478913, "lon": 8.294138836556852}
+{"address": "Hochstrasse 307, 8200 Schaffhausen", "price": "CHF 1’550.– / Monat", "lat": 47.7159238, "lon": 8.6467475}
+{"address": "Feldeckstrasse 13, 2502 Biel/Bienne", "price": "CHF 1’550.– / Monat", "lat": 47.146712550000004, "lon": 7.2567310368324645}
+{"address": "Werftstrasse 1, 9320 Arbon", "price": "CHF 1’550.– / Monat", "lat": 47.5187188, "lon": 9.427976136753465}
+{"address": "Rue du Lac 138, 1815 Clarens", "price": "CHF 1’550.– / Monat", "lat": 46.442832949999996, "lon": 6.886041245909942}
+{"address": "Zur Stahlgiesserei 5, 8200 Schaffhausen", "price": "CHF 1’550.– / Monat", "lat": 47.70398985, "lon": 8.630736944176315}
+{"address": "Niesenstrasse 9, 3700 Spiez", "price": "CHF 1’550.– / Monat", "lat": 46.6908436, "lon": 7.672332531668237}
+{"address": "Tannenstrasse 4, 9300 Wittenbach", "price": "CHF 1’550.– / Monat", "lat": 47.4562836, "lon": 9.385459744001983}
+{"address": "Flühstrasse 15, 4114 Hofstetten SO", "price": "CHF 1’550.– / Monat", "lat": 47.47592445, "lon": 7.5139942387514065}
+{"address": "Schwendlenrain 3, 6038 Honau", "price": "CHF 5’210.– / Monat", "lat": 47.1312078, "lon": 8.407522272145982}
+{"address": "Haldenweidstrasse 6, 8309 Nürensdorf", "price": "CHF 5’210.– / Monat", "lat": 47.45796345, "lon": 8.634237749999999}
+{"address": "Zürichstrasse 10A, 8340 Hinwil", "price": "CHF 5’210.– / Monat", "lat": 47.30270955, "lon": 8.842942360843399}
+{"address": "Ch. de la Milice 9, 1228 Plan-les-Ouates", "price": "CHF 5’210.– / Monat", "lat": 46.1692956, "lon": 6.1235529}
+{"address": "Hueberstrasse 7, 8304 Wallisellen", "price": "CHF 5’210.– / Monat", "lat": 47.41541695, "lon": 8.603919099999999}
+{"address": "Le Cornat 12, 2946 La Baroche", "price": "CHF 5’210.– / Monat", "lat": 47.427715899999995, "lon": 7.178052540960913}
+{"address": "Im Chrummbächli 14, 8805 Richterswil", "price": "CHF 5’210.– / Monat", "lat": 47.2041092, "lon": 8.698105175565154}
+{"address": "Sonnenhofstr. 10b, 5621 Zufikon", "price": "CHF 5’210.– / Monat", "lat": 47.3525442, "lon": 8.3528535}
+{"address": "Im Feldacher 22, 8320 Fehraltorf", "price": "CHF 5’210.– / Monat", "lat": 47.384338, "lon": 8.75798164812433}
+{"address": "Viale 1814 11, 6512 Bellinzona", "price": "CHF 5’210.– / Monat", "lat": 46.172455252941916, "lon": 9.006938874591432}
+{"address": "Im Chratz 2, 8158 Regensberg", "price": "CHF 5’210.– / Monat", "lat": 47.48259805, "lon": 8.437281552362764}
+{"address": "Rohrhagstr. 14, 4104 Oberwil BL", "price": "CHF 5’210.– / Monat", "lat": 47.5179699, "lon": 7.5671322}
+{"address": "Schuetzenweg 24, 9470 Buchs SG", "price": "CHF 5’210.– / Monat", "lat": 47.15643981627353, "lon": 9.477351465180055}
+{"address": "Grütstrasse 1, 8474 Dinhard", "price": "CHF 5’210.– / Monat", "lat": 47.559401210727984, "lon": 8.776213416643248}
+{"address": "Predigerhofstrasse 77, 4059 Basel", "price": "CHF 5’210.– / Monat", "lat": 47.5242789, "lon": 7.5902133}
+{"address": "Sandrainstrasse 68, 3007 Bern", "price": "CHF 5’210.– / Monat", "lat": 46.9340244, "lon": 7.4434446}
+{"address": "Amerikanerstrasse 36, 4102 Binningen", "price": "CHF 5’210.– / Monat", "lat": 47.536548249999996, "lon": 7.572151958680555}
+{"address": "Bahnhofstrasse 47, 4900 Langenthal", "price": "CHF 5’210.– / Monat", "lat": 47.2161873, "lon": 7.78442495894935}
+{"address": "Hofwiesenstrasse 175, 8057 Zürich", "price": "CHF 5’210.– / Monat", "lat": 47.4017503, "lon": 8.533190877340576}
+{"address": "Goldschlägistrasse 14, 8952 Schlieren", "price": "CHF 5’210.– / Monat", "lat": 47.398355699999996, "lon": 8.439049653209148}
+{"address": "Kuttelgasse 15, 8001 Zürich", "price": "CHF 7’430.– / Monat", "lat": 47.372711100000004, "lon": 8.538885618353738}
+{"address": "Bündtenstrasse 30, 5612 Villmergen", "price": "CHF 7’430.– / Monat", "lat": 47.351852550000004, "lon": 8.250298667314809}
+{"address": "Nordstrasse 34, 8200 Schaffhausen", "price": "CHF 7’430.– / Monat", "lat": 47.70199065, "lon": 8.62784157911237}
+{"address": "Gundeldingerstrasse 462, 4053 Basel", "price": "CHF 7’430.– / Monat", "lat": 47.5375231, "lon": 7.6014768}
+{"address": "Rainstrasse 29, 8955 Oetwil an der Limmat", "price": "CHF 7’430.– / Monat", "lat": 47.426619099999996, "lon": 8.401220114939088}
+{"address": "Stöcklen 30, 6344 Meierskappel", "price": "CHF 7’430.– / Monat", "lat": 47.12195175, "lon": 8.439174705335695}
+{"address": "Rebweg 11, 8174 Stadel b. Niederglatt", "price": "CHF 7’430.– / Monat", "lat": 47.5284326, "lon": 8.4610729}
+{"address": "Chemin de la Fin 7B, 1291 Commugny", "price": "CHF 7’430.– / Monat", "lat": 46.31520185, "lon": 6.178209600000001}
+{"address": "Via Ca'd'Fund 5, 6944 Cureglia", "price": "CHF 7’430.– / Monat", "lat": null, "lon": null}
+{"address": "Brömliackerweg 12, 5303 Würenlingen", "price": "CHF 7’430.– / Monat", "lat": 47.5235471, "lon": 8.2448058}
+{"address": "Dorfstrasse 31, 8330 Pfäffikon", "price": "CHF 7’430.– / Monat", "lat": 47.362030000000004, "lon": 8.793667160960425}
+{"address": "Ringstrasse 20, 8600 Dübendorf", "price": "CHF 7’430.– / Monat", "lat": 47.397740150000004, "lon": 8.603934038914236}
+{"address": "Flühstrasse 15A (West), 4114 Hofstetten SO", "price": "CHF 7’430.– / Monat", "lat": null, "lon": null}
+{"address": "Route de Penau 2, 1052 Le Mont-sur-Lausanne", "price": "CHF 7’430.– / Monat", "lat": 46.54853185, "lon": 6.64142123580978}
+{"address": "Bergwisenstrasse 9, 8123 Ebmatingen", "price": "CHF 7’430.– / Monat", "lat": 47.3478167, "lon": 8.6388798}
+{"address": "Rietstrasse 14, 8355 Aadorf", "price": "CHF 7’430.– / Monat", "lat": 47.49321574889802, "lon": 8.907575440910533}
+{"address": "Rämpferstrasse 8, 8834 Schindellegi", "price": "CHF 7’430.– / Monat", "lat": 47.1824817, "lon": 8.708863753407398}
+{"address": "Rathausgässli 7, 5600 Lenzburg", "price": "CHF 7’430.– / Monat", "lat": 47.3872271, "lon": 8.179845}
+{"address": "Bettingerstrasse 116, 4125 Riehen", "price": "CHF 7’430.– / Monat", "lat": 47.5774, "lon": 7.650852080201407}
+{"address": "Rindermarkt 12, 8001 Zürich", "price": "CHF 7’430.– / Monat", "lat": 47.3722918, "lon": 8.544615630873217}
+{"address": "Rue Bourg-de-Four 23, 1170 Aubonne", "price": "CHF 3’020.– / Monat", "lat": 46.49614837763982, "lon": 6.387887812337826}
+{"address": "Hauptstrasse 76, 4148 Pfeffingen", "price": "CHF 3’020.– / Monat", "lat": 47.4581283, "lon": 7.589858962252475}
+{"address": "Hardstrasse 14, 4127 Birsfelden", "price": "CHF 3’020.– / Monat", "lat": 47.5521047, "lon": 7.6248063}
+{"address": "Chemin de Vassin 14, 1814 La Tour-de-Peilz", "price": "CHF 3’020.– / Monat", "lat": 46.457473199999995, "lon": 6.8661843069274315}
+{"address": "Hegenheimerstrasse 86, 4055 Basel", "price": "CHF 3’020.– / Monat", "lat": 47.5612957, "lon": 7.569739}
+{"address": "Gerlisbergstrasse 15, 8302 Kloten", "price": "CHF 3’020.– / Monat", "lat": 47.4546413, "lon": 8.585207855}
+{"address": "Via Antonio Riva 1, 6900 Lugano", "price": "CHF 3’020.– / Monat", "lat": 45.995787701795905, "lon": 8.942446155865474}
+{"address": "Oberdorfstrasse 38, 8926 Uerzlikon", "price": "CHF 3’020.– / Monat", "lat": 47.2195069, "lon": 8.497223189297417}
+{"address": "Blickensdorferstrasse 21B, 6340 Baar", "price": "CHF 3’020.– / Monat", "lat": 47.2024756, "lon": 8.5147356}
+{"address": "Orbe 68, 1400 Yverdon-les-Bains", "price": "CHF 3’020.– / Monat", "lat": 46.77907035, "lon": 6.629486699061843}
+{"address": "Hauptstrasse 59, 6313 Edlibach", "price": "CHF 3’020.– / Monat", "lat": 47.180891, "lon": 8.5748086}
+{"address": "Kirchbodenstrasse 77, 8800 Thalwil", "price": "CHF 3’020.– / Monat", "lat": 47.29148245, "lon": 8.568246586099693}
+{"address": "Alte Bahnhofstrasse 6, 5610 Wohlen AG", "price": "CHF 3’020.– / Monat", "lat": 47.35080845, "lon": 8.269965817563254}
+{"address": "Dorfplatz 2, 4142 Münchenstein", "price": "CHF 3’020.– / Monat", "lat": 47.5125237, "lon": 7.6205408}
+{"address": "Winkelbüel 2, 6043 Adligenswil", "price": "CHF 3’020.– / Monat", "lat": 47.071928850000006, "lon": 8.378335477598284}
+{"address": "Landoltstrasse 64, 3007 Bern", "price": "CHF 3’020.– / Monat", "lat": 46.9343417, "lon": 7.4410165}
+{"address": "Via Maistra 11, 7505 Celerina/Schlarigna", "price": "CHF 3’020.– / Monat", "lat": 46.509209600000005, "lon": 9.852171079703773}
+{"address": "Oetlingerstr. 8, 4057 Basel", "price": "CHF 3’020.– / Monat", "lat": 47.5672517, "lon": 7.5873462}
+{"address": "Eigerstr. 60, 3007 Bern", "price": "CHF 3’020.– / Monat", "lat": 46.939566, "lon": 7.4370091}
+{"address": "Im Römerquartier 4A, 4800 Zofingen", "price": "CHF 3’020.– / Monat", "lat": 47.2842437, "lon": 7.9478069}
+{"address": "Birsigstrasse 3, 4103 Bottmingen", "price": "CHF 2’820.– / Monat", "lat": 47.5248632, "lon": 7.5699411}
+{"address": "Avenue de la Chablière 35bis, 1004 Lausanne", "price": "CHF 2’820.– / Monat", "lat": 46.5298288709395, "lon": 6.615713250744644}
+{"address": "Via del Sole 5, 6987 Caslano", "price": "CHF 2’820.– / Monat", "lat": 45.97676105, "lon": 8.878260727612465}
+{"address": "Av. de Beaulieu 28, 1004 Lausanne", "price": "CHF 2’820.– / Monat", "lat": 46.526465400000006, "lon": 6.6272490288096835}
+{"address": "Bucheggweg 12, 4500 Solothurn", "price": "CHF 2’820.– / Monat", "lat": 47.2012094, "lon": 7.5348116}
+{"address": "Cäcilienstr. 5, 3007 Bern", "price": "CHF 2’820.– / Monat", "lat": 46.941579250000004, "lon": 7.4264213379879465}
+{"address": "Waldheimweg 2, 3052 Zollikofen", "price": "CHF 2’820.– / Monat", "lat": 47.001852549999995, "lon": 7.449794172121207}
+{"address": "Grütacherstrasse 8, 8624 Grüt (Gossau ZH)", "price": "CHF 2’820.– / Monat", "lat": 47.309536249999994, "lon": 8.782555100000007}
+{"address": "Pestalozzistrasse 38, 8032 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.3731085, "lon": 8.55507589487805}
+{"address": "Mühlegasse 27, 8001 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.3746395, "lon": 8.545376530133556}
+{"address": "Via Mezzaro 2, 6648 Minusio", "price": "CHF 2’820.– / Monat", "lat": 46.176359250140436, "lon": 8.816562719431133}
+{"address": "Chasa Plavna, 7552 Vulpera", "price": "CHF 2’820.– / Monat", "lat": 46.7866657, "lon": 10.287280849977162}
+{"address": "Hirslanderstrasse 33, 8032 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.360388150000006, "lon": 8.570902922968205}
+{"address": "Le Greny 8, 1279 Bogis-Bossey", "price": "CHF 2’820.– / Monat", "lat": 46.353511620691876, "lon": 6.165252351045343}
+{"address": "Nordstrasse 34, 8200 Schaffhausen", "price": "CHF 2’820.– / Monat", "lat": 47.70199065, "lon": 8.62784157911237}
+{"address": "Sempacherstrasse 39A, 8032 Zürich", "price": "CHF 2’820.– / Monat", "lat": 47.36159845, "lon": 8.568544812739969}
+{"address": "Schneckelerstrasse 14, Halbeisen, 4414 Füllinsdorf", "price": "CHF 2’820.– / Monat", "lat": null, "lon": null}
+{"address": "Breitwiesstr. 4, 8135 Langnau am Albis", "price": "CHF 2’820.– / Monat", "lat": 47.2930064, "lon": 8.5371862}
+{"address": "Place des Charmilles 3, 1203 Genève", "price": "CHF 2’820.– / Monat", "lat": 46.2079553, "lon": 6.127365}
+{"address": "Elfenauweg 1, 3006 Bern", "price": "CHF 2’820.– / Monat", "lat": 46.939022, "lon": 7.468719}
+{"address": "Radarstrasse 7, 3013 Bern", "price": "CHF 1’820.– / Monat", "lat": 46.9544023, "lon": 7.4583427}
+{"address": "Eichbergstrasse 8, 9463 Oberriet", "price": "CHF 1’820.– / Monat", "lat": 47.33108427189669, "lon": 9.556575705328838}
+{"address": "Weieren 31A, 9523 Züberwangen", "price": "CHF 1’820.– / Monat", "lat": 47.4647054, "lon": 9.102930428014417}
+{"address": "Rütihofstrasse 7, 6340 Baar", "price": "CHF 1’820.– / Monat", "lat": 47.1739423, "lon": 8.5307936}
+{"address": "Via Quadrella 6, 6927 Collina d'Oro", "price": "CHF 1’820.– / Monat", "lat": 45.96746136440433, "lon": 8.916079622660613}
+{"address": "Seminarstr. 1, 8006 Zürich", "price": "CHF 1’820.– / Monat", "lat": 47.3916892, "lon": 8.5383642}
+{"address": "Au 13, 5420 Ehrendingen", "price": "CHF 1’820.– / Monat", "lat": 47.5037922, "lon": 8.347720929169157}
+{"address": "Jonentalstrasse 18, 8910 Affoltern am Albis", "price": "CHF 1’820.– / Monat", "lat": 47.275085336473005, "lon": 8.458223860447417}
+{"address": "Sihlhaldenstrasse 16, 8803 Rüschlikon", "price": "CHF 1’820.– / Monat", "lat": 47.2965487, "lon": 8.5479915}
+{"address": "Via Cantunètt 9, 6714 Serravalle", "price": "CHF 1’820.– / Monat", "lat": 46.405409500000005, "lon": 8.971996}
+{"address": "Pionierstrasse 10, 8400 Winterthur", "price": "CHF 1’820.– / Monat", "lat": 47.497162, "lon": 8.7201578}
+{"address": "Haselwiesstrasse 12, 8734 Ermenswil", "price": "CHF 1’820.– / Monat", "lat": 47.2445986, "lon": 8.881727151217213}
+{"address": "Bahnhofmatten 4, 5502 Hunzenschwil", "price": "CHF 1’820.– / Monat", "lat": 47.3879206, "lon": 8.121208345558689}
+{"address": "Ringstrasse 16, 8306 Brüttisellen", "price": "CHF 1’820.– / Monat", "lat": 47.417035350000006, "lon": 8.625359274858209}
+{"address": "Ringstrasse 4, 8737 Gommiswald", "price": "CHF 1’820.– / Monat", "lat": 47.2338225, "lon": 9.0214415574208}
+{"address": "Friedensgasse 35, 4056 Basel", "price": "CHF 1’820.– / Monat", "lat": 47.56232315, "lon": 7.5781308793632025}
+{"address": "Breitenacher 49, 8906 Bonstetten", "price": "CHF 1’820.– / Monat", "lat": 47.321739699999995, "lon": 8.472936769989264}
+{"address": "Feldeggstrasse 80, 8008 Zürich", "price": "CHF 1’820.– / Monat", "lat": 47.3617956, "lon": 8.554657749716117}
+{"address": "Hardstrasse 14, 8604 Volketswil", "price": "CHF 1’820.– / Monat", "lat": 47.38663015, "lon": 8.692620969527574}
+{"address": "Hohbächli 10, 5079 Zeihen", "price": "CHF 1’820.– / Monat", "lat": 47.4770853, "lon": 8.0879447}
+{"address": "Rütihofstrasse 3, 5462 Siglistorf", "price": "CHF 2’170.– / Monat", "lat": 47.5426202, "lon": 8.3842726}
+{"address": "Halden 3, 9043 Trogen", "price": "CHF 2’170.– / Monat", "lat": 47.40713065, "lon": 9.46021125}
+{"address": "Bäumlihofstrasse 41, 4058 Basel", "price": "CHF 2’170.– / Monat", "lat": 47.5633333, "lon": 7.6131817}
+{"address": "Wülflingerstrasse 118, 8408 Winterthur", "price": "CHF 2’170.– / Monat", "lat": 47.50852945, "lon": 8.708372405014021}
+{"address": "Kanzleistrasse 3, 8004 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.37352, "lon": 8.5277751}
+{"address": "Blauenstrasse 1, 4153 Reinach BL", "price": "CHF 2’170.– / Monat", "lat": 47.4940241, "lon": 7.5881277}
+{"address": "Hegenheimerstrasse 86, 4055 Basel", "price": "CHF 2’170.– / Monat", "lat": 47.5612957, "lon": 7.569739}
+{"address": "Pfingstweidstrasse 98, 8005 Zürich", "price": "CHF 2’170.– / Monat", "lat": 47.3904653, "lon": 8.5102824}
+{"address": "Rheinweg 45, 8264 Eschenz", "price": "CHF 2’170.– / Monat", "lat": 47.652678445187675, "lon": 8.866430890354373}
+{"address": "Spitzenrainweg 54, 4147 Aesch BL", "price": "CHF 2’170.– / Monat", "lat": 47.474477, "lon": 7.5992428}
+{"address": "Rue Crespin 20, 1206 Genève", "price": "CHF 2’170.– / Monat", "lat": 46.1951941, "lon": 6.1597784}
+{"address": "Bergwisenstrasse 6, 8123 Ebmatingen", "price": "CHF 2’170.– / Monat", "lat": 47.34861385, "lon": 8.636395387871888}
+{"address": "Neuweilerstrasse 4a, 4123 Allschwil", "price": "CHF 2’170.– / Monat", "lat": 47.5503344, "lon": 7.5358286}
+{"address": "Pfaffenmattweg 31, 4132 Muttenz", "price": "CHF 2’170.– / Monat", "lat": 47.52237635, "lon": 7.639322086561121}
+{"address": "Laufenstrasse 4, 4053 Basel", "price": "CHF 2’170.– / Monat", "lat": 47.5426561, "lon": 7.6001145}
+{"address": "Curt Goetz-Strasse 27, 4102 Binningen", "price": "CHF 2’170.– / Monat", "lat": 47.539852, "lon": 7.5747952}
+{"address": "Lungolago Roncaioli, 40, 6827 Brusino Arsizio", "price": "CHF 2’170.– / Monat", "lat": 45.926592150000005, "lon": 8.936643111168975}
+{"address": "Hälderstrasse 4, 8451 Kleinandelfingen", "price": "CHF 2’170.– / Monat", "lat": 47.601233199999996, "lon": 8.687598544892069}
+{"address": "Via Valletta 4, 6516 Cugnasco-Gerra", "price": "CHF 2’170.– / Monat", "lat": 46.17624025338387, "lon": 8.92808681213008}
+{"address": "47 Hauptstrasse, 4148 Pfeffingen", "price": "CHF 2’170.– / Monat", "lat": 47.45919015, "lon": 7.589662569100295}
+{"address": "Centralstrasse 93, 2540 Grenchen", "price": "CHF 1’450.– / Monat", "lat": 47.1963164, "lon": 7.3943971}
+{"address": "Hubstrasse 42, 9500 Wil SG", "price": "CHF 1’450.– / Monat", "lat": 47.461453, "lon": 9.0381292}
+{"address": "Via Boscioro 18, 6962 Viganello", "price": "CHF 1’450.– / Monat", "lat": 46.01405855, "lon": 8.961853399999999}
+{"address": "Bahnhofstrasse 8, 8902 Urdorf", "price": "CHF 1’450.– / Monat", "lat": 47.38953055, "lon": 8.431263800000004}
+{"address": "Johann Brüderlin-Strasse 18, 4132 Muttenz", "price": "CHF 1’450.– / Monat", "lat": 47.5277388, "lon": 7.649358}
+{"address": "Poststrasse 13, 8312 Winterberg ZH", "price": "CHF 1’450.– / Monat", "lat": 47.45669705, "lon": 8.692848716564725}
+{"address": "Chemin de la Bruyère, 1009 Pully", "price": "CHF 1’450.– / Monat", "lat": 46.52305086193982, "lon": 6.662501093905755}
+{"address": "Rorschacher Strasse 124, 9000 St. Gallen", "price": "CHF 1’450.– / Monat", "lat": 47.4307514, "lon": 9.3937413}
+{"address": "Etzelstrasse 9, 8832 Wollerau", "price": "CHF 1’450.– / Monat", "lat": 47.19472965, "lon": 8.723385374076774}
+{"address": "Schulhausstrasse 12, 8704 Herrliberg", "price": "CHF 1’450.– / Monat", "lat": 47.2872275, "lon": 8.615177956890435}
+{"address": "Luegislandstrasse 68, 8051 Zürich", "price": "CHF 1’450.– / Monat", "lat": 47.4065564, "lon": 8.5679286}
+{"address": "Wiesliacher 44, 8053 Zürich", "price": "CHF 1’450.– / Monat", "lat": 47.3551939, "lon": 8.597106372769524}
+{"address": "Schulstrasse 60, 8952 Schlieren", "price": "CHF 1’450.– / Monat", "lat": 47.3964912, "lon": 8.459537036205372}
+{"address": "Ferdinand Hodlerstrasse 32, 8049 Zürich", "price": "CHF 1’450.– / Monat", "lat": 47.4047376, "lon": 8.4992556}
+{"address": "Asylstrasse 9, 8810 Horgen", "price": "CHF 1’450.– / Monat", "lat": 47.2640014, "lon": 8.5893821}
+{"address": "Kantonsstrasse 69, 8807 Freienbach", "price": "CHF 1’450.– / Monat", "lat": 47.2069542, "lon": 8.7532486}
+{"address": "Starrkircherstrasse, 4600 Olten", "price": "CHF 1’450.– / Monat", "lat": 47.3485034415819, "lon": 7.922396476011055}
+{"address": "Neumattstrasse 43, 4103 Bottmingen", "price": "CHF 1’450.– / Monat", "lat": 47.52825045, "lon": 7.569883662569348}
+{"address": "Runal 3, 7453 Tinizong", "price": "CHF 1’450.– / Monat", "lat": 46.58452695542345, "lon": 9.616761561144735}
+{"address": "Brandschenkestrasse 54, 8002 Zurigo", "price": "CHF 1’450.– / Monat", "lat": 47.36793595, "lon": 8.52933841451653}
+{"address": "Himmeriweg 6, 8052 Seebach", "price": "CHF 4’060.– / Monat", "lat": 47.41856285, "lon": 8.537337173801262}
+{"address": "Sonnhalde 6, 8121 Benglen", "price": "CHF 4’060.– / Monat", "lat": 47.3579547, "lon": 8.636599459681374}
+{"address": "Leimenstrasse 7, 4051 Basel", "price": "CHF 4’060.– / Monat", "lat": 47.554853, "lon": 7.5834421}
+{"address": "Rue des Epinettes, 1227 Genève", "price": "CHF 4’060.– / Monat", "lat": 46.19066689007368, "lon": 6.135290579643525}
+{"address": "Chemin de la Résidence, 1009 Pully", "price": "CHF 4’060.– / Monat", "lat": 46.50586602203233, "lon": 6.667514731691663}
+{"address": "La Voie-du-Coin, 1218 Le Grand-Saconnex", "price": "CHF 4’060.– / Monat", "lat": 46.23672404523945, "lon": 6.128868385611172}
+{"address": "Sonnenrain 2, 4800 Zofingen", "price": "CHF 4’060.– / Monat", "lat": 47.28132095, "lon": 7.950091711018208}
+{"address": "Oberburgstrasse 11a, 3400 Burgdorf", "price": "CHF 4’060.– / Monat", "lat": 47.0531545, "lon": 7.62424613025687}
+{"address": "Dennigkofenweg 77a, 3073 Gümligen", "price": "CHF 4’060.– / Monat", "lat": 46.941968700000004, "lon": 7.4954825071854}
+{"address": "Erachfeldstrasse 6, 8180 Bülach", "price": "CHF 4’060.– / Monat", "lat": 47.5156686, "lon": 8.540641050000001}
+{"address": "Ruberbaum 36, 8560 Märstetten", "price": "CHF 4’060.– / Monat", "lat": 47.588510948432216, "lon": 9.078946701784883}
+{"address": "Bergstrasse Bollerrain 5, 8132 Hinteregg", "price": "CHF 4’060.– / Monat", "lat": 47.30549687253026, "lon": 8.674529636391583}
+{"address": "Mutschellenplatz 3 (Bolleri), 8964 Rudolfstetten", "price": "CHF 4’060.– / Monat", "lat": null, "lon": null}
+{"address": "Mutschellenplatz 3 (Bolleri), 8964 Rudolfstetten", "price": "CHF 4’060.– / Monat", "lat": null, "lon": null}
+{"address": "Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten", "price": "CHF 4’060.– / Monat", "lat": null, "lon": null}
+{"address": "Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten", "price": "CHF 4’060.– / Monat", "lat": null, "lon": null}
+{"address": "Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten", "price": "CHF 4’060.– / Monat", "lat": null, "lon": null}
+{"address": "Mutschellenplatz 3 (Bolleri), 8964 Rudolfstetten", "price": "CHF 4’060.– / Monat", "lat": null, "lon": null}
+{"address": "Chemin du Dézaley 5, 1026 Echandens", "price": "CHF 4’060.– / Monat", "lat": 46.53064685, "lon": 6.5408744}
+{"address": "Seestrasse 38B, 8806 Wollerau", "price": "CHF 4’060.– / Monat", "lat": 47.20080402829486, "lon": 8.72419307434956}
+{"address": "Chemin du Liaudoz 2, 1009 Pully", "price": "CHF 5’150.– / Monat", "lat": 46.51259815, "lon": 6.6580920282290315}
+{"address": "Grand-Rue, 1204 Genève", "price": "CHF 5’150.– / Monat", "lat": 46.202151952755294, "lon": 6.145229943468845}
+{"address": "Friesstrasse 25, 8050 Zürich", "price": "CHF 5’150.– / Monat", "lat": 47.41511825, "lon": 8.546343590228052}
+{"address": "Sommerig 2086, 8723 Maseltrangen", "price": "CHF 5’150.– / Monat", "lat": 47.2010099, "lon": 9.0644574}
+{"address": "Staubergasse 15, 8124 Maur", "price": "CHF 5’150.– / Monat", "lat": 47.33860821088722, "lon": 8.66972723271838}
+{"address": "Witellikerstraße, 8702 Zollikon", "price": "CHF 5’150.– / Monat", "lat": 47.34470641992798, "lon": 8.581770568867023}
+{"address": "Schaffhauserplatz 10, 8006 Zürich", "price": "CHF 5’150.– / Monat", "lat": 47.3916747, "lon": 8.539097623581638}
+{"address": "Schaffhauserplatz 10, 8006 Zürich", "price": "CHF 5’150.– / Monat", "lat": 47.3916747, "lon": 8.539097623581638}
+{"address": "Widenhubstrasse 8, 8552 Felben-Wellhausen", "price": "CHF 5’150.– / Monat", "lat": 47.579136899999995, "lon": 8.939931771031738}
+{"address": "Steinwichslenstrasse 11, 9052 Niederteufen", "price": "CHF 5’150.– / Monat", "lat": 47.39089635, "lon": 9.366164950424501}
+{"address": "Engstringerstrasse 50, 8952 Schlieren", "price": "CHF 5’150.– / Monat", "lat": 47.40734325, "lon": 8.4479178}
+{"address": "Unter Stock 418, 3551 Oberfrittenbach", "price": "CHF 5’150.– / Monat", "lat": 46.9629106, "lon": 7.785385087663145}
+{"address": "Ernst-Schüler-Strasse 30, 2502 Biel", "price": "CHF 5’150.– / Monat", "lat": 47.13993135, "lon": 7.249555897854606}
+{"address": "Bederstrasse 94, 8002 Zürich", "price": "CHF 5’150.– / Monat", "lat": 47.362027, "lon": 8.526243626621547}
+{"address": "Rohrhagstrasse 4, 4104 Oberwil BL", "price": "CHF 5’150.– / Monat", "lat": 47.517254, "lon": 7.5663809}
+{"address": "Av. de l'Europe 53A, 1870 Monthey, 1870 Monthey", "price": "CHF 5’150.– / Monat", "lat": null, "lon": null}
+{"address": "Kurhausstrasse 80, 8032 Zürich", "price": "CHF 5’150.– / Monat", "lat": 47.37210855, "lon": 8.575571313813732}
+{"address": "Rue des Longs-Champs 49, 2854 Bassecourt", "price": "CHF 5’150.– / Monat", "lat": 47.3414618, "lon": 7.2436329}
+{"address": "Meierhöflistrasse 12, 6020 Emmenbrücke", "price": "CHF 5’150.– / Monat", "lat": 47.07103925, "lon": 8.288410832095941}
+{"address": "Aeussere Lange Heid 14, 4142 Münchenstein", "price": "CHF 5’150.– / Monat", "lat": 47.5240537, "lon": 7.6065803}
+{"address": "Wächlenstrasse 25, 8832 Wollerau", "price": "CHF 3’720.– / Monat", "lat": 47.19588005, "lon": 8.724117040356827}
+{"address": "Untere Leimenstrasse 1, 8718 Schänis", "price": "CHF 3’720.– / Monat", "lat": 47.1590018, "lon": 9.04760133447894}
+{"address": "Chemin de la Savonnerie 4, 1030 Bussigny", "price": "CHF 3’720.– / Monat", "lat": 46.5458535, "lon": 6.5569911}
+{"address": "Untergütschstrasse 24, 6003 Luzern", "price": "CHF 3’720.– / Monat", "lat": 47.0478913, "lon": 8.294138836556852}
+{"address": "Grenzstrasse 36, 5525 Fischbach-Göslikon", "price": "CHF 3’720.– / Monat", "lat": 47.3754157, "lon": 8.302994}
+{"address": "J.C. Fischer-Strasse 7, 8200 Schaffhausen", "price": "CHF 3’720.– / Monat", "lat": 47.70286875, "lon": 8.631679498269847}
+{"address": "Nordstrasse 5, 8006 Zürich", "price": "CHF 3’720.– / Monat", "lat": 47.3836685, "lon": 8.539988108260296}
+{"address": "Dottikerstrasse 45, 5611 Anglikon", "price": "CHF 3’720.– / Monat", "lat": 47.3666398, "lon": 8.2595156}
+{"address": "Bornstrasse 21, 4612 Wangen bei Olten", "price": "CHF 3’720.– / Monat", "lat": 47.338854350000005, "lon": 7.872391527147857}
+{"address": "Zelglistrasse, 40, 8122 Binz", "price": "CHF 3’720.– / Monat", "lat": 47.35823255, "lon": 8.622393596698249}
+{"address": "Teufenerstrasse 180, 9012 St. Gallen", "price": "CHF 3’720.– / Monat", "lat": 47.40759625, "lon": 9.369031613612478}
+{"address": "Bernstrasse 121C, 3072 Ostermundigen", "price": "CHF 3’720.– / Monat", "lat": 46.959826, "lon": 7.49739965}
+{"address": "Erlenmattstrasse 10, 4058 Basel", "price": "CHF 3’720.– / Monat", "lat": 47.5693929, "lon": 7.6010188}
+{"address": "Zürichstr. 50, 8184 Bachenbülach", "price": "CHF 3’720.– / Monat", "lat": 47.50496475, "lon": 8.5462764}
+{"address": "Höschgasse 83, 8008 Zürich", "price": "CHF 3’720.– / Monat", "lat": 47.3584598, "lon": 8.556447398630137}
+{"address": "Grossmannstrasse, 8049 Zürich", "price": "CHF 3’720.– / Monat", "lat": 47.39785057234441, "lon": 8.50366434294845}
+{"address": "Badgasse 5, 9320 Arbon", "price": "CHF 3’720.– / Monat", "lat": 47.5172734, "lon": 9.4356511}
+{"address": "Hauptstrasse 40, 5070 Frick", "price": "CHF 3’720.– / Monat", "lat": 47.50830995, "lon": 8.018680632150458}
+{"address": "Oberglatterstrasse, 8184 Bachenbülach", "price": "CHF 3’720.– / Monat", "lat": 47.49853244381181, "lon": 8.54342818246533}
+{"address": "Hauflandweg 12, 8605 Gutenswil", "price": "CHF 3’720.– / Monat", "lat": 47.38656195, "lon": 8.719111513221959}
+{"address": "Eichwisstrasse 64, 8634 Hombrechtikon", "price": "CHF 2’620.– / Monat", "lat": 47.24930315, "lon": 8.780789144146734}
+{"address": "Wehntalerstrasse, 8046 Zürich", "price": "CHF 2’620.– / Monat", "lat": 47.42181305, "lon": 8.500656750000001}
+{"address": "Bahnhofstrasse 4, 8932 Mettmenstetten", "price": "CHF 2’620.– / Monat", "lat": 47.244027349999996, "lon": 8.462191381408006}
+{"address": "Neunbrunnenstr. 169, 8050 Zürich", "price": "CHF 2’620.– / Monat", "lat": 47.4152251, "lon": 8.5320183}
+{"address": "Buhofstrasse 64a, 9424 Rheineck", "price": "CHF 2’620.– / Monat", "lat": 47.470316249999996, "lon": 9.575892532296226}
+{"address": "Chenevières 35, 2533 Evilard", "price": "CHF 2’620.– / Monat", "lat": 47.155541400000004, "lon": 7.247527419864452}
+{"address": "Wehrlisteig 21, 8049 Zürich", "price": "CHF 2’620.– / Monat", "lat": 47.39936755, "lon": 8.510550549731134}
+{"address": "Chemin de la Coffette, 1032 Romanel-sur-Lausanne", "price": "CHF 2’620.– / Monat", "lat": 46.564515628231625, "lon": 6.5956620159314925}
+{"address": "Rittergutstrasse 14, 8200 Schaffhausen", "price": "CHF 2’620.– / Monat", "lat": 47.702022150000005, "lon": 8.63413917372062}
+{"address": "Chapfstrasse 1, 8625 Gossau", "price": "CHF 2’620.– / Monat", "lat": 47.3050499, "lon": 8.75887305}
+{"address": "Brünnenstrasse 108, 3018 Berna", "price": "CHF 2’620.– / Monat", "lat": 46.941966, "lon": 7.390173}
+{"address": "Route de Valavran, 1294 Genthod", "price": "CHF 2’620.– / Monat", "lat": 46.260775132809584, "lon": 6.146861370079117}
+{"address": "Stationsstrasse 31, 9014 St. Gallen", "price": "CHF 2’620.– / Monat", "lat": 47.4077071, "lon": 9.331166699999999}
+{"address": "Überlandstrasse 18, 8953 Dietikon", "price": "CHF 2’620.– / Monat", "lat": 47.40712837727867, "lon": 8.410200688115012}
+{"address": "Schoorenstrasse 21, 8404 Winterthur", "price": "CHF 2’620.– / Monat", "lat": 47.51721, "lon": 8.764552246065428}
+{"address": "Längistrasse 11, 4133 Pratteln", "price": "CHF 2’620.– / Monat", "lat": 47.5326261, "lon": 7.7098470090622175}
+{"address": "Riedmattstrasse 3c, 4500 Solothurn", "price": "CHF 2’620.– / Monat", "lat": 47.2035329, "lon": 7.5214536}
+{"address": "Flurmatte 10, 6033 Buchrain", "price": "CHF 2’620.– / Monat", "lat": 47.098514, "lon": 8.3558819868362}
+{"address": "Landecy, 1227 Carouge GE", "price": "CHF 2’620.– / Monat", "lat": null, "lon": null}
+{"address": "Zürcherstrasse 7, 8730 Uznach", "price": "CHF 2’620.– / Monat", "lat": 47.2252829, "lon": 8.9826899}
+{"address": "Socinstrasse, 4051 Basel", "price": "CHF 5’400.– / Monat", "lat": 47.556495382391645, "lon": 7.578326663122431}
+{"address": "Schweizerhaus 2, 8755 Ennenda", "price": "CHF 5’400.– / Monat", "lat": 47.028744149999994, "lon": 9.074834376493364}
+{"address": "Klarastrasse 16, 4123 Allschwil", "price": "CHF 5’400.– / Monat", "lat": 47.552311200000005, "lon": 7.535273097471773}
+{"address": "Stadtweg 15, 4310 Rheinfelden", "price": "CHF 5’400.– / Monat", "lat": 47.5502995, "lon": 7.796652218962267}
+{"address": "Rue de France 24, 2400 Le Locle", "price": "CHF 5’400.– / Monat", "lat": 47.05565345, "lon": 6.74319895896503}
+{"address": "Seestrasse 72e, 9320 Arbon", "price": "CHF 5’400.– / Monat", "lat": 47.522085000000004, "lon": 9.417513794887087}
+{"address": "Via Santuario 8, 6644 Orselina", "price": "CHF 5’400.– / Monat", "lat": 46.176337950000004, "lon": 8.794883487862204}
+{"address": "Mattenstrasse 23, 5430 Wettingen", "price": "CHF 5’400.– / Monat", "lat": 47.46636675, "lon": 8.324060061560314}
+{"address": "Felsenrainstrasse 28, 8832 Wollerau", "price": "CHF 5’400.– / Monat", "lat": 47.19381425, "lon": 8.7159669}
+{"address": "Florastrasse 3, 8353 Elgg", "price": "CHF 5’400.– / Monat", "lat": 47.4936872, "lon": 8.863614550000001}
+{"address": "Scheuermattweg 4, 3007 Bern", "price": "CHF 5’400.– / Monat", "lat": 46.9390963, "lon": 7.4369848}
+{"address": "Lange Gasse 32, 4052 Basel", "price": "CHF 5’400.– / Monat", "lat": 47.5508256, "lon": 7.5998959}
+{"address": "Rue Charles Monnard 6, 1003 Lausanne", "price": "CHF 5’400.– / Monat", "lat": 46.5170645, "lon": 6.6367976}
+{"address": "Av. d'Echallens 8, 1004 Lausanne", "price": "CHF 5’400.– / Monat", "lat": 46.525383149999996, "lon": 6.620657831830956}
+{"address": "Stegacker 8, 6280 Hochdorf", "price": "CHF 5’400.– / Monat", "lat": 47.16790415, "lon": 8.301951850000002}
+{"address": "General-Guisan-Quai, 8002 Zürich", "price": "CHF 5’400.– / Monat", "lat": 47.365623254491325, "lon": 8.539287147750137}
+{"address": "Unterdorfstr. 11a, 3072 Ostermundigen", "price": "CHF 5’400.– / Monat", "lat": 46.9601253, "lon": 7.490518980452966}
+{"address": "Alte Landstrasse 5, 8302 Kloten", "price": "CHF 5’400.– / Monat", "lat": 47.467370575115055, "lon": 8.582833473224785}
+{"address": "Gutenbergstr. 39, 3011 Bern", "price": "CHF 5’400.– / Monat", "lat": 46.9432773, "lon": 7.4338885}
+{"address": "Eigerstr. 60, 3007 Bern", "price": "CHF 5’400.– / Monat", "lat": 46.939566, "lon": 7.4370091}
+{"address": "Alpwegern 7, 3860 Meiringen", "price": "CHF 1’900.– / Monat", "lat": 46.72812255, "lon": 8.182266941751024}
+{"address": "Eugen-Huber-Strasse 22, 8048 Zürich", "price": "CHF 1’900.– / Monat", "lat": 47.38568239999999, "lon": 8.483460776723966}
+{"address": "Waagtalstrasse 32, 8842 Unteriberg", "price": "CHF 1’900.– / Monat", "lat": 47.0562848, "lon": 8.802128}
+{"address": "Rue du Centre 8, 1025 Saint-Sulpice", "price": "CHF 1’900.– / Monat", "lat": 46.5137039, "lon": 6.55893080821993}
+{"address": "Kilchbergstrasse 122, 8038 Zürich", "price": "CHF 1’900.– / Monat", "lat": 47.33661875, "lon": 8.536889210230061}
+{"address": "Käpfnerweg 11, 8810 Horgen", "price": "CHF 1’900.– / Monat", "lat": 47.2538042, "lon": 8.6169573}
+{"address": "Alte Landstrasse 1, 8302 Kloten", "price": "CHF 1’900.– / Monat", "lat": 47.467370575115055, "lon": 8.582833473224785}
+{"address": "Alte Landstrasse 3, 8302 Kloten", "price": "CHF 1’900.– / Monat", "lat": 47.467370575115055, "lon": 8.582833473224785}
+{"address": "Alte Landstrasse 5, 8302 Kloten", "price": "CHF 1’900.– / Monat", "lat": 47.467370575115055, "lon": 8.582833473224785}
+{"address": "Ch. du Devin 57, 1012 Lausanne", "price": "CHF 1’900.– / Monat", "lat": 46.5315286, "lon": 6.6533705279609645}
+{"address": "Av. d'Epenex 25, 1024 Ecublens VD", "price": "CHF 1’900.– / Monat", "lat": 46.5386136, "lon": 6.574493}
+{"address": "Sentiero Tazzino, 6605 Locarno", "price": "CHF 1’900.– / Monat", "lat": 46.17341495464196, "lon": 8.791585998154956}
+{"address": "Langhagstr. 28, 4600 Olten", "price": "CHF 1’900.– / Monat", "lat": 47.3471064, "lon": 7.919806419556272}
+{"address": "Weidstr. 1, 8135 Langnau am Albis", "price": "CHF 1’900.– / Monat", "lat": 47.2946305, "lon": 8.5367675}
+{"address": "Hegenheimerstrasse 43, 4055 Basel", "price": "CHF 1’900.– / Monat", "lat": 47.5600708, "lon": 7.5725638}
+{"address": "Route de la Veveyse 14, 1700 Fribourg", "price": "CHF 1’900.– / Monat", "lat": 46.79631375, "lon": 7.1394946}
+{"address": "Neumattstrasse 29, 4657 Dulliken", "price": "CHF 1’900.– / Monat", "lat": 47.3528283, "lon": 7.940004596240602}
+{"address": "Rue de la Gare 20/22, 2074 Marin-Epagnier", "price": "CHF 1’900.– / Monat", "lat": null, "lon": null}
+{"address": "Birchstrasse 98, 8050 Zürich", "price": "CHF 1’900.– / Monat", "lat": 47.4078068, "lon": 8.536976511550918}
+{"address": "Rue St-Laurent 12, 1003 Lausanne", "price": "CHF 1’900.– / Monat", "lat": 46.5224084, "lon": 6.631671968144071}
+{"address": "Wiggisstrasse 14, 8752 Glarus Nord", "price": "CHF 2’290.– / Monat", "lat": 47.090767299999996, "lon": 9.064017373805228}
+{"address": "Dammweg, 3176 Neuenegg", "price": "CHF 2’290.– / Monat", "lat": 46.89229738992786, "lon": 7.306073533074579}
+{"address": "Rue du Lac 19, 1342 Le Pont", "price": "CHF 2’290.– / Monat", "lat": 46.6621247, "lon": 6.328272141008977}
+{"address": "Rosenweg 6, 4103 Bottmingen", "price": "CHF 2’290.– / Monat", "lat": 47.52794585, "lon": 7.566095212192516}
+{"address": "Weinfelderstrasse 71, 8580 Amriswil", "price": "CHF 2’290.– / Monat", "lat": 47.5449654521371, "lon": 9.299889480967005}
+{"address": "Im Stoffel 31, 8887 Mels", "price": "CHF 2’290.– / Monat", "lat": 47.0432016, "lon": 9.4156205}
+{"address": "Hofgasse 4, 4144 Arlesheim", "price": "CHF 2’290.– / Monat", "lat": 47.4941932, "lon": 7.6217658}
+{"address": "Längmattstrasse, 4632 Trimbach", "price": "CHF 2’290.– / Monat", "lat": 47.36119713693829, "lon": 7.9052156383677135}
+{"address": "Mühleweg 4, 7307 Jenins", "price": "CHF 2’290.– / Monat", "lat": 47.0030716, "lon": 9.560873840239697}
+{"address": "Bruchstrasse 4, 6003 Luzern", "price": "CHF 2’290.– / Monat", "lat": 47.0513146, "lon": 8.2986743}
+{"address": "im Hofacker, 4461 Böckten", "price": "CHF 2’290.– / Monat", "lat": null, "lon": null}
+{"address": "Hofackerstrasse 15, 8032 Zürich", "price": "CHF 2’290.– / Monat", "lat": 47.36201885, "lon": 8.5629195}
+{"address": "Kirchweg 28, 4102 Binningen", "price": "CHF 2’290.– / Monat", "lat": 47.54130965, "lon": 7.578101208404799}
+{"address": "Strada dra Vall, 6968 Sonvico", "price": "CHF 2’290.– / Monat", "lat": 46.058023988361064, "lon": 8.993296188764749}
+{"address": "Hinterkirchweg 7, 4106 Therwil", "price": "CHF 2’290.– / Monat", "lat": 47.4982744, "lon": 7.555376106438414}
+{"address": "Spinnereistrasse, 8640 Rapperswil-Jona", "price": "CHF 2’290.– / Monat", "lat": 47.22954918721033, "lon": 8.829398588518252}
+{"address": "Via Calchera 2, 6825 Capolago", "price": "CHF 2’290.– / Monat", "lat": 45.90700135, "lon": 8.98268461507282}
+{"address": "Dorfstrasse 66, 8630 Rüti ZH", "price": "CHF 2’290.– / Monat", "lat": 47.25927284056309, "lon": 8.850536587914371}
+{"address": "Dorfstrasse 66, 8630 Rüti ZH", "price": "CHF 2’290.– / Monat", "lat": 47.25927284056309, "lon": 8.850536587914371}
+{"address": "Dorfstrasse 68, 8630 Rüti ZH", "price": "CHF 2’290.– / Monat", "lat": 47.25927284056309, "lon": 8.850536587914371}
