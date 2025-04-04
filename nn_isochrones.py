@@ -1,6 +1,10 @@
 # Nearest neighbor functions
 from sklearn.neighbors import BallTree
 import numpy as np
+from openrouteservice import client
+import os
+
+open_route_key = os.getenv("OPENROUTE")
 
 def get_nearest(src_points, candidates, k_neighbors=1):
     """Find nearest neighbors for all source points from a set of candidate points"""
@@ -61,3 +65,48 @@ def nearest_neighbor(left_gdf, right_gdf, return_dist=False):
         closest_points['distance'] = dist * earth_radius
 
     return closest_points
+
+def get_isochrone_by_query(query=None):
+    if query is None:
+        return None
+    ors = client.Client(key=open_route_key)
+    # Get isochrones for the given query
+    isochrones = ors.isochrones(**query)
+    return isochrones
+
+def get_isochrone_by_walking_distance(lat, lon, distance=10):
+    """
+    Get isochrone for a given lat/lon and walking distance.
+
+    :param lat: Latitude of the point
+    :param lon: Longitude of the point
+    :param distance: Walking distance in minutes
+    :return: Isochrone GeoJSON object
+    """
+    profile='foot-walking'
+    query = {
+        'locations': [[lon, lat]],  # Note: OpenRouteService uses [lon, lat] order
+        'range': [distance * 60],
+        'attributes': ['area'],
+        'profile': profile,
+    }
+    return get_isochrone_by_query(query)
+
+def get_isochrone_by_driving_distance(lat, lon, distance=10):
+    """
+    Get isochrone for a given lat/lon and driving distance.
+
+    :param lat: Latitude of the point
+    :param lon: Longitude of the point
+    :param distance: Driving distance in minutes
+    :return: Isochrone GeoJSON object
+    """
+    profile='driving-car'
+    query = {
+        'locations': [[lon, lat]],  # Note: OpenRouteService uses [lon, lat] order
+        'range': [distance * 60],
+        'attributes': ['area'],
+        'profile': profile,
+    }
+    return get_isochrone_by_query(query)
+    

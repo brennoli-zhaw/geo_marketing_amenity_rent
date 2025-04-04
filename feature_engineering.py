@@ -1,6 +1,7 @@
+from helpers import read_json_clean, save_json_clean 
+import re
 import json
 import pandas as pd
-import re
 
 # allowed amenities list
 allowed_amenities = [
@@ -54,11 +55,7 @@ def main():
     output_csv = 'rental_features.csv'
     
     # load properties from the json file (one object per line)
-    props = []
-    with open(input_file, 'r', encoding='utf-8') as f:
-        for line in f:
-            if line.strip():
-                props.append(json.loads(line.strip()))
+    props = read_json_clean(input_file)
     
     # build a list of feature dicts
     features = [create_feature_dict(p) for p in props]

@@ -1,5 +1,5 @@
-import json
 import time
+from helpers import read_json_clean, save_json_clean
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 
@@ -19,11 +19,7 @@ def main():
     output_file = 'rental_properties_geocoded.json'
     
     # load the rental properties from the file (one json per line)
-    rental_properties = []
-    with open(input_file, 'r', encoding='utf-8') as f:
-        for line in f:
-            if line.strip():
-                rental_properties.append(json.loads(line.strip()))
+    rental_properties = read_json_clean(input_file)
     
     # initialize the geolocator with a user agent
     geolocator = Nominatim(user_agent="rental_geocoder")
@@ -44,11 +40,7 @@ def main():
         time.sleep(1)
     
     # write the updated properties to the output file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for prop in rental_properties:
-            f.write(json.dumps(prop, ensure_ascii=False) + "\n")
-    
-    print(f"geocoding complete. data saved to {output_file}")
+    save_json_clean(output_file, rental_properties)
 
 if __name__ == "__main__":
     main()
