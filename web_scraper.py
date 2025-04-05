@@ -1,4 +1,5 @@
 import time
+import helpers
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -22,16 +23,32 @@ def getPageRentals(pageNr, rental):
         return rental
     # Loop through the rental properties and extract the required information
     for rentalProperty in rentalProperties:
+        property_id = rentalProperty.find_element(By.CSS_SELECTOR, 'a[href*="/mieten/"]').get_attribute('href')
+        # Check if the property_id is empty or does not contain a number
+        if not property_id and helpers.has_numbers(property_id):
+            print("Property ID not found.")
+            continue
+        #only get number after the last "/" 
+        property_id = int(property_id.split("/")[-1])
+
         price = rentalProperty.find_element(By.XPATH, "//*[contains(@class, 'HgListingCard_price')]").text
+        price = helpers.parse_price(price)
         address = rentalProperty.find_element(By.TAG_NAME, "address").text
+        space = rentalProperty.find_element(By.XPATH, "//*[contains(@class, 'HgListingRoomsLivingSpace_rooms')]")
+        space = space.find_elements(By.CSS_SELECTOR, 'strong')
+        rooms = float(space[0].text) if len(space) > 0 else None
+        area = space[1].text if len(space) > 1 else None
         rental.append({
             'address' : address,
             'price': price,
+            'property_id': property_id,
+            'area': area,
+            'rooms': rooms
         })
     return rental
 
 # Set the maximum number of pages to scrape
-maxPages = 50
+maxPages = 2
 # Initialize an empty list to store the rental properties
 rental = []
 for i in range(1, maxPages):

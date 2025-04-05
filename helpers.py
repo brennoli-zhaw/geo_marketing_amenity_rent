@@ -1,4 +1,5 @@
 import json
+import re
 import pyproj
 from shapely.geometry import Point, Polygon, LineString
 
@@ -23,6 +24,15 @@ def read_json_clean(file_name):
             if line.strip():
                 rental_properties.append(json.loads(line.strip()))
     return rental_properties
+
+def parse_price(price_str):
+    # convert price string like "chf 2’880.– / monat" to an int
+    price_str = price_str.replace("CHF", "").replace("–", "").replace("’", "").strip()
+    match = re.search(r'(\d+)', price_str)
+    return int(match.group(1)) if match else None
+
+def has_numbers(inputString):
+    return any(char.isdigit() for char in inputString)
 
 def within_polygon(polygon_coords, point):
     """

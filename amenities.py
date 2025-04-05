@@ -49,8 +49,9 @@ def get_amenities_by_isochrone(lat, lon, api, transport_type, distance_in_minute
     amenities_to_keep = []
     for amenity in all_amenities:
         if helpers.within_polygon(polygon_coords, (amenity['lat'], amenity['lon'])):
+            #add isochrone data to amenity
             amenities_to_keep.append(amenity)
-    return amenities_to_keep
+    return amenities_to_keep, isochrone
 
 def get_amenities_by_walking(lat, lon, api, distance_in_minutes = 15, allowed_amenities=None):
     return get_amenities_by_isochrone(lat, lon, api,"walking", distance_in_minutes, allowed_amenities=allowed_amenities)
@@ -70,37 +71,47 @@ def add_amenities_to_properties(input_file, output_file, transport_type, radius=
     # get output file data if file already exists
     if os.path.exists(output_file):
         current_data = helpers.read_json_clean(output_file)
-    #max_iterations = 2
+    max_iterations = -1
     # for each property, get nearby allowed amenities
     for prop in rental_props:
-        """ if iteration >= max_iterations:
+        if max_iterations != -1 and iteration >= max_iterations:
             print("max iterations reached, stopping...")
-            break """
+            break
         lat = prop.get("lat")
         lon = prop.get("lon")
+        property_id = prop.get("property_id") 
         if lat is None or lon is None:
             prop["amenities"] = []
             continue
         # we skip properties that already have amenities, to avoid overwriting them and reducing api calls
-        if len(current_data) > iteration and current_data[iteration] and current_data[iteration].get("amenities") and current_data[iteration].get("amenities") != []:
-            prop["amenities"] = current_data[iteration]["amenities"]
-            print(f"skipping {prop['address']} at ({lat}, {lon}), because it already has amenities")
-            iteration += 1
-            continue
+        # check if property_id and amenities are in current_data
+        if property_id and any(p.get("property_id") == property_id for p in current_data):
+            # check if amenities are already in current_data
+            if any(p.get("property_id") == property_id and p.get("amenities") for p in current_data):
+                # get the amenities from current_data
+                prop["amenities"] = [p.get("amenities") for p in current_data if p.get("property_id") == property_id][0]
+                print(f"skipping {prop['address']} at ({lat}, {lon}), because it already has amenities")
+                iteration += 1
+                continue
         try:
             if transport_type == "walking":
-                ams = get_amenities_by_walking(lat, lon, api, distance_in_minutes=distance_in_minutes, allowed_amenities=allowed_amenities)
+                ams, isochrone = get_amenities_by_walking(lat, lon, api, distance_in_minutes=distance_in_minutes, allowed_amenities=allowed_amenities)
+                prop["isochrone"] = isochrone
             elif transport_type == "driving":
-                ams = get_amenities_by_driving(lat, lon, api, distance_in_minutes=distance_in_minutes, allowed_amenities=allowed_amenities)
+                ams, isochrone = get_amenities_by_driving(lat, lon, api, distance_in_minutes=distance_in_minutes, allowed_amenities=allowed_amenities)
+                prop["isochrone"] = isochrone
             else:
                 ams = get_amenities(lat, lon, api, radius=radius, allowed_amenities=allowed_amenities)
+                # add radius to each amenity
+                for am in ams:
+                    am["radius"] = radius
             prop["amenities"] = ams
             print(f"amenities for {prop['address']} at ({lat}, {lon}): {len(ams)} found")
         except Exception as e:
             print(f"error for {prop['address']} at ({lat}, {lon}): {e}")
             prop["amenities"] = []
         
-        time.sleep(3)  # pause to respect api limits
+        time.sleep(1)  # pause to respect api limits
         iteration += 1
         if iteration % save_every_n == 0:
             print(f"saving {iteration} properties...")
@@ -113,9 +124,9 @@ def add_amenities_to_properties(input_file, output_file, transport_type, radius=
 
 def main():
     input_file = 'rental_properties_geocoded.json'
-    radiuses = [500, 2000, 5000]  # search radius in meters
+    radiuses = [500, 1000, 1500]  # search radius in meters
     distances_in_minutes = [5, 10, 15]  # distance in minutes for isochrone
-    transport_types = ["walking", "driving"]
+    transport_types = ["driving","walking", "radius"]
     # list of allowed amenities to search for
     allowed_amenities = [
         "cafe",

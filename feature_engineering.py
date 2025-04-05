@@ -1,5 +1,4 @@
-from helpers import read_json_clean, save_json_clean 
-import re
+from helpers import read_json_clean, save_json_clean, parse_price
 import json
 import pandas as pd
 
@@ -22,19 +21,16 @@ allowed_amenities = [
     "parking"
 ]
 
-def parse_price(price_str):
-    # convert price string like "chf 2’880.– / monat" to an int
-    price_str = price_str.replace("CHF", "").replace("–", "").replace("’", "").strip()
-    match = re.search(r'(\d+)', price_str)
-    return int(match.group(1)) if match else None
-
 def create_feature_dict(property_data):
     # create a dict of features from one property
     feat = {}
-    feat['address'] = property_data.get('address')
-    feat['price'] = parse_price(property_data.get('price', ''))
-    feat['lat'] = property_data.get('lat')
-    feat['lon'] = property_data.get('lon')
+    feat['address'] = property_data.get('address', '')
+    feat['price'] = property_data.get('prise', '')
+    feat['lat'] = property_data.get('lat', '')
+    feat['lon'] = property_data.get('lon', '')
+    feat['property_id'] = property_data.get('property_id', '')
+    feat['rooms'] = property_data.get('rooms', 0)
+    feat['area'] = property_data.get('area', 0)
     
     # initialize count and flag for each allowed amenity
     for amenity in allowed_amenities:
@@ -51,7 +47,7 @@ def create_feature_dict(property_data):
     return feat
 
 def main():
-    input_file = 'rental_properties_with_amenities.json'
+    input_file = 'rental_properties_with_driving_5_amenities.json'
     output_csv = 'rental_features.csv'
     
     # load properties from the json file (one object per line)

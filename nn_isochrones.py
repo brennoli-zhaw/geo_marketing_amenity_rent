@@ -1,10 +1,14 @@
 # Nearest neighbor functions
+import time
 from sklearn.neighbors import BallTree
 import numpy as np
+import requests
+
 from openrouteservice import client
 import os
 
 open_route_key = os.getenv("OPENROUTE")
+mapbox_token = os.getenv("MAPBOX")
 
 def get_nearest(src_points, candidates, k_neighbors=1):
     """Find nearest neighbors for all source points from a set of candidate points"""
@@ -66,15 +70,34 @@ def nearest_neighbor(left_gdf, right_gdf, return_dist=False):
 
     return closest_points
 
-def get_isochrone_by_query(query=None):
+def get_isochrone_by_query(query=None, retries=1, retry_delay=1, current_try=0):
     if query is None:
         return None
-    ors = client.Client(key=open_route_key)
+    #ors = client.Client(key=open_route_key)
+    #ors = client.Client(base_url='localhost:8080/ors')
     # Get isochrones for the given query
-    isochrones = ors.isochrones(**query)
-    return isochrones
+    #isochrones = ors.isochrones(**query)
+    geoJSON = None
+    #create GET request to https://api.mapbox.com/isochrone/v1/mapbox/{profile}/{lon}%2C{lat}?contours_minutes={range}&polygons={polygons}&access_token={access_token}
+    polygons = query['polygons']
+    polygons = 'true' if polygons else 'false'
+    request = f"https://api.mapbox.com/isochrone/v1/mapbox/{query['profile']}/{query['lon']}%2C{query['lat']}?contours_minutes={query['range']}&polygons={polygons}&access_token={mapbox_token}"
+    
+    response = requests.get(request, timeout=15)
+    geoJSON = None
+    if response.status_code == 200:
+        geoJSON = response.json()
+    else:
+        if current_try < retries:
+            print(f"Retrying in {retry_delay} seconds...")
+            time.sleep(retry_delay)
+            geoJSON = get_isochrone_by_query(query, retries=retries, retry_delay=retry_delay, current_try=current_try+1)
+        else:
+            print(f"Error: {response.status_code} - {response.text}")
+            return None
+    return geoJSON
 
-def get_isochrone_by_walking_distance(lat, lon, distance=10):
+def get_isochrone_by_walking_distance(lat, lon, distance=10, retries=5, retry_delay=2, current_try=0):
     """
     Get isochrone for a given lat/lon and walking distance.
 
@@ -83,16 +106,17 @@ def get_isochrone_by_walking_distance(lat, lon, distance=10):
     :param distance: Walking distance in minutes
     :return: Isochrone GeoJSON object
     """
-    profile='foot-walking'
+    profile='walking'
     query = {
-        'locations': [[lon, lat]],  # Note: OpenRouteService uses [lon, lat] order
-        'range': [distance * 60],
-        'attributes': ['area'],
+        'lon': lon,
+        'lat': lat,
+        'range': distance,
+        'polygons': True,
         'profile': profile,
     }
-    return get_isochrone_by_query(query)
+    return get_isochrone_by_query(query, retries, retry_delay, current_try)
 
-def get_isochrone_by_driving_distance(lat, lon, distance=10):
+def get_isochrone_by_driving_distance(lat, lon, distance=10, retries=5, retry_delay=2, current_try=0):
     """
     Get isochrone for a given lat/lon and driving distance.
 
@@ -101,12 +125,13 @@ def get_isochrone_by_driving_distance(lat, lon, distance=10):
     :param distance: Driving distance in minutes
     :return: Isochrone GeoJSON object
     """
-    profile='driving-car'
+    profile='driving'
     query = {
-        'locations': [[lon, lat]],  # Note: OpenRouteService uses [lon, lat] order
-        'range': [distance * 60],
-        'attributes': ['area'],
+        'lon': lon,
+        'lat': lat,
+        'range': distance,
+        'polygons': True,
         'profile': profile,
     }
-    return get_isochrone_by_query(query)
+    return get_isochrone_by_query(query, retries, retry_delay, current_try)
     
