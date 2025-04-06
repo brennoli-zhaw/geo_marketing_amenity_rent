@@ -3,6 +3,7 @@
 {"address":"Käferholzstrasse 60, 8057 Zürich","price":2880,"property_id":4001947102,"area":"115m²","rooms":4.5}
 {"address":"Fahrnstrasse 25, 9402 Mörschwil","price":2880,"property_id":4002080979,"area":"115m²","rooms":4.5}
 {"address":"Herrenhof 868, 9240 Niederglatt","price":2880,"property_id":4002077676,"area":"115m²","rooms":4.5}
+{"address":"weidstrasse 11, 8620 Wetzikon ZH","price":2880,"property_id":4002077272,"area":"115m²","rooms":4.5}
 {"address":"Muttenzerstrasse 129, 4127 Birsfelden","price":2880,"property_id":4002059199,"area":"115m²","rooms":4.5}
 {"address":"Volkmarstrasse 15, 8006 Zürich","price":2880,"property_id":4002058756,"area":"115m²","rooms":4.5}
 {"address":"Niklaus Konrad-Strasse 4, 4500 Solothurn","price":2880,"property_id":4002053936,"area":"115m²","rooms":4.5}
@@ -17,4 +18,963 @@
 {"address":"Ludwigstr. 5, 9010 St. Gallen","price":2880,"property_id":4002028634,"area":"115m²","rooms":4.5}
 {"address":"Via G. Brentani 16, 6900 Lugano","price":2880,"property_id":4002028631,"area":"115m²","rooms":4.5}
 {"address":"Via G. Brentani 16, 6900 Lugano","price":2880,"property_id":4002028630,"area":"115m²","rooms":4.5}
-{"address":"Guggistrasse 14 A, 6005 Luzern","price":2880,"property_id":4002006119,"area":"115m²","rooms":4.5}
+{"address":"Guggistrasse 14 A, 6005 Luzern","price":7980,"property_id":4002006119,"area":"260m²","rooms":5.5}
+{"address":"Giessenplatz 8, 8600 Dübendorf","price":7980,"property_id":4001991943,"area":"260m²","rooms":5.5}
+{"address":"Via Sasso Corbaro 19, 6593 Cadenazzo","price":7980,"property_id":4001979018,"area":"260m²","rooms":5.5}
+{"address":"Chemin des Buclines, 1223 Cologny","price":7980,"property_id":4001950977,"area":"260m²","rooms":5.5}
+{"address":"Erlenmattstr. 67, 4058 Basel","price":7980,"property_id":4001923522,"area":"260m²","rooms":5.5}
+{"address":"Fachstrasse 10A, 8942 Oberrieden","price":7980,"property_id":4002065798,"area":"260m²","rooms":5.5}
+{"address":"Zentralstrasse 7, 5627 Besenbüren","price":7980,"property_id":4002064944,"area":"260m²","rooms":5.5}
+{"address":"Zentralstrasse 7, 5627 Besenbüren","price":7980,"property_id":4002064922,"area":"260m²","rooms":5.5}
+{"address":"Zentralstrasse 7, 5627 Besenbüren","price":7980,"property_id":4002064878,"area":"260m²","rooms":5.5}
+{"address":"Anna-Heer-Strasse 16, 8057 Zürich","price":7980,"property_id":4002062461,"area":"260m²","rooms":5.5}
+{"address":"Anna-Heer-Strasse 14, 8057 Zürich","price":7980,"property_id":4002062455,"area":"260m²","rooms":5.5}
+{"address":"Niklaus Konrad-Strasse 4, 4500 Solothurn","price":7980,"property_id":4002053937,"area":"260m²","rooms":5.5}
+{"address":"Sägestr. 78, 3098 Köniz","price":7980,"property_id":4002038494,"area":"260m²","rooms":5.5}
+{"address":"Hermann-Lienhardstrasse, 2502 Biel, 2504 Biel","price":7980,"property_id":4002037903,"area":"260m²","rooms":5.5}
+{"address":"Regensdorferstrasse 65, 8049 Zürich","price":7980,"property_id":4002028608,"area":"260m²","rooms":5.5}
+{"address":"Anna-Heer-Strasse 14, 8057 Zürich","price":7980,"property_id":4002026835,"area":"260m²","rooms":5.5}
+{"address":"Anna-Heer-Strasse 16, 8057 Zürich","price":7980,"property_id":4002026834,"area":"260m²","rooms":5.5}
+{"address":"Käferholzstrasse 42, 8057 Zürich","price":7980,"property_id":4002002445,"area":"260m²","rooms":5.5}
+{"address":"Anna-Heer-Strasse 14, 8057 Zürich","price":7980,"property_id":4001923964,"area":"260m²","rooms":5.5}
+{"address":"Schwendetalstrasse 13, 9057 Schwende","price":7980,"property_id":4001516464,"area":"260m²","rooms":5.5}
+{"address":"Hubenstrasse 19, 8057 Zürich","price":6700,"property_id":4002075486,"area":"170m²","rooms":6.5}
+{"address":"11 rue neuve du Molard, 1204 Genève","price":6700,"property_id":4002070837,"area":"170m²","rooms":6.5}
+{"address":"Kirchgasse 4, 8524 Uesslingen","price":6700,"property_id":4002066542,"area":"170m²","rooms":6.5}
+{"address":"Sonneggstr. 41, 8006 Zürich","price":6700,"property_id":4002065355,"area":"170m²","rooms":6.5}
+{"address":"Bifitstrasse 80, 3145 Niederscherli","price":6700,"property_id":4002065312,"area":"170m²","rooms":6.5}
+{"address":"Talstrasse 23, 4112 Flüh","price":6700,"property_id":4002060877,"area":"170m²","rooms":6.5}
+{"address":"Oberdorfgasse 39, 4107 Ettingen","price":6700,"property_id":4002060876,"area":"170m²","rooms":6.5}
+{"address":"Untere Grundgasse 11, 9500 Wil SG","price":6700,"property_id":4002055241,"area":"170m²","rooms":6.5}
+{"address":"Centralstrasse 25, 2540 Grenchen","price":6700,"property_id":4002038690,"area":"170m²","rooms":6.5}
+{"address":"Im Heugarten 47, 8617 Mönchaltorf","price":6700,"property_id":4002038572,"area":"170m²","rooms":6.5}
+{"address":"Saumackerstrasse 28, 8048 Zürich","price":6700,"property_id":4002021063,"area":"170m²","rooms":6.5}
+{"address":"Seestrasse 51, 8805 Richterswil","price":6700,"property_id":4002012549,"area":"170m²","rooms":6.5}
+{"address":"Seestrasse 623, 8706 Meilen","price":6700,"property_id":4002007176,"area":"170m²","rooms":6.5}
+{"address":"Föhrlibuckstrasse 7, 8304 Wallisellen","price":6700,"property_id":4002002381,"area":"170m²","rooms":6.5}
+{"address":"Schlösslistrasse 13, 8044 Zürich","price":6700,"property_id":4001994154,"area":"170m²","rooms":6.5}
+{"address":"Via Capriccio 16, 6855 Stabio","price":6700,"property_id":4001986951,"area":"170m²","rooms":6.5}
+{"address":"Sonneggstr. 41, 8006 Zürich","price":6700,"property_id":4001983883,"area":"170m²","rooms":6.5}
+{"address":"Underem Berg 9, 8475 Ossingen","price":6700,"property_id":4001978739,"area":"170m²","rooms":6.5}
+{"address":"Route de Cossonay 57, 1008 Prilly","price":6700,"property_id":4001978380,"area":"170m²","rooms":6.5}
+{"address":"Hauptstrasse 24, 8114 Dänikon ZH","price":6700,"property_id":4001972093,"area":"170m²","rooms":6.5}
+{"address":"Siewerdtstrasse 75, 8050 Zürich","price":2750,"property_id":4001964230,"area":"33m²","rooms":2.5}
+{"address":"Passage Perdonnet 1, 1005 Lausanne","price":2750,"property_id":4001963201,"area":"33m²","rooms":2.5}
+{"address":"Rotwandstrasse 66, 8004 Zürich","price":2750,"property_id":4001961027,"area":"33m²","rooms":2.5}
+{"address":"Kapfstrasse 31, 8032 Zürich","price":2750,"property_id":4001960413,"area":"33m²","rooms":2.5}
+{"address":"Wallenrütistrasse 16, 8234 Stetten SH","price":2750,"property_id":4001889258,"area":"33m²","rooms":2.5}
+{"address":"Hinterbergstrasse 106, 8044 Zürich","price":2750,"property_id":4001869489,"area":"33m²","rooms":2.5}
+{"address":"Spindelstrasse 9, 8041 Zürich","price":2750,"property_id":4001765417,"area":"33m²","rooms":2.5}
+{"address":"Kreuzstrasse 3a, 3052 Zollikofen","price":2750,"property_id":4001731221,"area":"33m²","rooms":2.5}
+{"address":"Kreuzstrasse 5, 3052 Zollikofen","price":2750,"property_id":4001731198,"area":"33m²","rooms":2.5}
+{"address":"Grabenweg 15, 8484 Weisslingen","price":2750,"property_id":4001671881,"area":"33m²","rooms":2.5}
+{"address":"Asylstrasse 14, 8953 Dietikon","price":2750,"property_id":4001213834,"area":"33m²","rooms":2.5}
+{"address":"Nauengasse 14, 8427 Rorbas","price":2750,"property_id":4002080956,"area":"33m²","rooms":2.5}
+{"address":"6353 Weggis","price":2750,"property_id":4002076708,"area":"33m²","rooms":2.5}
+{"address":"Zollstrasse 14, 8219 Trasadingen","price":2750,"property_id":4002067496,"area":"33m²","rooms":2.5}
+{"address":"Käsereistrasse 2 \/ 4 \/ 6, 8919 Rottenschwil","price":2750,"property_id":4002065576,"area":"33m²","rooms":2.5}
+{"address":"Ilbachstrasse 14, 4228 Erschwil","price":2750,"property_id":4002064525,"area":"33m²","rooms":2.5}
+{"address":"Rietstrasse 6, 8702 Zollikon","price":2750,"property_id":4002062055,"area":"33m²","rooms":2.5}
+{"address":"Rue des Epinettes, 1227 Carouge","price":2750,"property_id":4002059679,"area":"33m²","rooms":2.5}
+{"address":"Röschenzerstrasse, 4053 Basel","price":2750,"property_id":4002059059,"area":"33m²","rooms":2.5}
+{"address":"Untere Grundgasse 11, 9500 Wil SG","price":2750,"property_id":4002055240,"area":"33m²","rooms":2.5}
+{"address":"Untere Grundgasse 11, 9500 Wil SG","price":3300,"property_id":4002055239,"area":"170m²","rooms":4.5}
+{"address":"Böndlerstrasse 54, 8802 Kilchberg ZH","price":3300,"property_id":4002049676,"area":"170m²","rooms":4.5}
+{"address":"Grossfeldstrasse 7, 6010 Kriens","price":3300,"property_id":4002045481,"area":"170m²","rooms":4.5}
+{"address":"Gmeindrütistrasse 11, 8630 Rüti ZH","price":3300,"property_id":4002028503,"area":"170m²","rooms":4.5}
+{"address":"Chemin de Chamblandes 55, 1009 Pully","price":3300,"property_id":4001984340,"area":"170m²","rooms":4.5}
+{"address":"Sonneggstr. 41, 8006 Zürich","price":3300,"property_id":4001983884,"area":"170m²","rooms":4.5}
+{"address":"Weiherweg 38, 4054 Basel","price":3300,"property_id":4001979979,"area":"170m²","rooms":4.5}
+{"address":"Hermann-Lienhard-Strasse 1e, 2502 Biel, 2505 Biel","price":3300,"property_id":4001979606,"area":"170m²","rooms":4.5}
+{"address":"Hermann-Lienhard-Strasse 1e, 2502 Biel, 2505 Biel","price":3300,"property_id":4001957145,"area":"170m²","rooms":4.5}
+{"address":"Rotwandstrasse 66, 8004 Zürich","price":3300,"property_id":4001950379,"area":"170m²","rooms":4.5}
+{"address":"Grabenweg 17, 8484 Weisslingen","price":3300,"property_id":4001840960,"area":"170m²","rooms":4.5}
+{"address":"1012 Lausanne","price":3300,"property_id":4001508481,"area":"170m²","rooms":4.5}
+{"address":"Motorenstrasse, 8005 Zürich","price":3300,"property_id":4002078840,"area":"170m²","rooms":4.5}
+{"address":"St. Alban-Anlage 58, 4052 Basel","price":3300,"property_id":4002078647,"area":"170m²","rooms":4.5}
+{"address":"Höhenweg 61, 8965 Berikon","price":3300,"property_id":4002075286,"area":"170m²","rooms":4.5}
+{"address":"Avenue des Alpes 5, 1006 Lausanne","price":3300,"property_id":4002073492,"area":"170m²","rooms":4.5}
+{"address":"Seefeldstrasse 104, 8008 Zürich","price":3300,"property_id":4002064667,"area":"170m²","rooms":4.5}
+{"address":"Karl Stauffer-Strasse, 8008 Zürich","price":3300,"property_id":4002064533,"area":"170m²","rooms":4.5}
+{"address":"Schwenkelweg 11, 8645 Rapperswil-Jona","price":3300,"property_id":4002057034,"area":"170m²","rooms":4.5}
+{"address":"Dorfstrasse 31, 5244 Birrhard","price":3300,"property_id":4002055225,"area":"170m²","rooms":4.5}
+{"address":"Willikonerstrasse 46, 8618 Oetwil am See","price":1260,"property_id":4002073363,"area":null,"rooms":2.0}
+{"address":"Rue de Contamines 16, 1206 Genève","price":1260,"property_id":4002073081,"area":null,"rooms":2.0}
+{"address":"Landenbergstrasse 3a, 6005 Lucerne","price":1260,"property_id":4002070890,"area":null,"rooms":2.0}
+{"address":"1922 Salvan","price":1260,"property_id":4002068949,"area":null,"rooms":2.0}
+{"address":"Allée Charles Edouard Guillaume 5, 1723 Marly","price":1260,"property_id":4002067868,"area":null,"rooms":2.0}
+{"address":"Kühneweg 20, 6020 Emmen","price":1260,"property_id":4002067484,"area":null,"rooms":2.0}
+{"address":"Gaissbergstrasse 49, 8280 Kreuzlingen","price":1260,"property_id":4002065892,"area":null,"rooms":2.0}
+{"address":"Ergatenweg 25, 8583 Sulgen","price":1260,"property_id":4002065159,"area":null,"rooms":2.0}
+{"address":"Badenerstrasse 12, 8953 Dietikon","price":1260,"property_id":4002057192,"area":null,"rooms":2.0}
+{"address":"Seestrasse, 6204 Sempach","price":1260,"property_id":4002057189,"area":null,"rooms":2.0}
+{"address":"Rue Mauborget 6, 1003 Lausanne","price":1260,"property_id":4002057165,"area":null,"rooms":2.0}
+{"address":"Via San Gottardo 28, 6500 Bellinzona","price":1260,"property_id":4002057133,"area":null,"rooms":2.0}
+{"address":"Rainweg 1A, 4713 Matzendorf","price":1260,"property_id":4002053590,"area":null,"rooms":2.0}
+{"address":"8107 Buchs ZH","price":1260,"property_id":4002049788,"area":null,"rooms":2.0}
+{"address":"Maurerweg 12, 2503 Biel","price":1260,"property_id":4002039400,"area":null,"rooms":2.0}
+{"address":"Engstringerstrasse 54, 8952 Schlieren","price":1260,"property_id":4002034398,"area":null,"rooms":2.0}
+{"address":"8272 Ermatingen","price":1260,"property_id":4002024740,"area":null,"rooms":2.0}
+{"address":"Freiburgstrasse 446, 3018 Berna","price":1260,"property_id":4002024325,"area":null,"rooms":2.0}
+{"address":"Gamlikon 14, 8143 Stallikon","price":1260,"property_id":4002018483,"area":null,"rooms":2.0}
+{"address":"Route du Chasseur 30 bis, 1008 Prilly","price":1260,"property_id":4002017354,"area":null,"rooms":2.0}
+{"address":"Plaz, 7546 Ardez","price":3710,"property_id":4002012452,"area":"300m²","rooms":8.5}
+{"address":"Seestrasse 136-142, 8707 Uetikon am See","price":3710,"property_id":4002003120,"area":"300m²","rooms":8.5}
+{"address":"8152 Opfikon","price":3710,"property_id":4001995122,"area":"300m²","rooms":8.5}
+{"address":"3780 Gstaad","price":3710,"property_id":4001987343,"area":"300m²","rooms":8.5}
+{"address":"Dorfstrasse 14, 4206 Seewen SO","price":3710,"property_id":4001978241,"area":"300m²","rooms":8.5}
+{"address":"Champs Saint-Martin 41, 2942 Alle","price":3710,"property_id":4001970470,"area":"300m²","rooms":8.5}
+{"address":"Tannwaldweg 6, 4112 Hofstetten-Flüh","price":3710,"property_id":4001956926,"area":"300m²","rooms":8.5}
+{"address":"Gotthardstrasse 1, 8248 Laufen-Uhwiesen","price":3710,"property_id":4001936434,"area":"300m²","rooms":8.5}
+{"address":"Rotwandstrasse 66, 8004 Zürich","price":3710,"property_id":4001915132,"area":"300m²","rooms":8.5}
+{"address":"Seengerstrasse 28, 5706 Boniswil","price":3710,"property_id":4001910718,"area":"300m²","rooms":8.5}
+{"address":"Rotbuchstrasse 9, 8006 Zürich","price":3710,"property_id":4001886542,"area":"300m²","rooms":8.5}
+{"address":"Dorfgasse 4, 8708 Männedorf","price":3710,"property_id":4001867060,"area":"300m²","rooms":8.5}
+{"address":"Teichgässlein 9 \/ Webergasse 34, 4053 Basel","price":3710,"property_id":4001518185,"area":"300m²","rooms":8.5}
+{"address":"Hottingerstrasse 38, 8032 Zürich","price":3710,"property_id":4002081565,"area":"300m²","rooms":8.5}
+{"address":"Holzwiesstrasse 19, 8704 Herrliberg","price":3710,"property_id":4002078292,"area":"300m²","rooms":8.5}
+{"address":"Kammermattweg 3, 4107 Ettingen","price":3710,"property_id":4002077167,"area":"300m²","rooms":8.5}
+{"address":"Mostelbergstrasse 3B, 6417 Sattel","price":3710,"property_id":4002075406,"area":"300m²","rooms":8.5}
+{"address":"Chemin du Devin 47B, 1012 Lausanne","price":3710,"property_id":4002071005,"area":"300m²","rooms":8.5}
+{"address":"Rütistrasse 4, 8032 Zürich","price":3710,"property_id":4002069592,"area":"300m²","rooms":8.5}
+{"address":"Allmannstrasse 55, 8052 Zürich","price":3710,"property_id":4002066429,"area":"300m²","rooms":8.5}
+{"address":"Allmannstrasse 55, 8052 Zürich","price":4340,"property_id":4002066402,"area":"121m²","rooms":4.5}
+{"address":"Reimen 2, 8775 Hätzingen","price":4340,"property_id":4002059553,"area":"121m²","rooms":4.5}
+{"address":"8623 Wetzikon ZH","price":4340,"property_id":4002047825,"area":"121m²","rooms":4.5}
+{"address":"Aentenschnabel, 8353 Elgg","price":4340,"property_id":4002038535,"area":"121m²","rooms":4.5}
+{"address":"Maurerweg 12, 2503 Biel","price":4340,"property_id":4002038105,"area":"121m²","rooms":4.5}
+{"address":"Hauptstrasse 58, 8553 Hüttlingen","price":4340,"property_id":4002037735,"area":"121m²","rooms":4.5}
+{"address":"Seefeldstrasse 231, 8008 Zürich","price":4340,"property_id":4002024967,"area":"121m²","rooms":4.5}
+{"address":"Mülhauserstrasse, 4056 Basel","price":4340,"property_id":4002006222,"area":"121m²","rooms":4.5}
+{"address":"Mittlere Gstücktstrasse 38, 8180 Bülach","price":4340,"property_id":4001978874,"area":"121m²","rooms":4.5}
+{"address":"Dorfstrasse 14, 4206 Seewen SO","price":4340,"property_id":4001978238,"area":"121m²","rooms":4.5}
+{"address":"Ringstrasse 4d (21800), 8737 Gommiswald","price":4340,"property_id":4001978094,"area":"121m²","rooms":4.5}
+{"address":"Henri-Mussard, 1208 Genève","price":4340,"property_id":4001977767,"area":"121m²","rooms":4.5}
+{"address":"Eichelwiesenstrasse 4, 8305 Dietlikon","price":4340,"property_id":4001964391,"area":"121m²","rooms":4.5}
+{"address":"Rotwandstrasse 66, 8004 Zürich","price":4340,"property_id":4001950380,"area":"121m²","rooms":4.5}
+{"address":"Rotwandstrasse 66, 8004 Zürich","price":4340,"property_id":4001950370,"area":"121m²","rooms":4.5}
+{"address":"Bildstrasse, 9030 Abtwil SG","price":4340,"property_id":4001933447,"area":"121m²","rooms":4.5}
+{"address":"Poststrasse 19, 2504 Biel\/Bienne","price":4340,"property_id":4001874968,"area":"121m²","rooms":4.5}
+{"address":"Birkenstrasse 2, 4144 Arlesheim","price":4340,"property_id":4002065974,"area":"121m²","rooms":4.5}
+{"address":"Klotenerstrasse 78, 8303 Bassersdorf","price":4340,"property_id":4002064068,"area":"121m²","rooms":4.5}
+{"address":"3280 Murten","price":4340,"property_id":4002063200,"area":"121m²","rooms":4.5}
+{"address":"Rainweg 1B, 4713 Matzendorf","price":3250,"property_id":4002053448,"area":"150m²","rooms":5.5}
+{"address":"Maurerweg 12, 2503 Biel","price":3250,"property_id":4002039406,"area":"150m²","rooms":5.5}
+{"address":"Schöngrundweg 6, 4144 Arlesheim","price":3250,"property_id":4002035071,"area":"150m²","rooms":5.5}
+{"address":"Landauerstrasse 23a, 4058 Basel","price":3250,"property_id":4001968987,"area":"150m²","rooms":5.5}
+{"address":"Rue du Jura 7, 1196 Gland","price":3250,"property_id":4001908556,"area":"150m²","rooms":5.5}
+{"address":"Baselstrasse 47, 4500 Solothurn","price":3250,"property_id":4001899051,"area":"150m²","rooms":5.5}
+{"address":"Chemin de Cuard 2, 2022 Bevaix","price":3250,"property_id":4001891329,"area":"150m²","rooms":5.5}
+{"address":"Rue Auguste-Quiquerez 16, 2800 Delémont","price":3250,"property_id":4001886594,"area":"150m²","rooms":5.5}
+{"address":"Militärstrasse 106, 8004 Zürich","price":3250,"property_id":4001886453,"area":"150m²","rooms":5.5}
+{"address":"Poststrasse 19, 2504 Biel\/Bienne","price":3250,"property_id":4000806194,"area":"150m²","rooms":5.5}
+{"address":"Gaichtstrasse 1, 2512 Tüscherz-Alfermée","price":3250,"property_id":4002064574,"area":"150m²","rooms":5.5}
+{"address":"Place du Bourg-de-Four, 1204 Genève","price":3250,"property_id":4002063419,"area":"150m²","rooms":5.5}
+{"address":"Chemin de Bonne-Espérance, 1006 Lausanne","price":3250,"property_id":4002061790,"area":"150m²","rooms":5.5}
+{"address":"Route des Arsenaux, 1700 Fribourg","price":3250,"property_id":4002059774,"area":"150m²","rooms":5.5}
+{"address":"Hasenmattstrasse 1, 2540 Grenchen","price":3250,"property_id":4002054786,"area":"150m²","rooms":5.5}
+{"address":"Maurerweg 12, 2503 Biel","price":3250,"property_id":4002038113,"area":"150m²","rooms":5.5}
+{"address":"Wankdorffeldstrasse 103, 3014 Bern","price":3250,"property_id":4002023693,"area":"150m²","rooms":5.5}
+{"address":"Seestrasse 136-142, 8707 Uetikon am See","price":3250,"property_id":4002003227,"area":"150m²","rooms":5.5}
+{"address":"Rue Charles-Giron 14, 1203 Genève","price":3250,"property_id":4001991978,"area":"150m²","rooms":5.5}
+{"address":"Avenue Louis-Casaï, 1215 Genève 15 Aéroport","price":3250,"property_id":4001966950,"area":"150m²","rooms":5.5}
+{"address":"Wibergstrasse 39, 8180 Bülach","price":5950,"property_id":4001924622,"area":"150m²","rooms":5.5}
+{"address":"Wibergstrasse 39, 8180 Bülach","price":5950,"property_id":4001924620,"area":"150m²","rooms":5.5}
+{"address":"Wibergstrasse 41, 8180 Bülach","price":5950,"property_id":4001924615,"area":"150m²","rooms":5.5}
+{"address":"Wibergstrasse 41, 8180 Bülach","price":5950,"property_id":4001924611,"area":"150m²","rooms":5.5}
+{"address":"Wibergstrasse 41, 8180 Bülach","price":5950,"property_id":4001924600,"area":"150m²","rooms":5.5}
+{"address":"Wibergstrasse 41, 8180 Bülach","price":5950,"property_id":4001924553,"area":"150m²","rooms":5.5}
+{"address":"Rue Rousseau, 1201 Genève","price":5950,"property_id":4001913747,"area":"150m²","rooms":5.5}
+{"address":"Höchackerweg 4, 4923 Wynau","price":5950,"property_id":4001867340,"area":"150m²","rooms":5.5}
+{"address":"Schulstrasse 31, 4132 Muttenz","price":5950,"property_id":4002077169,"area":"150m²","rooms":5.5}
+{"address":"Sonnenbergstrasse 16, 8032 Zürich","price":5950,"property_id":4002073739,"area":"150m²","rooms":5.5}
+{"address":"Poststrasse 31, 8957 Spreitenbach","price":5950,"property_id":4002066308,"area":"150m²","rooms":5.5}
+{"address":"Ringstrasse 4d (21800), 8737 Gommiswald","price":5950,"property_id":4001978093,"area":"150m²","rooms":5.5}
+{"address":"Via Schlifras 85, 7130 Ilanz","price":5950,"property_id":4001978069,"area":"150m²","rooms":5.5}
+{"address":"Via Schlifras 85, 7130 Ilanz","price":5950,"property_id":4001978064,"area":"150m²","rooms":5.5}
+{"address":"Via Schlifras 85, 7130 Ilanz","price":5950,"property_id":4001978062,"area":"150m²","rooms":5.5}
+{"address":"Poststrasse 31, 8957 Spreitenbach","price":5950,"property_id":4001957352,"area":"150m²","rooms":5.5}
+{"address":"Steinfeldstrasse 19b, 8153 Rümlang","price":5950,"property_id":4001939686,"area":"150m²","rooms":5.5}
+{"address":"Chemin des Charrières 6, 2024 St-Aubin-Sauges","price":5950,"property_id":4001667738,"area":"150m²","rooms":5.5}
+{"address":"Gyrhaldenstrasse 27, 4416 Bubendorf","price":5950,"property_id":4001646195,"area":"150m²","rooms":5.5}
+{"address":"Gyrhaldenstrasse 33, 4416 Bubendorf","price":5950,"property_id":4001118224,"area":"150m²","rooms":5.5}
+{"address":"Langenhagweg 21, 4123 Allschwil","price":2280,"property_id":4002078666,"area":"81m²","rooms":4.0}
+{"address":"Baumgartenweg 10, 4106 Therwil","price":2280,"property_id":4002077166,"area":"81m²","rooms":4.0}
+{"address":"Via Cantonale 56, 6987 Caslano","price":2280,"property_id":4002039300,"area":"81m²","rooms":4.0}
+{"address":"Via al Ticino 29, 6514 Sementina","price":2280,"property_id":4002039297,"area":"81m²","rooms":4.0}
+{"address":"Blumenstrasse 1, 8192 Glattfelden","price":2280,"property_id":4002037523,"area":"81m²","rooms":4.0}
+{"address":"Fallenacker 4, 5504 Othmarsingen","price":2280,"property_id":4002028753,"area":"81m²","rooms":4.0}
+{"address":"Eichwiesstrasse 18a, 8645 Jona","price":2280,"property_id":4001874800,"area":"81m²","rooms":4.0}
+{"address":"Brombacherstrasse 44, 4057 Basel","price":2280,"property_id":4001840033,"area":"81m²","rooms":4.0}
+{"address":"Zollikerstrasse 275, 8008 Zürich","price":2280,"property_id":4001822147,"area":"81m²","rooms":4.0}
+{"address":"Tödistrasse 63, 8810 Horgen","price":2280,"property_id":4001783150,"area":"81m²","rooms":4.0}
+{"address":"Berneckerstrasse 15\/17, 9434 Au SG","price":2280,"property_id":4001644316,"area":"81m²","rooms":4.0}
+{"address":"Wesemlinstrasse 33 (Neubau), 6006 Luzern","price":2280,"property_id":4002065994,"area":"81m²","rooms":4.0}
+{"address":"Baselstrasse 7b, 4144 Arlesheim","price":2280,"property_id":4002065395,"area":"81m²","rooms":4.0}
+{"address":"Flawilerstrasse 48, 9242 Oberuzwil","price":2280,"property_id":4002053910,"area":"81m²","rooms":4.0}
+{"address":"Hiltiwaldweg 8, 5443 Niederrohrdorf","price":2280,"property_id":4002004584,"area":"81m²","rooms":4.0}
+{"address":"Seestrasse 136-142, 8707 Uetikon am See","price":2280,"property_id":4002003119,"area":"81m²","rooms":4.0}
+{"address":"1010 Lausanne","price":2280,"property_id":4001957250,"area":"81m²","rooms":4.0}
+{"address":"Giessliweg 81, 4057 Basel","price":2280,"property_id":4001820421,"area":"81m²","rooms":4.0}
+{"address":"Seestrasse 55, 8266 Steckborn","price":2280,"property_id":4001797872,"area":"81m²","rooms":4.0}
+{"address":"Tödistrasse 63, 8810 Horgen","price":2280,"property_id":4001783149,"area":"81m²","rooms":4.0}
+{"address":"Blumenstrasse 1, 8192 Glattfelden","price":3480,"property_id":4001370440,"area":"117m²","rooms":4.5}
+{"address":"Götzstrasse 21, 8006 Zürich","price":3480,"property_id":4002064526,"area":"117m²","rooms":4.5}
+{"address":"Götzstrasse 21, 8006 Zürich","price":3480,"property_id":4002064452,"area":"117m²","rooms":4.5}
+{"address":"Götzstrasse 19, 8006 Zürich","price":3480,"property_id":4002064450,"area":"117m²","rooms":4.5}
+{"address":"Freimettigenstrasse 16, 3672 Oberdiessbach","price":3480,"property_id":4002054507,"area":"117m²","rooms":4.5}
+{"address":"Freimettigenstrasse 16, 3672 Oberdiessbach","price":3480,"property_id":4002054505,"area":"117m²","rooms":4.5}
+{"address":"Freimettigenstrasse 16, 3672 Oberdiessbach","price":3480,"property_id":4002054504,"area":"117m²","rooms":4.5}
+{"address":"Thurgauerstrasse 107, 8152 Opfikon","price":3480,"property_id":4002009558,"area":"117m²","rooms":4.5}
+{"address":"Fraumattstrasse 12, 4410 Liestal","price":3480,"property_id":4002006028,"area":"117m²","rooms":4.5}
+{"address":"Käppeligasse 6, 4125 Riehen","price":3480,"property_id":4001969396,"area":"117m²","rooms":4.5}
+{"address":"Route de Sainte-Croix 12A, 1445 Vuiteboeuf","price":3480,"property_id":4001969082,"area":"117m²","rooms":4.5}
+{"address":"8640 Rapperswil","price":3480,"property_id":4001936608,"area":"117m²","rooms":4.5}
+{"address":"Widenplatz 12, 5070 Frick","price":3480,"property_id":4001871601,"area":"117m²","rooms":4.5}
+{"address":"Route des Argillères 4, 1782 Cormagens","price":3480,"property_id":4001866998,"area":"117m²","rooms":4.5}
+{"address":"1285 Sézegnin","price":3480,"property_id":4001764433,"area":"117m²","rooms":4.5}
+{"address":"Gyrhaldenstrasse 33, 4416 Bubendorf","price":3480,"property_id":4001118323,"area":"117m²","rooms":4.5}
+{"address":"8640 Rapperswil","price":3480,"property_id":4001936613,"area":"117m²","rooms":4.5}
+{"address":"Rte des Argillères 6 - 8, 1782 Cormagens","price":3480,"property_id":4001867009,"area":"117m²","rooms":4.5}
+{"address":"Langenthalstrasse 7, 4932 Lotzwil","price":3480,"property_id":4002002619,"area":"117m²","rooms":4.5}
+{"address":"Vogelsang, 6287 Aesch LU","price":3480,"property_id":4002067551,"area":"117m²","rooms":4.5}
+{"address":"Hubelstrasse 1B, 5524 Niederwil AG","price":2490,"property_id":4002066177,"area":"108m²","rooms":4.5}
+{"address":"Freimettigenstrasse 16, 3672 Oberdiessbach","price":2490,"property_id":4002054502,"area":"108m²","rooms":4.5}
+{"address":"Bassbeltweg 11 b, 2542 Pieterlen","price":2490,"property_id":4001978917,"area":"108m²","rooms":4.5}
+{"address":"Brückenmoosstrasse 21, 3942 Raron","price":2490,"property_id":4001067447,"area":"108m²","rooms":4.5}
+{"address":"Rue de creta co, 1936 Verbier","price":2490,"property_id":3000491869,"area":"108m²","rooms":4.5}
+{"address":"1162 St-Prex","price":2490,"property_id":4002015331,"area":"108m²","rooms":4.5}
+{"address":"Route des Argillères 4, 1782 Cormagens","price":2490,"property_id":4001867001,"area":"108m²","rooms":4.5}
+{"address":"Im Haldenächer, 8907 Wettswil","price":2490,"property_id":4002039943,"area":"108m²","rooms":4.5}
+{"address":"1162 St-Prex","price":2490,"property_id":4002015324,"area":"108m²","rooms":4.5}
+{"address":"Avenue de la Perrausaz 90, 1814 La Tour-de-Peilz","price":2490,"property_id":4001978487,"area":"108m²","rooms":4.5}
+{"address":"Via Giovanni Serodine, 6612 Ascona","price":2490,"property_id":4001353098,"area":"108m²","rooms":4.5}
+{"address":"Im Steinenmüller 6, 4142 Münchenstein","price":2490,"property_id":4001946225,"area":"108m²","rooms":4.5}
+{"address":"8907 Wettswil","price":2490,"property_id":4002039919,"area":"108m²","rooms":4.5}
+{"address":"1010 Lausanne","price":2490,"property_id":4002003378,"area":"108m²","rooms":4.5}
+{"address":"Viale Stazione 21, 6500 Bellinzona","price":2490,"property_id":4002053901,"area":"108m²","rooms":4.5}
+{"address":"Doktorsträssli 5a, 4704 Niederbipp","price":2490,"property_id":4001668356,"area":"108m²","rooms":4.5}
+{"address":"Langenhagweg 9, 4123 Allschwil","price":2490,"property_id":4002032851,"area":"108m²","rooms":4.5}
+{"address":"Via F. Borromini 29, 6500 Bellinzona","price":2490,"property_id":4001985978,"area":"108m²","rooms":4.5}
+{"address":"Bartholoméplatz 3, 7310 Bad Ragaz","price":2490,"property_id":4001980329,"area":"108m²","rooms":4.5}
+{"address":"Via Valle Maggia 13, 6600 Locarno","price":2490,"property_id":4001948105,"area":"108m²","rooms":4.5}
+{"address":"Gestadeckplatz 6, 4410 Liestal","price":3590,"property_id":4001741543,"area":"170m²","rooms":5.5}
+{"address":"Gerbergasse 70, 4001 Basel","price":3590,"property_id":4001669765,"area":"170m²","rooms":5.5}
+{"address":"Oltenstrasse 5, 4536 Attiswil","price":3590,"property_id":4002051404,"area":"170m²","rooms":5.5}
+{"address":"Bucheggstrasse 130, 8057 Zürich","price":3590,"property_id":4002000511,"area":"170m²","rooms":5.5}
+{"address":"Via Lischedo 3, 6802 Rivera","price":3590,"property_id":4001668950,"area":"170m²","rooms":5.5}
+{"address":"Via F. Borromini 27, 6500 Bellinzona","price":3590,"property_id":4001668734,"area":"170m²","rooms":5.5}
+{"address":"Wiesenstrasse 4, 8580 Amriswil","price":3590,"property_id":4001596159,"area":"170m²","rooms":5.5}
+{"address":"Im Esterli 17\/19, 4125 Riehen","price":3590,"property_id":4002055439,"area":"170m²","rooms":5.5}
+{"address":"Zilstrasse 60, 9016 St. Gallen","price":3590,"property_id":4002054434,"area":"170m²","rooms":5.5}
+{"address":"Via alla Bozzoreda 37, 6963 Pregassona","price":3590,"property_id":4002053900,"area":"170m²","rooms":5.5}
+{"address":"Via Lischedo 3, 6802 Rivera","price":3590,"property_id":4002053895,"area":"170m²","rooms":5.5}
+{"address":"Via San Gottardo 58a, 6500 Bellinzona","price":3590,"property_id":4002038666,"area":"170m²","rooms":5.5}
+{"address":"Frank-Buchserstrasse 3, 4532 Feldbrunnen","price":3590,"property_id":4002038659,"area":"170m²","rooms":5.5}
+{"address":"Le Grand-Chemin 126, 1066 Epalinges","price":3590,"property_id":4002007267,"area":"170m²","rooms":5.5}
+{"address":"Leutschenbachstrasse 50\/50a, 8050 Zürich","price":3590,"property_id":4002002549,"area":"170m²","rooms":5.5}
+{"address":"Viale Stazione 21, 6500 Bellinzona","price":3590,"property_id":4001980280,"area":"170m²","rooms":5.5}
+{"address":"Vulpera 32, 7552 Vulpera","price":3590,"property_id":4001912485,"area":"170m²","rooms":5.5}
+{"address":"St. Jakobstrasse 46, 4147 Aesch BL","price":3590,"property_id":4001912267,"area":"170m²","rooms":5.5}
+{"address":"Via Sasso Corbaro 19, 6593 Cadenazzo","price":3590,"property_id":4001904514,"area":"170m²","rooms":5.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":3590,"property_id":4001901335,"area":"170m²","rooms":5.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":2030,"property_id":4001901330,"area":"140m²","rooms":5.0}
+{"address":"Käferholzstrasse 48, 8057 Zürich","price":2030,"property_id":4001895941,"area":"140m²","rooms":5.0}
+{"address":"Niederfeldstrasse 8, 8932 Mettmenstetten","price":2030,"property_id":4001836955,"area":"140m²","rooms":5.0}
+{"address":"Hofackerstrasse 6e, 8157 Dielsdorf","price":2030,"property_id":4001820529,"area":"140m²","rooms":5.0}
+{"address":"Schwaderloch 7, 8253 Diessenhofen","price":2030,"property_id":4001797428,"area":"140m²","rooms":5.0}
+{"address":"St. Gallerstrasse 56 A, 9500 Wil SG","price":2030,"property_id":4001743104,"area":"140m²","rooms":5.0}
+{"address":"Via Monte Carmen 13, 6900 Lugano","price":2030,"property_id":4001714200,"area":"140m²","rooms":5.0}
+{"address":"Langenhagweg 9, 4123 Allschwil","price":2030,"property_id":4001669466,"area":"140m²","rooms":5.0}
+{"address":"Langenhagweg 7, 4123 Allschwil","price":2030,"property_id":4001669464,"area":"140m²","rooms":5.0}
+{"address":"Via Sasso Corbaro 17, 6593 Cadenazzo","price":2030,"property_id":4001668528,"area":"140m²","rooms":5.0}
+{"address":"Via Monte Carmen 13, 6900 Lugano","price":2030,"property_id":4001668412,"area":"140m²","rooms":5.0}
+{"address":"Oelebachweg 19, 3427 Utzenstorf","price":2030,"property_id":4002062172,"area":"140m²","rooms":5.0}
+{"address":"Tittertenstrasse 9, 4418 Reigoldswil","price":2030,"property_id":4002060863,"area":"140m²","rooms":5.0}
+{"address":"Via Valle Maggia 13, 6600 Locarno","price":2030,"property_id":4002055344,"area":"140m²","rooms":5.0}
+{"address":"Chemin des Croisettes 7, 1066 Epalinges","price":2030,"property_id":4002054444,"area":"140m²","rooms":5.0}
+{"address":"Hauptstrasse 119, 4102 Binningen","price":2030,"property_id":4002050661,"area":"140m²","rooms":5.0}
+{"address":"Spyristrasse 20, 8044 Zürich","price":2030,"property_id":4002047844,"area":"140m²","rooms":5.0}
+{"address":"Avenue Beauregard 2, 1700 Fribourg","price":2030,"property_id":4002039926,"area":"140m²","rooms":5.0}
+{"address":"Via Ghiringhelli 27 a, 6500 Bellinzona","price":2030,"property_id":4002038664,"area":"140m²","rooms":5.0}
+{"address":"Via Franco Zorzi 25A, 6500 Bellinzona","price":2030,"property_id":4002031463,"area":"140m²","rooms":5.0}
+{"address":"Innere Mattenstrasse 20, 5036 Oberentfelden","price":2590,"property_id":4002018334,"area":"122m²","rooms":5.5}
+{"address":"Stengelmattstrasse 24, 6252 Dagmersellen","price":2590,"property_id":4002009638,"area":"122m²","rooms":5.5}
+{"address":"Küchengasse 16, 4051 Basel","price":2590,"property_id":4002009504,"area":"122m²","rooms":5.5}
+{"address":"Esterlistrasse 20, 4133 Pratteln","price":2590,"property_id":4002009500,"area":"122m²","rooms":5.5}
+{"address":"Jurastrasse 92, 2540 Grenchen","price":2590,"property_id":4002006074,"area":"122m²","rooms":5.5}
+{"address":"Wartenweilerweg 3, 9214 Kradolf-Schönenberg","price":2590,"property_id":4001996813,"area":"122m²","rooms":5.5}
+{"address":"Via alla Bozzoreda 37, 6963 Pregassona","price":2590,"property_id":4001980272,"area":"122m²","rooms":5.5}
+{"address":"Via F. Borromini 20, 6500 Bellinzona","price":2590,"property_id":4001918758,"area":"122m²","rooms":5.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":2590,"property_id":4001901334,"area":"122m²","rooms":5.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":2590,"property_id":4001901333,"area":"122m²","rooms":5.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":2590,"property_id":4001901332,"area":"122m²","rooms":5.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":2590,"property_id":4001901331,"area":"122m²","rooms":5.5}
+{"address":"Stallenmattstrasse 10, 4104 Oberwil BL","price":2590,"property_id":4001864088,"area":"122m²","rooms":5.5}
+{"address":"Eugen-Huber-Str. 113, 8048 Zürich","price":2590,"property_id":4001852119,"area":"122m²","rooms":5.5}
+{"address":"Via del Carmagnola 36B, 6517 Arbedo","price":2590,"property_id":4001836520,"area":"122m²","rooms":5.5}
+{"address":"Paracelsusstrasse 63, 4058 Basel","price":2590,"property_id":4001794440,"area":"122m²","rooms":5.5}
+{"address":"Haltingerstr. 78, 4057 Basel","price":2590,"property_id":4001793291,"area":"122m²","rooms":5.5}
+{"address":"Rosenstrasse 1, 4410 Liestal","price":2590,"property_id":4001749938,"area":"122m²","rooms":5.5}
+{"address":"Gestadeckplatz 6, 4410 Liestal","price":2590,"property_id":4001669298,"area":"122m²","rooms":5.5}
+{"address":"Via F. Borromini 20, 6500 Bellinzona","price":2590,"property_id":4001668739,"area":"122m²","rooms":5.5}
+{"address":"Pilgerstr. 71, 5405 Dättwil AG","price":3270,"property_id":4001668614,"area":"128m²","rooms":4.5}
+{"address":"Wylerstrasse 115, 3014 Bern","price":3270,"property_id":4002073453,"area":"128m²","rooms":4.5}
+{"address":"Burgdorfstrasse 13, 3422 Alchenflüh","price":3270,"property_id":4002071006,"area":"128m²","rooms":4.5}
+{"address":"Bahnstrasse 6, 9445 Rebstein","price":3270,"property_id":4002054432,"area":"128m²","rooms":4.5}
+{"address":"Via del Tiglio 5, 6592 S. Antonino","price":3270,"property_id":4002051393,"area":"128m²","rooms":4.5}
+{"address":"Redingstrasse 24, 4052 Basel","price":3270,"property_id":4002047930,"area":"128m²","rooms":4.5}
+{"address":"Rigiring 3, 6280 Hochdorf","price":3270,"property_id":4002046465,"area":"128m²","rooms":4.5}
+{"address":"Rue de Romont 1, 1700 Fribourg","price":3270,"property_id":4002039930,"area":"128m²","rooms":4.5}
+{"address":"Grabenwies 32, 8057 Zürich","price":3270,"property_id":4002039927,"area":"128m²","rooms":4.5}
+{"address":"Rue Jacques-Vogt 2, 1700 Fribourg","price":3270,"property_id":4002039925,"area":"128m²","rooms":4.5}
+{"address":"Chemin de la Colline 2, 1023 Crissier","price":3270,"property_id":4002017373,"area":"128m²","rooms":4.5}
+{"address":"Via F. Borromini 29a, 6500 Bellinzona","price":3270,"property_id":4002004944,"area":"128m²","rooms":4.5}
+{"address":"Wehntalerstrasse 432, 8046 Zürich","price":3270,"property_id":4001999745,"area":"128m²","rooms":4.5}
+{"address":"Via Franco Zorzi 25A, 6500 Bellinzona","price":3270,"property_id":4001995971,"area":"128m²","rooms":4.5}
+{"address":"Paul-Kleestrasse 107, 3053 Münchenbuchsee","price":3270,"property_id":4001989296,"area":"128m²","rooms":4.5}
+{"address":"Via Franco Zorzi 25A, 6500 Bellinzona","price":3270,"property_id":4001979003,"area":"128m²","rooms":4.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":3270,"property_id":4001901329,"area":"128m²","rooms":4.5}
+{"address":"rue du Kirlou 24, 2800 Delémont","price":3270,"property_id":4001901327,"area":"128m²","rooms":4.5}
+{"address":"Chemin des Grands-Pins 2, 2000 Neuchâtel","price":3270,"property_id":4001867848,"area":"128m²","rooms":4.5}
+{"address":"Via Cantonale 12 A, 6942 Savosa","price":3270,"property_id":4001860704,"area":"128m²","rooms":4.5}
+{"address":"Rue Adrien-Pichard 2, 1003 Lausanne","price":3480,"property_id":4001847621,"area":"120m²","rooms":4.0}
+{"address":"Feldeggstrasse 73, 3322 Urtenen-Schönbühl","price":3480,"property_id":4001809020,"area":"120m²","rooms":4.0}
+{"address":"Heidenerstrasse 6, 9400 Rorschach","price":3480,"property_id":4001765042,"area":"120m²","rooms":4.0}
+{"address":"Truttikerstrasse 19, 8475 Ossingen","price":3480,"property_id":4002081184,"area":"120m²","rooms":4.0}
+{"address":"Wilfriedstrasse 7, 8032 Zürich","price":3480,"property_id":4002078663,"area":"120m²","rooms":4.0}
+{"address":"Herrenhof 868, 9240 Niederglatt","price":3480,"property_id":4002077664,"area":"120m²","rooms":4.0}
+{"address":"Seeblickstrasse 31, 8738 Uetliburg","price":3480,"property_id":4002076971,"area":"120m²","rooms":4.0}
+{"address":"Husächerstr. 5, 8907 Wettswil","price":3480,"property_id":4002075419,"area":"120m²","rooms":4.0}
+{"address":"Route de Vandœuvres 6, 1223 Cologny","price":3480,"property_id":4002075044,"area":"120m²","rooms":4.0}
+{"address":"Via F. Borromini 27, 6500 Bellinzona","price":3480,"property_id":4002074831,"area":"120m²","rooms":4.0}
+{"address":"Wylerstrasse 115, 3014 Bern","price":3480,"property_id":4002073382,"area":"120m²","rooms":4.0}
+{"address":"Hammerstrasse 92, 4057 Basel","price":3480,"property_id":4002073335,"area":"120m²","rooms":4.0}
+{"address":"Bleicherstrasse, Nr. 33, 8953 Dietikon","price":3480,"property_id":4002070471,"area":"120m²","rooms":4.0}
+{"address":"Rue Daubin 4, 1203 Genève","price":3480,"property_id":4002070191,"area":"120m²","rooms":4.0}
+{"address":"Eigenheimweg 18, 4614 Hägendorf","price":3480,"property_id":4002066673,"area":"120m²","rooms":4.0}
+{"address":"Langgasse 58, 8400 Winterthur","price":3480,"property_id":4002061897,"area":"120m²","rooms":4.0}
+{"address":"Rathausstrasse 30, 8570 Weinfelden","price":3480,"property_id":4002060913,"area":"120m²","rooms":4.0}
+{"address":"Rosenberghöhe 22, 6004 Luzern","price":3480,"property_id":4002060543,"area":"120m²","rooms":4.0}
+{"address":"Seeburgstrasse 49B, 6006 Luzern","price":3480,"property_id":4002059937,"area":"120m²","rooms":4.0}
+{"address":"vicolo di Caprino 10, 6823 Pugerna","price":3480,"property_id":4002059179,"area":"120m²","rooms":4.0}
+{"address":"Hofmattstrasse 46, 4415 Lausen","price":2240,"property_id":4002055430,"area":"110m²","rooms":5.0}
+{"address":"Am Stausee 25, 4127 Birsfelden","price":2240,"property_id":4002055429,"area":"110m²","rooms":5.0}
+{"address":"Westerholz 6, 2504 Biel\/Bienne","price":2240,"property_id":4002054443,"area":"110m²","rooms":5.0}
+{"address":"Holeeholzweg 69, 4102 Binningen","price":2240,"property_id":4002054440,"area":"110m²","rooms":5.0}
+{"address":"Kurvenstrasse 15, 8600 Dübendorf","price":2240,"property_id":4002054439,"area":"110m²","rooms":5.0}
+{"address":"Pfruendhofstrasse 48, 8910 Affoltern am Albis","price":2240,"property_id":4002054433,"area":"110m²","rooms":5.0}
+{"address":"Bernstrasse 147, 3400 Burgdorf","price":2240,"property_id":4002051403,"area":"110m²","rooms":5.0}
+{"address":"Batteriestrasse 4a, 4103 Bottmingen","price":2240,"property_id":4002051395,"area":"110m²","rooms":5.0}
+{"address":"Via Giuseppe Torti 6, 6500 Bellinzona","price":2240,"property_id":4002051394,"area":"110m²","rooms":5.0}
+{"address":"Via Monte Carmen 13, 6900 Lugano","price":2240,"property_id":4002051338,"area":"110m²","rooms":5.0}
+{"address":"Hammerstrasse 33, 8008 Zürich","price":2240,"property_id":4002050823,"area":"110m²","rooms":5.0}
+{"address":"Via ai Saleggi 26, 6600 Locarno","price":2240,"property_id":4002050783,"area":"110m²","rooms":5.0}
+{"address":"Wyde 7, 5242 Birr","price":2240,"property_id":4002050667,"area":"110m²","rooms":5.0}
+{"address":"Dorfstrasse 31, 8310 Grafstal","price":2240,"property_id":4002048119,"area":"110m²","rooms":5.0}
+{"address":"Am Stausee 25, 4127 Birsfelden","price":2240,"property_id":4002044164,"area":"110m²","rooms":5.0}
+{"address":"Rue de l'Aubépine 3, 1205 Genève","price":2240,"property_id":4002042526,"area":"110m²","rooms":5.0}
+{"address":"Pappelnweg 36d, 4310 Rheinfelden","price":2240,"property_id":4002039803,"area":"110m²","rooms":5.0}
+{"address":"Mattengasse 11, 8005 Zürich","price":2240,"property_id":4002039327,"area":"110m²","rooms":5.0}
+{"address":"Via Olgiati 20B, 6512 Giubiasco","price":2240,"property_id":4002038665,"area":"110m²","rooms":5.0}
+{"address":"Rainstrasse 1, 5415 Nussbaumen AG","price":2240,"property_id":4002038160,"area":"110m²","rooms":5.0}
+{"address":"Belchenring 51, 4123 Allschwil","price":2140,"property_id":4002032821,"area":"81m²","rooms":3.5}
+{"address":"Blochmonterstr. 4, 4054 Basel","price":2140,"property_id":4002032820,"area":"81m²","rooms":3.5}
+{"address":"Bahnweg 1, 8700 Küsnacht","price":2140,"property_id":4002032033,"area":"81m²","rooms":3.5}
+{"address":"Wehrligasse 5A, 8476 Stammheim","price":2140,"property_id":4002031831,"area":"81m²","rooms":3.5}
+{"address":"Bernapark 28, 3066 Stettlen","price":2140,"property_id":4002028305,"area":"81m²","rooms":3.5}
+{"address":"Pappelnweg 34b, 4310 Rheinfelden","price":2140,"property_id":4002027464,"area":"81m²","rooms":3.5}
+{"address":"Chemin de la Pousaz 16, 1866 Ormont-Dessous","price":2140,"property_id":4002027393,"area":"81m²","rooms":3.5}
+{"address":"Zihlweg 41, 2557 Studen BE","price":2140,"property_id":4002022332,"area":"81m²","rooms":3.5}
+{"address":"Schiltstrasse 49, 8750 Glarus","price":2140,"property_id":4002015998,"area":"81m²","rooms":3.5}
+{"address":"Birsfelderstrasse 95, 4132 Muttenz","price":2140,"property_id":4002009502,"area":"81m²","rooms":3.5}
+{"address":"Sankt Martinstrasse 60, 6430 Schwyz","price":2140,"property_id":4002009122,"area":"81m²","rooms":3.5}
+{"address":"Rothausstrasse 15, 4132 Muttenz","price":2140,"property_id":4002005842,"area":"81m²","rooms":3.5}
+{"address":"Heinrich-Wolff-Strasse 10, 8046 Zürich","price":2140,"property_id":4002005129,"area":"81m²","rooms":3.5}
+{"address":"Zürcherstrasse 24B, 8852 Altendorf","price":2140,"property_id":4002001854,"area":"81m²","rooms":3.5}
+{"address":"Schärenfeld 30, 8052 Seebach","price":2140,"property_id":4002000627,"area":"81m²","rooms":3.5}
+{"address":"Altweg 25, 8905 Arni","price":2140,"property_id":4001997328,"area":"81m²","rooms":3.5}
+{"address":"Steinenbühlstrasse 50A, 5417 Untersiggenthal","price":2140,"property_id":4001988533,"area":"81m²","rooms":3.5}
+{"address":"Delsbergerallee 68, 4053 Basel","price":2140,"property_id":4001987266,"area":"81m²","rooms":3.5}
+{"address":"Schwärzere 19, 3425 Koppigen","price":2140,"property_id":4001983791,"area":"81m²","rooms":3.5}
+{"address":"Trogmattweg 9, 3506 Grosshöchstetten","price":2140,"property_id":4001982696,"area":"81m²","rooms":3.5}
+{"address":"Im Burgfelderhof 43, 4055 Basel","price":2490,"property_id":4001981629,"area":"120m²","rooms":5.0}
+{"address":"Grubenstrasse 13b, 5070 Frick","price":2490,"property_id":4001980147,"area":"120m²","rooms":5.0}
+{"address":"Elsastrasse 16, 8004 Zürich","price":2490,"property_id":4001970464,"area":"120m²","rooms":5.0}
+{"address":"Chemin des Semailles 9 B, 1212 Grand-Lancy","price":2490,"property_id":4001967227,"area":"120m²","rooms":5.0}
+{"address":"Mühlemattstrasse 11, 6374 Buochs","price":2490,"property_id":4001966990,"area":"120m²","rooms":5.0}
+{"address":"Birsfelderstrasse 34, 4132 Muttenz","price":2490,"property_id":4001966134,"area":"120m²","rooms":5.0}
+{"address":"Apfelseestr. 9, 4143 Dornach","price":2490,"property_id":4001962223,"area":"120m²","rooms":5.0}
+{"address":"Bergstrasse 14, 8953 Dietikon","price":2490,"property_id":4001960538,"area":"120m²","rooms":5.0}
+{"address":"Guyer-Zeller-Strasse10, 8620 Wetzikon ZH","price":2490,"property_id":4001955079,"area":"120m²","rooms":5.0}
+{"address":"Kempttalstrasse 78, 8308 Illnau-Effretikon","price":2490,"property_id":4001953394,"area":"120m²","rooms":5.0}
+{"address":"Via Galli 8, 6600 Locarno","price":2490,"property_id":4001948106,"area":"120m²","rooms":5.0}
+{"address":"Schipferstrasse 5, 8800 Thalwil","price":2490,"property_id":4001937866,"area":"120m²","rooms":5.0}
+{"address":"Burgunderweg 46, 2505 Biel\/Bienne","price":2490,"property_id":4001912490,"area":"120m²","rooms":5.0}
+{"address":"Billoweg 3, 8038 Zürich","price":2490,"property_id":4001910546,"area":"120m²","rooms":5.0}
+{"address":"Baselstrasse 95, 4153 Reinach","price":2490,"property_id":4001906397,"area":"120m²","rooms":5.0}
+{"address":"Werkgasse 28, 3018 Bern","price":2490,"property_id":4001898329,"area":"120m²","rooms":5.0}
+{"address":"Winzerweg 9, 4123 Allschwil","price":2490,"property_id":4001893464,"area":"120m²","rooms":5.0}
+{"address":"Haldenstrasse 8, 8045 Zürich","price":2490,"property_id":4001893301,"area":"120m²","rooms":5.0}
+{"address":"Hauptstrasse 7, 4132 Muttenz","price":2490,"property_id":4001892969,"area":"120m²","rooms":5.0}
+{"address":"Dammweg 35, 5610 Wohlen AG","price":2490,"property_id":4001888521,"area":"120m²","rooms":5.0}
+{"address":"Via Monte Carmen 13, 6900 Lugano","price":1690,"property_id":4001884400,"area":"49m²","rooms":3.0}
+{"address":"Sonnhaldenstrasse 1, 8113 Boppelsen","price":1690,"property_id":4001883675,"area":"49m²","rooms":3.0}
+{"address":"Lungolago Giuseppe Motta 78, 6815 Melide","price":1690,"property_id":4001871860,"area":"49m²","rooms":3.0}
+{"address":"Oberburgstrasse 90, 3400 Burgdorf","price":1690,"property_id":4001867855,"area":"49m²","rooms":3.0}
+{"address":"Bernstrasse 149, 3400 Burgdorf","price":1690,"property_id":4001852928,"area":"49m²","rooms":3.0}
+{"address":"Länggasse 43, 4624 Härkingen","price":1690,"property_id":4001847968,"area":"49m²","rooms":3.0}
+{"address":"Rainackerweg 70, 5303 Würenlingen","price":1690,"property_id":4001815017,"area":"49m²","rooms":3.0}
+{"address":"Via Mario Jaeggli 10, 6500 Bellinzona","price":1690,"property_id":4001793303,"area":"49m²","rooms":3.0}
+{"address":"Länggenstrasse 3, 8184 Bachenbülach","price":1690,"property_id":4001790468,"area":"49m²","rooms":3.0}
+{"address":"Worbigstrasse 10B, 8416 Flaach","price":1690,"property_id":4001709598,"area":"49m²","rooms":3.0}
+{"address":"Rebenweid 26, 6332 Hagendorn","price":1690,"property_id":4001678594,"area":"49m²","rooms":3.0}
+{"address":"Heimstr. 12, 9014 St. Gallen","price":1690,"property_id":4001668923,"area":"49m²","rooms":3.0}
+{"address":"Via Crocetta 27a, 6962 Lugano","price":1690,"property_id":4001668314,"area":"49m²","rooms":3.0}
+{"address":"Via Crocetta 25, 6962 Lugano","price":1690,"property_id":4001668313,"area":"49m²","rooms":3.0}
+{"address":"Auweg 20, 4450 Sissach","price":1690,"property_id":4001668188,"area":"49m²","rooms":3.0}
+{"address":"Tulpenweg 19, 4153 Reinach","price":1690,"property_id":4001608152,"area":"49m²","rooms":3.0}
+{"address":"Frohburgerstrasse 9, 4132 Muttenz","price":1690,"property_id":4001510353,"area":"49m²","rooms":3.0}
+{"address":"Kronengasse 1, 5000 Aarau","price":1690,"property_id":4001447177,"area":"49m²","rooms":3.0}
+{"address":"Heidenlochstrasse 110, 4410 Liestal","price":1690,"property_id":4001190324,"area":"49m²","rooms":3.0}
+{"address":"Schlossbergweg 6b, 5400 Baden","price":1690,"property_id":4001123839,"area":"49m²","rooms":3.0}
+{"address":"Zürcherstrasse 42, 8142 Uitikon Waldegg","price":4760,"property_id":4002076836,"area":"170m²","rooms":4.5}
+{"address":"Bächtelenweg 3, 3084 Wabern","price":4760,"property_id":4002076759,"area":"170m²","rooms":4.5}
+{"address":"Parkweg 2, 4852 Rothrist","price":4760,"property_id":4002076367,"area":"170m²","rooms":4.5}
+{"address":"Parkweg 2, 4852 Rothrist","price":4760,"property_id":4002076355,"area":"170m²","rooms":4.5}
+{"address":"Holeestrasse 101, 4054 Basel","price":4760,"property_id":4002075874,"area":"170m²","rooms":4.5}
+{"address":"Hammerstrasse 92, 4057 Basel","price":4760,"property_id":4002073300,"area":"170m²","rooms":4.5}
+{"address":"Parkweg 2, 4852 Rothrist","price":4760,"property_id":4002072457,"area":"170m²","rooms":4.5}
+{"address":"Dietenrainweg 8, 8610 Uster","price":4760,"property_id":4002063359,"area":"170m²","rooms":4.5}
+{"address":"Zürcherstrasse 35, 9500 Wil SG","price":4760,"property_id":4002063238,"area":"170m²","rooms":4.5}
+{"address":"Im Kirchbrunnen 7, 8153 Rümlang","price":4760,"property_id":4002062320,"area":"170m²","rooms":4.5}
+{"address":"Mühlestrasse 9, 6022 Grosswangen","price":4760,"property_id":4002061078,"area":"170m²","rooms":4.5}
+{"address":"Teufenerstrasse 4, 9000 St. Gallen","price":4760,"property_id":4002056374,"area":"170m²","rooms":4.5}
+{"address":"Klinkerweg 7, 4123 Allschwil","price":4760,"property_id":4002055440,"area":"170m²","rooms":4.5}
+{"address":"Freihofstrasse 5A, 8280 Kreuzlingen","price":4760,"property_id":4002055437,"area":"170m²","rooms":4.5}
+{"address":"Via Pazzalino 9, 6962 Viganello","price":4760,"property_id":4002054436,"area":"170m²","rooms":4.5}
+{"address":"Wisentalweg 4, 9230 Flawil","price":4760,"property_id":4002054435,"area":"170m²","rooms":4.5}
+{"address":"Quellenstrasse 5, 9240 Uzwil","price":4760,"property_id":4002054428,"area":"170m²","rooms":4.5}
+{"address":"Rütteliweg 8, 4310 Rheinfelden","price":4760,"property_id":4002053674,"area":"170m²","rooms":4.5}
+{"address":"Via Tesserete 33, 6900 Massagno","price":4760,"property_id":4002051398,"area":"170m²","rooms":4.5}
+{"address":"Kanalweg 38, 4800 Zofingen","price":4760,"property_id":4002051396,"area":"170m²","rooms":4.5}
+{"address":"Via al Castello 12, 6964 Davesco-Soragno","price":2110,"property_id":4002051392,"area":"97m²","rooms":4.5}
+{"address":"Langenmattstrasse 68, 8617 Mönchaltorf","price":2110,"property_id":4002050988,"area":"97m²","rooms":4.5}
+{"address":"Bellariastrasse 81, 8038 Zürich","price":2110,"property_id":4002050670,"area":"97m²","rooms":4.5}
+{"address":"Brotkorbstrasse 30 B, 4332 Stein AG","price":2110,"property_id":4002050666,"area":"97m²","rooms":4.5}
+{"address":"Leimenstrasse 49, 4051 Basel","price":2110,"property_id":4002050660,"area":"97m²","rooms":4.5}
+{"address":"Tösstalstrasse 3, 8332 Rumlikon","price":2110,"property_id":4002050401,"area":"97m²","rooms":4.5}
+{"address":"Ramuzstrasse 17, 3027 Bern","price":2110,"property_id":4002050076,"area":"97m²","rooms":4.5}
+{"address":"Im Wilacker 12, 4106 Therwil","price":2110,"property_id":4002047845,"area":"97m²","rooms":4.5}
+{"address":"Rosengartenweg 8 C, 5417 Untersiggenthal","price":2110,"property_id":4002046816,"area":"97m²","rooms":4.5}
+{"address":"Rennweg 43, 8001 Zürich","price":2110,"property_id":4002046815,"area":"97m²","rooms":4.5}
+{"address":"Zielhagweg 28, 8240 Thayngen","price":2110,"property_id":4002046662,"area":"97m²","rooms":4.5}
+{"address":"Südstrasse 36, 2504 Biel\/Bienne","price":2110,"property_id":4002046472,"area":"97m²","rooms":4.5}
+{"address":"Südstrasse 33, 2504 Biel\/Bienne","price":2110,"property_id":4002046471,"area":"97m²","rooms":4.5}
+{"address":"Schollstrasse 3-13, 2504 Biel\/Bienne","price":2110,"property_id":4002046470,"area":"97m²","rooms":4.5}
+{"address":"Lothringerstrasse 51, 4056 Basel","price":2110,"property_id":4002044165,"area":"97m²","rooms":4.5}
+{"address":"Baslerstrasse 71, 8048 Zürich","price":2110,"property_id":4002042483,"area":"97m²","rooms":4.5}
+{"address":"St. Alban-Anlage 59\/61\/63, 4052 Basel","price":2110,"property_id":4002042477,"area":"97m²","rooms":4.5}
+{"address":"Freilager-Platz 4, 4142 Münchenstein","price":2110,"property_id":4002042476,"area":"97m²","rooms":4.5}
+{"address":"Route de la Feuillère 21, 1010 Lausanne","price":2110,"property_id":4002042472,"area":"97m²","rooms":4.5}
+{"address":"Stauffacherstrasse 1, 6020 Emmenbrücke","price":2110,"property_id":4002039922,"area":"97m²","rooms":4.5}
+{"address":"Zieglerweg 53, 8240 Thayngen","price":1750,"property_id":4002039796,"area":"92m²","rooms":4.0}
+{"address":"Via Beltramina 10, 6900 Lugano","price":1750,"property_id":4002038669,"area":"92m²","rooms":4.0}
+{"address":"Im Pfauenhof 10, 11, 4410 Liestal","price":1750,"property_id":4002038662,"area":"92m²","rooms":4.0}
+{"address":"Haslenstrasse 13, 8903 Birmensdorf ZH","price":1750,"property_id":4002038655,"area":"92m²","rooms":4.0}
+{"address":"Rte du Coteau 31, 1752 Villars-sur-Glâne","price":1750,"property_id":4002032853,"area":"92m²","rooms":4.0}
+{"address":"Grendelbachstrasse 45, 8307 Effretikon","price":1750,"property_id":4002032173,"area":"92m²","rooms":4.0}
+{"address":"Schlossstr. 5c, 4133 Pratteln","price":1750,"property_id":4002031440,"area":"92m²","rooms":4.0}
+{"address":"Schlossstr. 5e, 4133 Pratteln","price":1750,"property_id":4002031439,"area":"92m²","rooms":4.0}
+{"address":"Voltastrasse 2, 6005 Luzern","price":1750,"property_id":4002030767,"area":"92m²","rooms":4.0}
+{"address":"Seestrasse 46A, 8855 Wangen","price":1750,"property_id":4002021045,"area":"92m²","rooms":4.0}
+{"address":"Hammerstrasse 61, 8032 Zürich","price":1750,"property_id":4002018331,"area":"92m²","rooms":4.0}
+{"address":"Zur Stahlgiesserei 3, 8200 Schaffhausen","price":1750,"property_id":4002009503,"area":"92m²","rooms":4.0}
+{"address":"Bruggstrasse 7, 4153 Reinach BL","price":1750,"property_id":4002009498,"area":"92m²","rooms":4.0}
+{"address":"Ob der Müli, 8166 Niederweningen","price":1750,"property_id":4002008739,"area":"92m²","rooms":4.0}
+{"address":"Marktstrasse 3, 2540 Grenchen","price":1750,"property_id":4002006071,"area":"92m²","rooms":4.0}
+{"address":"Vogelwinkel 4B, 6340 Baar","price":1750,"property_id":4002005670,"area":"92m²","rooms":4.0}
+{"address":"Pfirsichstrasse 9, 8006 Zürich","price":1750,"property_id":4002002556,"area":"92m²","rooms":4.0}
+{"address":"Schaffhauserstrasse 230 A, 8057 Zürich","price":1750,"property_id":4002002543,"area":"92m²","rooms":4.0}
+{"address":"Poststrasse 98, 7050 Arosa","price":1750,"property_id":4002000431,"area":"92m²","rooms":4.0}
+{"address":"Im Bruppach 15, 8703 Erlenbach ZH","price":1750,"property_id":4001996340,"area":"92m²","rooms":4.0}
+{"address":"Büelstrasse 3, 8863 Buttikon SZ","price":2540,"property_id":4001995448,"area":"124m²","rooms":4.5}
+{"address":"Hubelweg 5, 3504 Niederhünigen","price":2540,"property_id":4001994870,"area":"124m²","rooms":4.5}
+{"address":"Gutenbergstr. 37, 3011 Bern","price":2540,"property_id":4001987280,"area":"124m²","rooms":4.5}
+{"address":"Tellstrasse 26, 3014 Bern","price":2540,"property_id":4001981892,"area":"124m²","rooms":4.5}
+{"address":"Tellstrasse 26, 3014 Bern","price":2540,"property_id":4001981830,"area":"124m²","rooms":4.5}
+{"address":"Grabenwies 20, 8057 Zürich","price":2540,"property_id":4001980219,"area":"124m²","rooms":4.5}
+{"address":"Theaterstrasse 13, 6003 Luzern","price":2540,"property_id":4001978464,"area":"124m²","rooms":4.5}
+{"address":"Marktplatz 14, 9000 St. Gallen","price":2540,"property_id":4001976822,"area":"124m²","rooms":4.5}
+{"address":"Seemoosholzstrasse 20, 9320 Arbon","price":2540,"property_id":4001976806,"area":"124m²","rooms":4.5}
+{"address":"Rue du Chêne 5, 1020 Renens","price":2540,"property_id":4001974662,"area":"124m²","rooms":4.5}
+{"address":"Rue du Chêne 5, 1020 Renens","price":2540,"property_id":4001974661,"area":"124m²","rooms":4.5}
+{"address":"Rue du Chêne 5, 1020 Renens","price":2540,"property_id":4001974660,"area":"124m²","rooms":4.5}
+{"address":"Rue du Chêne 5, 1020 Renens","price":2540,"property_id":4001974657,"area":"124m²","rooms":4.5}
+{"address":"Säntisstrasse, 9542 Münchwilen TG","price":2540,"property_id":4001972101,"area":"124m²","rooms":4.5}
+{"address":"Nüchternweg 12, 3038 Kirchlindach","price":2540,"property_id":4001971322,"area":"124m²","rooms":4.5}
+{"address":"Murtenstrasse 143 D, 3008 Bern","price":2540,"property_id":4001970764,"area":"124m²","rooms":4.5}
+{"address":"Bühlstr. 4, 8954 Geroldswil","price":2540,"property_id":4001966848,"area":"124m²","rooms":4.5}
+{"address":"Erikastrasse 1, 4057 Basel","price":2540,"property_id":4001958798,"area":"124m²","rooms":4.5}
+{"address":"Hinterdorfstrasse 27, 8157 Dielsdorf","price":2540,"property_id":4001958714,"area":"124m²","rooms":4.5}
+{"address":"Untere Bühlenstrasse, 8708 Männedorf","price":2540,"property_id":4001954405,"area":"124m²","rooms":4.5}
+{"address":"Avenue De France 22, 1004 Lausanne","price":4480,"property_id":4001953666,"area":"150m²","rooms":5.5}
+{"address":"Baselmattweg 87, 4123 Allschwil","price":4480,"property_id":4001943629,"area":"150m²","rooms":5.5}
+{"address":"Obere Schöntalstrasse 48, 8406 Winterthur","price":4480,"property_id":4001939095,"area":"150m²","rooms":5.5}
+{"address":"Felsenaustrasse 13, 8704 Herrliberg","price":4480,"property_id":4001933501,"area":"150m²","rooms":5.5}
+{"address":"Überlandstrasse 198, 8600 Dübendorf","price":4480,"property_id":4001928257,"area":"150m²","rooms":5.5}
+{"address":"Erlenstrasse 12, 4410 Liestal","price":4480,"property_id":4001902471,"area":"150m²","rooms":5.5}
+{"address":"Via Borenco 22, 6648 Minusio","price":4480,"property_id":4001889310,"area":"150m²","rooms":5.5}
+{"address":"Am Schmittenbach 10 A, 5236 Remigen","price":4480,"property_id":4001867863,"area":"150m²","rooms":5.5}
+{"address":"Eichholzstrasse 35, 8620 Wetzikon ZH","price":4480,"property_id":4001866303,"area":"150m²","rooms":5.5}
+{"address":"Via Mulino Rosso 8, 6517 Arbedo","price":4480,"property_id":4001862435,"area":"150m²","rooms":5.5}
+{"address":"Zwickystrasse 30, 8304 Wallisellen","price":4480,"property_id":4001858736,"area":"150m²","rooms":5.5}
+{"address":"Dorfstrasse 68, 8630 Rüti ZH","price":4480,"property_id":4001856667,"area":"150m²","rooms":5.5}
+{"address":"Dorfstrasse 66a, 8630 Rüti ZH","price":4480,"property_id":4001856666,"area":"150m²","rooms":5.5}
+{"address":"Gerbergasse 16\/Rümelinplatz, 4001 Basel","price":4480,"property_id":4001848695,"area":"150m²","rooms":5.5}
+{"address":"Route de Sion 81, 3960 Sierre","price":4480,"property_id":4001841517,"area":"150m²","rooms":5.5}
+{"address":"Bernstrasse 141, 3400 Burgdorf","price":4480,"property_id":4001838215,"area":"150m²","rooms":5.5}
+{"address":"Via Lugano 17, 6500 Bellinzona","price":4480,"property_id":4001837441,"area":"150m²","rooms":5.5}
+{"address":"Am Oeschbrig 5, 8053 Zürich","price":4480,"property_id":4001835702,"area":"150m²","rooms":5.5}
+{"address":"Gellertstrasse 2a, 4052 Basel","price":4480,"property_id":4001810866,"area":"150m²","rooms":5.5}
+{"address":"Iselisberg, 8524 Uesslingen-Buch","price":4480,"property_id":4001803665,"area":"150m²","rooms":5.5}
+{"address":"Waffenplatzstrasse 80, 8002 Zürich","price":3590,"property_id":4001790015,"area":"102m²","rooms":4.0}
+{"address":"Rue de la Fiaz 38, 2300 La Chaux-de-Fonds","price":3590,"property_id":4001681223,"area":"102m²","rooms":4.0}
+{"address":"Rue des Musées 58, 2300 La Chaux-de-Fonds","price":3590,"property_id":4001662189,"area":"102m²","rooms":4.0}
+{"address":"Rue du Nord 54, 2300 La Chaux-de-Fonds","price":3590,"property_id":4001642199,"area":"102m²","rooms":4.0}
+{"address":"Via Montalbano 1, 6925 Gentilino","price":3590,"property_id":4001442139,"area":"102m²","rooms":4.0}
+{"address":"Eggrainweg 7, 8803 Rüschlikon","price":3590,"property_id":4001265800,"area":"102m²","rooms":4.0}
+{"address":"Hauptstrasse 41, 4437 Waldenburg","price":3590,"property_id":4001255523,"area":"102m²","rooms":4.0}
+{"address":"Amerbachstrasse 64, 4057 Basel","price":3590,"property_id":4000976400,"area":"102m²","rooms":4.0}
+{"address":"Rue de la Fiaz 38, 2300 La Chaux-de-Fonds","price":3590,"property_id":4000744811,"area":"102m²","rooms":4.0}
+{"address":"Rue de la Fiaz 38, 2300 La Chaux-de-Fonds","price":3590,"property_id":4000744717,"area":"102m²","rooms":4.0}
+{"address":"Bahnhofstrasse 172, 6423 Seewen SZ","price":3590,"property_id":3003296264,"area":"102m²","rooms":4.0}
+{"address":"Bahnhofstrasse 172, 6423 Seewen SZ","price":3590,"property_id":3003296216,"area":"102m²","rooms":4.0}
+{"address":"Landstrasse 49, 5415 Nussbaumen","price":3590,"property_id":4002078671,"area":"102m²","rooms":4.0}
+{"address":"Murgenthalstrasse 4C, 4900 Langenthal","price":3590,"property_id":4002078590,"area":"102m²","rooms":4.0}
+{"address":"Ziegelhofstrasse 1, 8730 Uznach","price":3590,"property_id":4002078153,"area":"102m²","rooms":4.0}
+{"address":"Waldmeisterstrasse 46, 3018 Bern","price":3590,"property_id":4002076914,"area":"102m²","rooms":4.0}
+{"address":"Bibersteinerstrasse 41A, 5022 Rombach","price":3590,"property_id":4002075578,"area":"102m²","rooms":4.0}
+{"address":"Culmannstrasse 20, 8006 Zürich","price":3590,"property_id":4002075344,"area":"102m²","rooms":4.0}
+{"address":"Sandgrubenstrasse 18, 8330 Pfäffikon ZH","price":3590,"property_id":4002075315,"area":"102m²","rooms":4.0}
+{"address":"Stationsstrasse 17, 8604 Volketswil","price":3590,"property_id":4002074494,"area":"102m²","rooms":4.0}
+{"address":"Untermatt 2, 8902 Urdorf","price":4060,"property_id":4002073826,"area":"140m²","rooms":5.5}
+{"address":"Akazienweg 22, 8500 Frauenfeld","price":4060,"property_id":4002073576,"area":"140m²","rooms":5.5}
+{"address":"Fluhmattstrasse 31, 5400 Baden","price":4060,"property_id":4002071968,"area":"140m²","rooms":5.5}
+{"address":"Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten","price":4060,"property_id":4002066213,"area":"140m²","rooms":5.5}
+{"address":"Schulweg 3, 5453 Remetschwil","price":4060,"property_id":4002060883,"area":"140m²","rooms":5.5}
+{"address":"Chapfstrasse 13, 8625 Gossau","price":4060,"property_id":4002059591,"area":"140m²","rooms":5.5}
+{"address":"Auf den Fiechten 4, 4147 Aesch BL","price":4060,"property_id":4002055443,"area":"140m²","rooms":5.5}
+{"address":"Erlenweg 12, 5036 Oberentfelden","price":4060,"property_id":4002055434,"area":"140m²","rooms":5.5}
+{"address":"Gartenstrasse 4, 9320 Arbon","price":4060,"property_id":4002055432,"area":"140m²","rooms":5.5}
+{"address":"Schiffackerweg 2, 4310 Rheinfelden","price":4060,"property_id":4002054441,"area":"140m²","rooms":5.5}
+{"address":"Altstetterstrasse 247 + 249, 8048 Zürich","price":4060,"property_id":4002051424,"area":"140m²","rooms":5.5}
+{"address":"Zähringerstrasse 18, 4057 Basel","price":4060,"property_id":4002051399,"area":"140m²","rooms":5.5}
+{"address":"Erlenmattweg 7, 4058 Basel","price":4060,"property_id":4002051268,"area":"140m²","rooms":5.5}
+{"address":"Nordeckstrasse 10, 8636 Wald ZH","price":4060,"property_id":4002051266,"area":"140m²","rooms":5.5}
+{"address":"Altstetterstrasse 247 + 249, 8048 Zürich","price":4060,"property_id":4002050974,"area":"140m²","rooms":5.5}
+{"address":"Altstetterstrasse 247 + 249, 8048 Zürich","price":4060,"property_id":4002050973,"area":"140m²","rooms":5.5}
+{"address":"Altstetterstrasse 247 + 249, 8048 Zürich","price":4060,"property_id":4002050972,"area":"140m²","rooms":5.5}
+{"address":"Lerchenhalde 4, 8703 Erlenbach ZH","price":4060,"property_id":4002048658,"area":"140m²","rooms":5.5}
+{"address":"Buckhauserstrasse 49, 8048 Zürich","price":4060,"property_id":4002047849,"area":"140m²","rooms":5.5}
+{"address":"Papillonallee 21a, 3172 Niederwangen BE","price":4060,"property_id":4002046683,"area":"140m²","rooms":5.5}
+{"address":"Papillonallee 15b, 3172 Niederwangen BE","price":2210,"property_id":4002046680,"area":"93m²","rooms":3.5}
+{"address":"Gartenstrasse 6, 8002 Zürich","price":2210,"property_id":4002042468,"area":"93m²","rooms":3.5}
+{"address":"Kieshübelweg 2, 4310 Rheinfelden","price":2210,"property_id":4002042222,"area":"93m²","rooms":3.5}
+{"address":"Rue Louis-D'Affry 6, 1700 Fribourg","price":2210,"property_id":4002039938,"area":"93m²","rooms":3.5}
+{"address":"Erlenmattstrasse 18, 4058 Basel","price":2210,"property_id":4002039720,"area":"93m²","rooms":3.5}
+{"address":"Via Quinta 59, 6710 Biasca","price":2210,"property_id":4002038670,"area":"93m²","rooms":3.5}
+{"address":"Via Beltramina 8, 6900 Lugano","price":2210,"property_id":4002038668,"area":"93m²","rooms":3.5}
+{"address":"Bahnhofstrasse 7, 4415 Lausen","price":2210,"property_id":4002038663,"area":"93m²","rooms":3.5}
+{"address":"Berntorgasse 16, 3600 Thun","price":2210,"property_id":4002037350,"area":"93m²","rooms":3.5}
+{"address":"Zwischenbächen 8, 8048 Zürich","price":2210,"property_id":4002036031,"area":"93m²","rooms":3.5}
+{"address":"Steigstr. 36, 8200 Schaffhausen","price":2210,"property_id":4002034028,"area":"93m²","rooms":3.5}
+{"address":"Bois de la Chapelle 63, 1213 Onex","price":2210,"property_id":4002029971,"area":"93m²","rooms":3.5}
+{"address":"Margrethenstrasse 3, 4103 Bottmingen","price":2210,"property_id":4002023503,"area":"93m²","rooms":3.5}
+{"address":"Kranichweg 34, 3074 Muri b. Bern","price":2210,"property_id":4002023034,"area":"93m²","rooms":3.5}
+{"address":"Kranichweg 4, 3074 Muri b. Bern","price":2210,"property_id":4002023033,"area":"93m²","rooms":3.5}
+{"address":"Gellertpark 4, 4052 Basel","price":2210,"property_id":4002018499,"area":"93m²","rooms":3.5}
+{"address":"Avenue du Temple 1-3, 1020 Renens VD","price":2210,"property_id":4002017369,"area":"93m²","rooms":3.5}
+{"address":"Lochäckerstrasse 12, 8302 Kloten","price":2210,"property_id":4002017366,"area":"93m²","rooms":3.5}
+{"address":"Oberer Rheinweg 35, 4058 Basel","price":2210,"property_id":4002009966,"area":"93m²","rooms":3.5}
+{"address":"Stauffacherstrasse 7, 9000 St. Gallen","price":2210,"property_id":4002004590,"area":"93m²","rooms":3.5}
+{"address":"Girhaldenstrasse 20, 8048 Zürich","price":2610,"property_id":4001998768,"area":"38m²","rooms":2.5}
+{"address":"Im Römerquartier 4A, 4800 Zofingen","price":2610,"property_id":4001980238,"area":"38m²","rooms":2.5}
+{"address":"Centralweg 16, 3013 Bern","price":2610,"property_id":4001976792,"area":"38m²","rooms":2.5}
+{"address":"Hegenheimerstrasse 47, 4055 Basel","price":2610,"property_id":4001964147,"area":"38m²","rooms":2.5}
+{"address":"Radarstrasse 7, 3013 Bern","price":2610,"property_id":4001963761,"area":"38m²","rooms":2.5}
+{"address":"Lörracherstrasse 146, 4125 Riehen","price":2610,"property_id":4001962645,"area":"38m²","rooms":2.5}
+{"address":"Büchelring 7, 8134 Adliswil","price":2610,"property_id":4001962409,"area":"38m²","rooms":2.5}
+{"address":"Torggelstrasse 12, 8265 Mammern","price":2610,"property_id":4001961365,"area":"38m²","rooms":2.5}
+{"address":"Bachlettenstrasse 47, 4054 Basel","price":2610,"property_id":4001961205,"area":"38m²","rooms":2.5}
+{"address":"Lessingstrasse 9, 8002 Zürich","price":2610,"property_id":4001955020,"area":"38m²","rooms":2.5}
+{"address":"Rosengartenhalde 9B, 6006 Luzern","price":2610,"property_id":4001908721,"area":"38m²","rooms":2.5}
+{"address":"Bahnhofstrasse 29, 6162 Entlebuch","price":2610,"property_id":4001879398,"area":"38m²","rooms":2.5}
+{"address":"Dorfstrasse 68, 8630 Rüti ZH","price":2610,"property_id":4001858474,"area":"38m²","rooms":2.5}
+{"address":"Neuhardstrasse 11, 4600 Olten","price":2610,"property_id":4001858368,"area":"38m²","rooms":2.5}
+{"address":"Dorfstrasse 66, 8630 Rüti ZH","price":2610,"property_id":4001858314,"area":"38m²","rooms":2.5}
+{"address":"Dorfstrasse 68, 8630 Rüti ZH","price":2610,"property_id":4001856669,"area":"38m²","rooms":2.5}
+{"address":"Klingentalgraben 37, 4057 Basel","price":2610,"property_id":4001852654,"area":"38m²","rooms":2.5}
+{"address":"Niederdorfstrasse 37, 8001 Zürich","price":2610,"property_id":4001836989,"area":"38m²","rooms":2.5}
+{"address":"Madretschstrasse 72, 2503 Bienne","price":2610,"property_id":4001809267,"area":"38m²","rooms":2.5}
+{"address":"Beckenmoosstrasse 10, 8586 Riedt b. Erlen","price":2610,"property_id":4001799566,"area":"38m²","rooms":2.5}
+{"address":"Missionsstrasse 21D, 4055 Basel","price":2490,"property_id":4001786521,"area":null,"rooms":3.5}
+{"address":"Viale Serfontana, 6834 Morbio Inferiore","price":2490,"property_id":4001762406,"area":null,"rooms":3.5}
+{"address":"Amerbachstrasse 66, 4057 Basel","price":2490,"property_id":4001761552,"area":null,"rooms":3.5}
+{"address":"Kirchweg 30, 8102 Oberengstringen","price":2490,"property_id":4001677568,"area":null,"rooms":3.5}
+{"address":"Via Sasso Corbaro 19, 6593 Cadenazzo","price":2490,"property_id":4001668529,"area":null,"rooms":3.5}
+{"address":"Mattenstrasse 81, 2503 Biel","price":2490,"property_id":4001495431,"area":null,"rooms":3.5}
+{"address":"Alleestrasse 7, 2503 Biel","price":2490,"property_id":4001495422,"area":null,"rooms":3.5}
+{"address":"Rue de la Fiaz 38, 2300 La Chaux-de-Fonds","price":2490,"property_id":4001464139,"area":null,"rooms":3.5}
+{"address":"Veia Soras 33, 7460 Savognin","price":2490,"property_id":4001457125,"area":null,"rooms":3.5}
+{"address":"Alte Gockhauserstrasse 4, 8044 Gockhausen","price":2490,"property_id":4001413820,"area":null,"rooms":3.5}
+{"address":"Hauptstrasse 10, 4147 Aesch BL","price":2490,"property_id":4001044152,"area":null,"rooms":3.5}
+{"address":"Zürcherstrasse 15, 8852 Altendorf","price":2490,"property_id":4002081715,"area":null,"rooms":3.5}
+{"address":"Waldi 9, 6222 Beromünster","price":2490,"property_id":4002081639,"area":null,"rooms":3.5}
+{"address":"Bückenweg 33, 4126 Bettingen","price":2490,"property_id":4002081202,"area":null,"rooms":3.5}
+{"address":"Rainstrassse 14a, 8307 Effretikon","price":2490,"property_id":4002081144,"area":null,"rooms":3.5}
+{"address":"Herrgass 2, 8413 Neftenbach","price":2490,"property_id":4002081023,"area":null,"rooms":3.5}
+{"address":"Dorfstrasse 57, 3438 Lauperswil","price":2490,"property_id":4002080962,"area":null,"rooms":3.5}
+{"address":"Hiltystrasse 25, 3006 Bern","price":2490,"property_id":4002079590,"area":null,"rooms":3.5}
+{"address":"Rebacker 13, 8905 Arni","price":2490,"property_id":4002079584,"area":null,"rooms":3.5}
+{"address":"Bovelweg 18, 7304 Maienfeld","price":2490,"property_id":4002079466,"area":null,"rooms":3.5}
+{"address":"Hauptstrasse 22, 8586 Riedt b. Erlen","price":2730,"property_id":4002078072,"area":"121m²","rooms":4.5}
+{"address":"Turnerstrasse 18, 8006 Zürich","price":2730,"property_id":4002078048,"area":"121m²","rooms":4.5}
+{"address":"Engerainhalde 10, 3613 Steffisburg","price":2730,"property_id":4002077719,"area":"121m²","rooms":4.5}
+{"address":"Langägertenstrasse 22, 8125 Zollikerberg","price":2730,"property_id":4002076412,"area":"121m²","rooms":4.5}
+{"address":"Underbach 19, 8494 Bauma","price":2730,"property_id":4002075380,"area":"121m²","rooms":4.5}
+{"address":"Promenada 35b, 7018 Flims","price":2730,"property_id":4002074918,"area":"121m²","rooms":4.5}
+{"address":"Laubisrütistrasse 53, 8712 Stäfa","price":2730,"property_id":4002074913,"area":"121m²","rooms":4.5}
+{"address":"Oberwilerstrasse 27, 4106 Therwil","price":2730,"property_id":4002074480,"area":"121m²","rooms":4.5}
+{"address":"Herbstweg 77, 8050 Zürich","price":2730,"property_id":4002073985,"area":"121m²","rooms":4.5}
+{"address":"Riedstrasse 1, 8914 Aeugstertal","price":2730,"property_id":4002073972,"area":"121m²","rooms":4.5}
+{"address":"Kirchweg 3, 5622 Waltenschwil","price":2730,"property_id":4002073696,"area":"121m²","rooms":4.5}
+{"address":"Dorfstrasse 51, 8192 Glattfelden","price":2730,"property_id":4002073617,"area":"121m²","rooms":4.5}
+{"address":"Ausserdorf 15, 5705 Hallwil","price":2730,"property_id":4002073572,"area":"121m²","rooms":4.5}
+{"address":"Grampenweg 29, 8180 Bülach","price":2730,"property_id":4002073464,"area":"121m²","rooms":4.5}
+{"address":"Plattenstrasse 15, 8706 Meilen","price":2730,"property_id":4002073384,"area":"121m²","rooms":4.5}
+{"address":"4202 Duggingen","price":2730,"property_id":4002073307,"area":"121m²","rooms":4.5}
+{"address":"Chastli 40, 8718 Schänis","price":2730,"property_id":4002072656,"area":"121m²","rooms":4.5}
+{"address":"Kruft 6, 9425 Thal","price":2730,"property_id":4002072569,"area":"121m²","rooms":4.5}
+{"address":"Dorfstrasse 1, 8934 Knonau","price":2730,"property_id":4002072547,"area":"121m²","rooms":4.5}
+{"address":"Neubadstrasse 149, 4054 Basel","price":2730,"property_id":4002072378,"area":"121m²","rooms":4.5}
+{"address":"Lombardeiweg 12, 3904 Naters","price":2310,"property_id":4002071726,"area":"96m²","rooms":5.0}
+{"address":"Dorfstrasse 45, 5436 Würenlos","price":2310,"property_id":4002071702,"area":"96m²","rooms":5.0}
+{"address":"Oberdorfstrasse 43, 8874 Mühlehorn","price":2310,"property_id":4002071697,"area":"96m²","rooms":5.0}
+{"address":"Bättwilerstrasse 37, 4108 Witterswil","price":2310,"property_id":4002071526,"area":"96m²","rooms":5.0}
+{"address":"Roswiesenstrasse 122, 8051 Zürich","price":2310,"property_id":4002071320,"area":"96m²","rooms":5.0}
+{"address":"Lindhaldenstrasse 120, 3076 Worb","price":2310,"property_id":4002071305,"area":"96m²","rooms":5.0}
+{"address":"8008 Zürich","price":2310,"property_id":4002070235,"area":"96m²","rooms":5.0}
+{"address":"Tobelhofstrasse 344, 8044 Gockhausen","price":2310,"property_id":4002069898,"area":"96m²","rooms":5.0}
+{"address":"Kurvenstrasse 13, 8006 Zürich","price":2310,"property_id":4002069772,"area":"96m²","rooms":5.0}
+{"address":"Stückelbergstrasse 4, 9000 St. Gallen","price":2310,"property_id":4002068897,"area":"96m²","rooms":5.0}
+{"address":"Pfäffikonerstrasse 16, 8834 Schindellegi","price":2310,"property_id":4002068567,"area":"96m²","rooms":5.0}
+{"address":"Grünrain 7, 6026 Rain","price":2310,"property_id":4002067781,"area":"96m²","rooms":5.0}
+{"address":"Steinacherrain 5, 6232 Geuensee","price":2310,"property_id":4002067473,"area":"96m²","rooms":5.0}
+{"address":"Püntenstrasse 18, 8184 Bachenbülach","price":2310,"property_id":4002066827,"area":"96m²","rooms":5.0}
+{"address":"Fischerhäuserstrasse 7, 8200 Schaffhausen","price":2310,"property_id":4002066394,"area":"96m²","rooms":5.0}
+{"address":"Bergstrasse 10, 8735 St. Gallenkappel","price":2310,"property_id":4002066349,"area":"96m²","rooms":5.0}
+{"address":"Grabackerstrasse 21, 8722 Kaltbrunn","price":2310,"property_id":4002065973,"area":"96m²","rooms":5.0}
+{"address":"Bahnhofplatz 1, 8802 Kilchberg","price":2310,"property_id":4002064906,"area":"96m²","rooms":5.0}
+{"address":"Frohsinnweg 3, 6314 Unterägeri","price":2310,"property_id":4002064689,"area":"96m²","rooms":5.0}
+{"address":"Baarerstrasse 125, 6300 Zug","price":2310,"property_id":4002064402,"area":"96m²","rooms":5.0}
+{"address":"Aeschenbrunnmattstrasse 81, 3047 Bremgarten b. Bern","price":4690,"property_id":4002062921,"area":"220m²","rooms":6.5}
+{"address":"Wenkenhaldenweg 30, 4125 Riehen","price":4690,"property_id":4002062557,"area":"220m²","rooms":6.5}
+{"address":"Schulhausstrasse 17, 5106 Veltheim AG","price":4690,"property_id":4002061838,"area":"220m²","rooms":6.5}
+{"address":"Vögeliacher 4, 8180 Bülach","price":4690,"property_id":4002060838,"area":"220m²","rooms":6.5}
+{"address":"Hauptstrasse 23, 3033 Wohlen b. Bern","price":4690,"property_id":4002059746,"area":"220m²","rooms":6.5}
+{"address":"Engelwiese 5, 8913 Ottenbach","price":4690,"property_id":4002059733,"area":"220m²","rooms":6.5}
+{"address":"Route de la Feuillère 23, 1010 Lausanne","price":4690,"property_id":4002059501,"area":"220m²","rooms":6.5}
+{"address":"Via alle Vigne 8, 6963 Lugano","price":4690,"property_id":4002059469,"area":"220m²","rooms":6.5}
+{"address":"Naphtastrasse 10, 8005 Zürich","price":4690,"property_id":4002059462,"area":"220m²","rooms":6.5}
+{"address":"Dorfstrasse 22, 8906 Bonstetten","price":4690,"property_id":4002059045,"area":"220m²","rooms":6.5}
+{"address":"Via Consiglio Mezzano 40, 6644 Orselina","price":4690,"property_id":4002058754,"area":"220m²","rooms":6.5}
+{"address":"Fälimattstrasse 4, 5735 Pfeffikon LU","price":4690,"property_id":4002057921,"area":"220m²","rooms":6.5}
+{"address":"Im Burgfelderhof 43, 4055 Basel","price":4690,"property_id":4002057472,"area":"220m²","rooms":6.5}
+{"address":"Garwiedstrasse 1, 8635 Dürnten","price":4690,"property_id":4002057275,"area":"220m²","rooms":6.5}
+{"address":"Spiegelacker 4, 8486 Rikon im Tösstal","price":4690,"property_id":4002056042,"area":"220m²","rooms":6.5}
+{"address":"Hofweg 3, 8586 Engishofen","price":4690,"property_id":4002055817,"area":"220m²","rooms":6.5}
+{"address":"Im Schachenhof 21A, 8906 Bonstetten","price":4690,"property_id":4002055053,"area":"220m²","rooms":6.5}
+{"address":"Ala Brüga 15, 6593 Cadenazzo","price":4690,"property_id":4002054477,"area":"220m²","rooms":6.5}
+{"address":"Route de Sion 81, 3960 Sierre","price":4690,"property_id":4002054431,"area":"220m²","rooms":6.5}
+{"address":"Isenbachweg 8, 8906 Bonstetten","price":4690,"property_id":4002054430,"area":"220m²","rooms":6.5}
+{"address":"Hungerbachweg 40, 4125 Riehen","price":5390,"property_id":4002053071,"area":"300m²","rooms":8.0}
+{"address":"Via Ponte Vecchio 6, 6807 Taverne","price":5390,"property_id":4002052099,"area":"300m²","rooms":8.0}
+{"address":"Hürststrasse 60, 8046 Zürich","price":5390,"property_id":4002051978,"area":"300m²","rooms":8.0}
+{"address":"Gartenstrasse 2a, 8910 Affoltern am Albis","price":5390,"property_id":4002051765,"area":"300m²","rooms":8.0}
+{"address":"Chemin Du Devin 47c, 1012 Lausanne","price":5390,"property_id":4002051568,"area":"300m²","rooms":8.0}
+{"address":"Rue du Petit-St-Jean 5, 1003 Lausanne","price":5390,"property_id":4002051405,"area":"300m²","rooms":8.0}
+{"address":"Martinsbergstrasse 32, 5400 Baden","price":5390,"property_id":4002050786,"area":"300m²","rooms":8.0}
+{"address":"Quai du Seujet 14, 1201 Genève","price":5390,"property_id":4002050199,"area":"300m²","rooms":8.0}
+{"address":"Hofwiesenweg 5, 8405 Winterthur","price":5390,"property_id":4002049785,"area":"300m²","rooms":8.0}
+{"address":"Frankengasse 25, 8001 Zürich","price":5390,"property_id":4002049471,"area":"300m²","rooms":8.0}
+{"address":"Hauptstrasse 20, 8246 Langwiesen","price":5390,"property_id":4002048472,"area":"300m²","rooms":8.0}
+{"address":"Im Grossacher 38, 5622 Waltenschwil","price":5390,"property_id":4002048104,"area":"300m²","rooms":8.0}
+{"address":"Rue de Lyon 61bis, 1203 Genève","price":5390,"property_id":4002047744,"area":"300m²","rooms":8.0}
+{"address":"Steinhaldenweg 4, 8590 Romanshorn","price":5390,"property_id":4002047404,"area":"300m²","rooms":8.0}
+{"address":"Im Grod 1, 6315 Oberägeri","price":5390,"property_id":4002046785,"area":"300m²","rooms":8.0}
+{"address":"Untergütschstrasse 24, 6003 Luzern","price":5390,"property_id":4002046446,"area":"300m²","rooms":8.0}
+{"address":"Hochstrasse 307, 8200 Schaffhausen","price":5390,"property_id":4002046383,"area":"300m²","rooms":8.0}
+{"address":"Feldeckstrasse 13, 2502 Biel\/Bienne","price":5390,"property_id":4002044163,"area":"300m²","rooms":8.0}
+{"address":"Werftstrasse 1, 9320 Arbon","price":5390,"property_id":4002042588,"area":"300m²","rooms":8.0}
+{"address":"Rue du Lac 138, 1815 Clarens","price":5390,"property_id":4002040397,"area":"300m²","rooms":8.0}
+{"address":"Zur Stahlgiesserei 5, 8200 Schaffhausen","price":2130,"property_id":4002039929,"area":"85m²","rooms":3.5}
+{"address":"Niesenstrasse 9, 3700 Spiez","price":2130,"property_id":4002038841,"area":"85m²","rooms":3.5}
+{"address":"Tannenstrasse 4, 9300 Wittenbach","price":2130,"property_id":4002038811,"area":"85m²","rooms":3.5}
+{"address":"Flühstrasse 15, 4114 Hofstetten SO","price":2130,"property_id":4002038373,"area":"85m²","rooms":3.5}
+{"address":"Schwendlenrain 3, 6038 Honau","price":2130,"property_id":4002037575,"area":"85m²","rooms":3.5}
+{"address":"Haldenweidstrasse 6, 8309 Nürensdorf","price":2130,"property_id":4002036023,"area":"85m²","rooms":3.5}
+{"address":"Zürichstrasse 10A, 8340 Hinwil","price":2130,"property_id":4002034708,"area":"85m²","rooms":3.5}
+{"address":"Ch. de la Milice 9, 1228 Plan-les-Ouates","price":2130,"property_id":4002031456,"area":"85m²","rooms":3.5}
+{"address":"Le Cornat 12, 2946 La Baroche","price":2130,"property_id":4002027515,"area":"85m²","rooms":3.5}
+{"address":"Im Chrummbächli 14, 8805 Richterswil","price":2130,"property_id":4002027205,"area":"85m²","rooms":3.5}
+{"address":"Via Bellavista 1, 6949 Comano","price":2130,"property_id":4002026606,"area":"85m²","rooms":3.5}
+{"address":"Im Feldacher 22, 8320 Fehraltorf","price":2130,"property_id":4002024874,"area":"85m²","rooms":3.5}
+{"address":"Viale 1814 11, 6512 Bellinzona","price":2130,"property_id":4002024738,"area":"85m²","rooms":3.5}
+{"address":"Im Chratz 2, 8158 Regensberg","price":2130,"property_id":4002023569,"area":"85m²","rooms":3.5}
+{"address":"Rohrhagstr. 14, 4104 Oberwil BL","price":2130,"property_id":4002023050,"area":"85m²","rooms":3.5}
+{"address":"Schuetzenweg 24, 9470 Buchs SG","price":2130,"property_id":4002023036,"area":"85m²","rooms":3.5}
+{"address":"Grütstrasse 1, 8474 Dinhard","price":2130,"property_id":4002022399,"area":"85m²","rooms":3.5}
+{"address":"Predigerhofstrasse 77, 4059 Basel","price":2130,"property_id":4002022191,"area":"85m²","rooms":3.5}
+{"address":"Sandrainstrasse 68, 3007 Bern","price":2130,"property_id":4002019970,"area":"85m²","rooms":3.5}
+{"address":"Amerikanerstrasse 36, 4102 Binningen","price":2130,"property_id":4002017920,"area":"85m²","rooms":3.5}
+{"address":"Bahnhofstrasse 47, 4900 Langenthal","price":2460,"property_id":4002017613,"area":"118m²","rooms":4.5}
+{"address":"Hofwiesenstrasse 175, 8057 Zürich","price":2460,"property_id":4002016223,"area":"118m²","rooms":4.5}
+{"address":"Goldschlägistrasse 14, 8952 Schlieren","price":2460,"property_id":4002016199,"area":"118m²","rooms":4.5}
+{"address":"Nordstrasse 34, 8200 Schaffhausen","price":2460,"property_id":4002015281,"area":"118m²","rooms":4.5}
+{"address":"Gundeldingerstrasse 462, 4053 Basel","price":2460,"property_id":4002015001,"area":"118m²","rooms":4.5}
+{"address":"Stöcklen 30, 6344 Meierskappel","price":2460,"property_id":4002014784,"area":"118m²","rooms":4.5}
+{"address":"Rebweg 11, 8174 Stadel b. Niederglatt","price":2460,"property_id":4002013547,"area":"118m²","rooms":4.5}
+{"address":"Chemin de la Fin 7B, 1291 Commugny","price":2460,"property_id":4002013394,"area":"118m²","rooms":4.5}
+{"address":"Via Ca'd'Fund 5, 6944 Cureglia","price":2460,"property_id":4002013390,"area":"118m²","rooms":4.5}
+{"address":"Brömliackerweg 12, 5303 Würenlingen","price":2460,"property_id":4002013339,"area":"118m²","rooms":4.5}
+{"address":"Ringstrasse 20, 8600 Dübendorf","price":2460,"property_id":4002009665,"area":"118m²","rooms":4.5}
+{"address":"Flühstrasse 15A (West), 4114 Hofstetten SO","price":2460,"property_id":4002008999,"area":"118m²","rooms":4.5}
+{"address":"Route de Penau 2, 1052 Le Mont-sur-Lausanne","price":2460,"property_id":4002008641,"area":"118m²","rooms":4.5}
+{"address":"Bergwisenstrasse 9, 8123 Ebmatingen","price":2460,"property_id":4002007405,"area":"118m²","rooms":4.5}
+{"address":"Rietstrasse 14, 8355 Aadorf","price":2460,"property_id":4002006234,"area":"118m²","rooms":4.5}
+{"address":"Rämpferstrasse 8, 8834 Schindellegi","price":2460,"property_id":4002005603,"area":"118m²","rooms":4.5}
+{"address":"Rathausgässli 7, 5600 Lenzburg","price":2460,"property_id":4002003864,"area":"118m²","rooms":4.5}
+{"address":"Bettingerstrasse 116, 4125 Riehen","price":2460,"property_id":4002002711,"area":"118m²","rooms":4.5}
+{"address":"Rindermarkt 12, 8001 Zürich","price":2460,"property_id":4002001659,"area":"118m²","rooms":4.5}
+{"address":"Rue Bourg-de-Four 23, 1170 Aubonne","price":2460,"property_id":4002000737,"area":"118m²","rooms":4.5}
+{"address":"Hauptstrasse 76, 4148 Pfeffingen","price":4340,"property_id":4001999942,"area":"220m²","rooms":5.5}
+{"address":"Hardstrasse 14, 4127 Birsfelden","price":4340,"property_id":4001999448,"area":"220m²","rooms":5.5}
+{"address":"Hegenheimerstrasse 86, 4055 Basel","price":4340,"property_id":4001999182,"area":"220m²","rooms":5.5}
+{"address":"Gerlisbergstrasse 15, 8302 Kloten","price":4340,"property_id":4001997261,"area":"220m²","rooms":5.5}
+{"address":"Via Antonio Riva 1, 6900 Lugano","price":4340,"property_id":4001995466,"area":"220m²","rooms":5.5}
+{"address":"Oberdorfstrasse 38, 8926 Uerzlikon","price":4340,"property_id":4001995437,"area":"220m²","rooms":5.5}
+{"address":"Blickensdorferstrasse 21B, 6340 Baar","price":4340,"property_id":4001993990,"area":"220m²","rooms":5.5}
+{"address":"Orbe 68, 1400 Yverdon-les-Bains","price":4340,"property_id":4001993429,"area":"220m²","rooms":5.5}
+{"address":"Hauptstrasse 59, 6313 Edlibach","price":4340,"property_id":4001993005,"area":"220m²","rooms":5.5}
+{"address":"Kirchbodenstrasse 77, 8800 Thalwil","price":4340,"property_id":4001991999,"area":"220m²","rooms":5.5}
+{"address":"Alte Bahnhofstrasse 6, 5610 Wohlen AG","price":4340,"property_id":4001990553,"area":"220m²","rooms":5.5}
+{"address":"Dorfplatz 2, 4142 Münchenstein","price":4340,"property_id":4001990269,"area":"220m²","rooms":5.5}
+{"address":"Blockweg 8, 3007 Bern","price":4340,"property_id":4001987254,"area":"220m²","rooms":5.5}
+{"address":"Winkelbüel 2, 6043 Adligenswil","price":4340,"property_id":4001985374,"area":"220m²","rooms":5.5}
+{"address":"Landoltstrasse 64, 3007 Bern","price":4340,"property_id":4001983891,"area":"220m²","rooms":5.5}
+{"address":"Via Maistra 11, 7505 Celerina\/Schlarigna","price":4340,"property_id":4001983485,"area":"220m²","rooms":5.5}
+{"address":"Oetlingerstr. 8, 4057 Basel","price":4340,"property_id":4001980266,"area":"220m²","rooms":5.5}
+{"address":"Eigerstr. 60, 3007 Bern","price":4340,"property_id":4001980264,"area":"220m²","rooms":5.5}
+{"address":"Birsigstrasse 3, 4103 Bottmingen","price":4340,"property_id":4001979045,"area":"220m²","rooms":5.5}
+{"address":"Avenue de la Chablière 35bis, 1004 Lausanne","price":4340,"property_id":4001976823,"area":"220m²","rooms":5.5}
+{"address":"Via del Sole 5, 6987 Caslano","price":2520,"property_id":4001976816,"area":"140m²","rooms":5.5}
+{"address":"Av. de Beaulieu 28, 1004 Lausanne","price":2520,"property_id":4001976815,"area":"140m²","rooms":5.5}
+{"address":"Bucheggweg 12, 4500 Solothurn","price":2520,"property_id":4001976808,"area":"140m²","rooms":5.5}
+{"address":"Waldheimweg 2, 3052 Zollikofen","price":2520,"property_id":4001975437,"area":"140m²","rooms":5.5}
+{"address":"Grütacherstrasse 8, 8624 Grüt (Gossau ZH)","price":2520,"property_id":4001975169,"area":"140m²","rooms":5.5}
+{"address":"Pestalozzistrasse 38, 8032 Zürich","price":2520,"property_id":4001974951,"area":"140m²","rooms":5.5}
+{"address":"Mühlegasse 27, 8001 Zürich","price":2520,"property_id":4001974933,"area":"140m²","rooms":5.5}
+{"address":"Via Mezzaro 2, 6648 Minusio","price":2520,"property_id":4001974313,"area":"140m²","rooms":5.5}
+{"address":"Chasa Plavna, 7552 Vulpera","price":2520,"property_id":4001974073,"area":"140m²","rooms":5.5}
+{"address":"Hirslanderstrasse 33, 8032 Zürich","price":2520,"property_id":4001972776,"area":"140m²","rooms":5.5}
+{"address":"Le Greny 8, 1279 Bogis-Bossey","price":2520,"property_id":4001972669,"area":"140m²","rooms":5.5}
+{"address":"Nordstrasse 34, 8200 Schaffhausen","price":2520,"property_id":4001971444,"area":"140m²","rooms":5.5}
+{"address":"Sempacherstrasse 39A, 8032 Zürich","price":2520,"property_id":4001970904,"area":"140m²","rooms":5.5}
+{"address":"Schneckelerstrasse 14, Halbeisen, 4414 Füllinsdorf","price":2520,"property_id":4001969009,"area":"140m²","rooms":5.5}
+{"address":"Breitwiesstr. 4, 8135 Langnau am Albis","price":2520,"property_id":4001967228,"area":"140m²","rooms":5.5}
+{"address":"Place des Charmilles 3, 1203 Genève","price":2520,"property_id":4001967223,"area":"140m²","rooms":5.5}
+{"address":"Elfenauweg 1, 3006 Bern","price":2520,"property_id":4001965315,"area":"140m²","rooms":5.5}
+{"address":"Eichbergstrasse 8, 9463 Oberriet","price":2520,"property_id":4001963656,"area":"140m²","rooms":5.5}
+{"address":"Weieren 31A, 9523 Züberwangen","price":2520,"property_id":4001963126,"area":"140m²","rooms":5.5}
+{"address":"Rütihofstrasse 7, 6340 Baar","price":2520,"property_id":4001962452,"area":"140m²","rooms":5.5}
+{"address":"Via Quadrella 6, 6927 Collina d'Oro","price":9100,"property_id":4001958038,"area":"310m²","rooms":5.5}
+{"address":"Jonentalstrasse 18, 8910 Affoltern am Albis","price":9100,"property_id":4001955510,"area":"310m²","rooms":5.5}
+{"address":"Sihlhaldenstrasse 16, 8803 Rüschlikon","price":9100,"property_id":4001948607,"area":"310m²","rooms":5.5}
+{"address":"Via Cantunètt 9, 6714 Serravalle","price":9100,"property_id":4001945588,"area":"310m²","rooms":5.5}
+{"address":"Pionierstrasse 10, 8400 Winterthur","price":9100,"property_id":4001935112,"area":"310m²","rooms":5.5}
+{"address":"Haselwiesstrasse 12, 8734 Ermenswil","price":9100,"property_id":4001922346,"area":"310m²","rooms":5.5}
+{"address":"Bahnhofmatten 4, 5502 Hunzenschwil","price":9100,"property_id":4001919474,"area":"310m²","rooms":5.5}
+{"address":"Ringstrasse 16, 8306 Brüttisellen","price":9100,"property_id":4001917322,"area":"310m²","rooms":5.5}
+{"address":"Ringstrasse 4, 8737 Gommiswald","price":9100,"property_id":4001909920,"area":"310m²","rooms":5.5}
+{"address":"Friedensgasse 35, 4056 Basel","price":9100,"property_id":4001898585,"area":"310m²","rooms":5.5}
+{"address":"Breitenacher 49, 8906 Bonstetten","price":9100,"property_id":4001893012,"area":"310m²","rooms":5.5}
+{"address":"Feldeggstrasse 80, 8008 Zürich","price":9100,"property_id":4001889122,"area":"310m²","rooms":5.5}
+{"address":"Hardstrasse 14, 8604 Volketswil","price":9100,"property_id":4001887339,"area":"310m²","rooms":5.5}
+{"address":"Hohbächli 10, 5079 Zeihen","price":9100,"property_id":4001884815,"area":"310m²","rooms":5.5}
+{"address":"Rütihofstrasse 3, 5462 Siglistorf","price":9100,"property_id":4001880268,"area":"310m²","rooms":5.5}
+{"address":"Halden 3, 9043 Trogen","price":9100,"property_id":4001878385,"area":"310m²","rooms":5.5}
+{"address":"Bäumlihofstrasse 41, 4058 Basel","price":9100,"property_id":4001876824,"area":"310m²","rooms":5.5}
+{"address":"Wülflingerstrasse 118, 8408 Winterthur","price":9100,"property_id":4001859888,"area":"310m²","rooms":5.5}
+{"address":"Kanzleistrasse 3, 8004 Zürich","price":9100,"property_id":4001857308,"area":"310m²","rooms":5.5}
+{"address":"Blauenstrasse 1, 4153 Reinach BL","price":9100,"property_id":4001850950,"area":"310m²","rooms":5.5}
+{"address":"Hegenheimerstrasse 86, 4055 Basel","price":3920,"property_id":4001817493,"area":"122m²","rooms":5.5}
+{"address":"Pfingstweidstrasse 98, 8005 Zürich","price":3920,"property_id":4001814823,"area":"122m²","rooms":5.5}
+{"address":"Rheinweg 45, 8264 Eschenz","price":3920,"property_id":4001810332,"area":"122m²","rooms":5.5}
+{"address":"Spitzenrainweg 54, 4147 Aesch BL","price":3920,"property_id":4001805845,"area":"122m²","rooms":5.5}
+{"address":"Rue Crespin 20, 1206 Genève","price":3920,"property_id":4001761938,"area":"122m²","rooms":5.5}
+{"address":"Bergwisenstrasse 6, 8123 Ebmatingen","price":3920,"property_id":4001744601,"area":"122m²","rooms":5.5}
+{"address":"Neuweilerstrasse 4a, 4123 Allschwil","price":3920,"property_id":4001732294,"area":"122m²","rooms":5.5}
+{"address":"Pfaffenmattweg 31, 4132 Muttenz","price":3920,"property_id":4001719525,"area":"122m²","rooms":5.5}
+{"address":"Laufenstrasse 4, 4053 Basel","price":3920,"property_id":4001687224,"area":"122m²","rooms":5.5}
+{"address":"Curt Goetz-Strasse 27, 4102 Binningen","price":3920,"property_id":4001677606,"area":"122m²","rooms":5.5}
+{"address":"Lungolago Roncaioli, 40, 6827 Brusino Arsizio","price":3920,"property_id":4001658759,"area":"122m²","rooms":5.5}
+{"address":"Hälderstrasse 4, 8451 Kleinandelfingen","price":3920,"property_id":4001609453,"area":"122m²","rooms":5.5}
+{"address":"47 Hauptstrasse, 4148 Pfeffingen","price":3920,"property_id":4001580868,"area":"122m²","rooms":5.5}
+{"address":"Centralstrasse 93, 2540 Grenchen","price":3920,"property_id":4001314241,"area":"122m²","rooms":5.5}
+{"address":"Hubstrasse 42, 9500 Wil SG","price":3920,"property_id":4001253427,"area":"122m²","rooms":5.5}
+{"address":"Via Boscioro 18, 6962 Viganello","price":3920,"property_id":4001232560,"area":"122m²","rooms":5.5}
+{"address":"Bahnhofstrasse 8, 8902 Urdorf","price":3920,"property_id":4001200920,"area":"122m²","rooms":5.5}
+{"address":"Johann Brüderlin-Strasse 18, 4132 Muttenz","price":3920,"property_id":4001011109,"area":"122m²","rooms":5.5}
+{"address":"Via piede Vigano 4, 6974 Aldesago","price":3920,"property_id":4002079634,"area":"122m²","rooms":5.5}
+{"address":"Haupstrasse 77a, 9052 Niederteufen","price":3920,"property_id":4002078293,"area":"122m²","rooms":5.5}
+{"address":"Clausiusstrasse 67, 8006 Zürich","price":3850,"property_id":4002077790,"area":"140m²","rooms":5.0}
+{"address":"Poststrasse 13, 8312 Winterberg ZH","price":3850,"property_id":4002077100,"area":"140m²","rooms":5.0}
+{"address":"Chemin de la Bruyère, 1009 Pully","price":3850,"property_id":4002075822,"area":"140m²","rooms":5.0}
+{"address":"Rorschacher Strasse 124, 9000 St. Gallen","price":3850,"property_id":4002075469,"area":"140m²","rooms":5.0}
+{"address":"Etzelstrasse 9, 8832 Wollerau","price":3850,"property_id":4002075452,"area":"140m²","rooms":5.0}
+{"address":"Schulhausstrasse 12, 8704 Herrliberg","price":3850,"property_id":4002075244,"area":"140m²","rooms":5.0}
+{"address":"Luegislandstrasse 68, 8051 Zürich","price":3850,"property_id":4002075228,"area":"140m²","rooms":5.0}
+{"address":"Wiesliacher 44, 8053 Zürich","price":3850,"property_id":4002074947,"area":"140m²","rooms":5.0}
+{"address":"Schulstrasse 60, 8952 Schlieren","price":3850,"property_id":4002074782,"area":"140m²","rooms":5.0}
+{"address":"Ferdinand Hodlerstrasse 32, 8049 Zürich","price":3850,"property_id":4002074613,"area":"140m²","rooms":5.0}
+{"address":"Asylstrasse 9, 8810 Horgen","price":3850,"property_id":4002073824,"area":"140m²","rooms":5.0}
+{"address":"Kantonsstrasse 69, 8807 Freienbach","price":3850,"property_id":4002073808,"area":"140m²","rooms":5.0}
+{"address":"Starrkircherstrasse, 4600 Olten","price":3850,"property_id":4002073792,"area":"140m²","rooms":5.0}
+{"address":"Neumattstrasse 43, 4103 Bottmingen","price":3850,"property_id":4002073564,"area":"140m²","rooms":5.0}
+{"address":"Runal 3, 7453 Tinizong","price":3850,"property_id":4002072918,"area":"140m²","rooms":5.0}
+{"address":"Brandschenkestrasse 54, 8002 Zurigo","price":3850,"property_id":4002072688,"area":"140m²","rooms":5.0}
+{"address":"Himmeriweg 6, 8052 Seebach","price":3850,"property_id":4002072494,"area":"140m²","rooms":5.0}
+{"address":"Sonnhalde 6, 8121 Benglen","price":3850,"property_id":4002072432,"area":"140m²","rooms":5.0}
+{"address":"Leimenstrasse 7, 4051 Basel","price":3850,"property_id":4002072377,"area":"140m²","rooms":5.0}
+{"address":"Rue des Epinettes, 1227 Genève","price":3850,"property_id":4002071326,"area":"140m²","rooms":5.0}
+{"address":"Chemin de la Résidence, 1009 Pully","price":5810,"property_id":4002071049,"area":"121m²","rooms":4.5}
+{"address":"La Voie-du-Coin, 1218 Le Grand-Saconnex","price":5810,"property_id":4002069703,"area":"121m²","rooms":4.5}
+{"address":"Sonnenrain 2, 4800 Zofingen","price":5810,"property_id":4002069525,"area":"121m²","rooms":4.5}
+{"address":"Oberburgstrasse 11a, 3400 Burgdorf","price":5810,"property_id":4002069522,"area":"121m²","rooms":4.5}
+{"address":"Dennigkofenweg 77a, 3073 Gümligen","price":5810,"property_id":4002068957,"area":"121m²","rooms":4.5}
+{"address":"Erachfeldstrasse 6, 8180 Bülach","price":5810,"property_id":4002068939,"area":"121m²","rooms":4.5}
+{"address":"Ruberbaum 36, 8560 Märstetten","price":5810,"property_id":4002067505,"area":"121m²","rooms":4.5}
+{"address":"Bergstrasse Bollerrain 5, 8132 Hinteregg","price":5810,"property_id":4002067438,"area":"121m²","rooms":4.5}
+{"address":"Mutschellenplatz 3 (Bolleri), 8964 Rudolfstetten","price":5810,"property_id":4002066202,"area":"121m²","rooms":4.5}
+{"address":"Mutschellenplatz 3 (Bolleri), 8964 Rudolfstetten","price":5810,"property_id":4002066192,"area":"121m²","rooms":4.5}
+{"address":"Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten","price":5810,"property_id":4002066182,"area":"121m²","rooms":4.5}
+{"address":"Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten","price":5810,"property_id":4002066160,"area":"121m²","rooms":4.5}
+{"address":"Mutschellenplatz 1 (Bolleri), 8964 Rudolfstetten","price":5810,"property_id":4002066148,"area":"121m²","rooms":4.5}
+{"address":"Mutschellenplatz 3 (Bolleri), 8964 Rudolfstetten","price":5810,"property_id":4002066143,"area":"121m²","rooms":4.5}
+{"address":"Chemin du Dézaley 5, 1026 Echandens","price":5810,"property_id":4002065689,"area":"121m²","rooms":4.5}
+{"address":"Seestrasse 38B, 8806 Wollerau","price":5810,"property_id":4002065303,"area":"121m²","rooms":4.5}
+{"address":"Chemin du Liaudoz 2, 1009 Pully","price":5810,"property_id":4002064891,"area":"121m²","rooms":4.5}
+{"address":"Grand-Rue, 1204 Genève","price":5810,"property_id":4002062532,"area":"121m²","rooms":4.5}
+{"address":"Friesstrasse 25, 8050 Zürich","price":5810,"property_id":4002059883,"area":"121m²","rooms":4.5}
+{"address":"Schaffhauserplatz 10, 8006 Zürich","price":5810,"property_id":4002059465,"area":"121m²","rooms":4.5}
+{"address":"Schaffhauserplatz 10, 8006 Zürich","price":6270,"property_id":4002059352,"area":"150m²","rooms":5.5}
+{"address":"Widenhubstrasse 8, 8552 Felben-Wellhausen","price":6270,"property_id":4002059201,"area":"150m²","rooms":5.5}
+{"address":"Steinwichslenstrasse 11, 9052 Niederteufen","price":6270,"property_id":4002059066,"area":"150m²","rooms":5.5}
+{"address":"Ernst-Schüler-Strasse 30, 2502 Biel","price":6270,"property_id":4002057244,"area":"150m²","rooms":5.5}
+{"address":"Rohrhagstrasse 4, 4104 Oberwil BL","price":6270,"property_id":4002056554,"area":"150m²","rooms":5.5}
+{"address":"Müllheimerstrasse 53, 4057 Basel","price":6270,"property_id":4002055428,"area":"150m²","rooms":5.5}
+{"address":"Kurhausstrasse 80, 8032 Zürich","price":6270,"property_id":4002055297,"area":"150m²","rooms":5.5}
+{"address":"Rue des Longs-Champs 49, 2854 Bassecourt","price":6270,"property_id":4002054855,"area":"150m²","rooms":5.5}
+{"address":"Meierhöflistrasse 12, 6020 Emmenbrücke","price":6270,"property_id":4002054785,"area":"150m²","rooms":5.5}
+{"address":"Dottikerstrasse 45, 5611 Anglikon","price":6270,"property_id":4002054446,"area":"150m²","rooms":5.5}
+{"address":"Aeussere Lange Heid 14, 4142 Münchenstein","price":6270,"property_id":4002054083,"area":"150m²","rooms":5.5}
+{"address":"Wächlenstrasse 25, 8832 Wollerau","price":6270,"property_id":4002052713,"area":"150m²","rooms":5.5}
+{"address":"Untere Leimenstrasse 1, 8718 Schänis","price":6270,"property_id":4002051744,"area":"150m²","rooms":5.5}
+{"address":"Untergütschstrasse 24, 6003 Luzern","price":6270,"property_id":4002049704,"area":"150m²","rooms":5.5}
+{"address":"Grenzstrasse 36, 5525 Fischbach-Göslikon","price":6270,"property_id":4002049133,"area":"150m²","rooms":5.5}
+{"address":"J.C. Fischer-Strasse 7, 8200 Schaffhausen","price":6270,"property_id":4002048659,"area":"150m²","rooms":5.5}
+{"address":"Nordstrasse 5, 8006 Zürich","price":6270,"property_id":4002047956,"area":"150m²","rooms":5.5}
+{"address":"Dottikerstrasse 45, 5611 Anglikon","price":6270,"property_id":4002046813,"area":"150m²","rooms":5.5}
+{"address":"Bornstrasse 21, 4612 Wangen bei Olten","price":6270,"property_id":4002045379,"area":"150m²","rooms":5.5}
+{"address":"Teufenerstrasse 180, 9012 St. Gallen","price":6270,"property_id":4002044550,"area":"150m²","rooms":5.5}
+{"address":"Erlenmattstrasse 10, 4058 Basel","price":3770,"property_id":4002042218,"area":"150m²","rooms":4.5}
+{"address":"Zürichstr. 50, 8184 Bachenbülach","price":3770,"property_id":4002042146,"area":"150m²","rooms":4.5}
+{"address":"Höschgasse 83, 8008 Zürich","price":3770,"property_id":4002039268,"area":"150m²","rooms":4.5}
+{"address":"Grossmannstrasse, 8049 Zürich","price":3770,"property_id":4002038512,"area":"150m²","rooms":4.5}
+{"address":"Badgasse 5, 9320 Arbon","price":3770,"property_id":4002037810,"area":"150m²","rooms":4.5}
+{"address":"Hauptstrasse 40, 5070 Frick","price":3770,"property_id":4002036004,"area":"150m²","rooms":4.5}
+{"address":"Oberglatterstrasse, 8184 Bachenbülach","price":3770,"property_id":4002032155,"area":"150m²","rooms":4.5}
+{"address":"Hauflandweg 12, 8605 Gutenswil","price":3770,"property_id":4002031833,"area":"150m²","rooms":4.5}
+{"address":"Wehntalerstrasse, 8046 Zürich","price":3770,"property_id":4002030739,"area":"150m²","rooms":4.5}
+{"address":"Bahnhofstrasse 4, 8932 Mettmenstetten","price":3770,"property_id":4002030700,"area":"150m²","rooms":4.5}
+{"address":"Buhofstrasse 64a, 9424 Rheineck","price":3770,"property_id":4002029958,"area":"150m²","rooms":4.5}
+{"address":"Chenevières 35, 2533 Evilard","price":3770,"property_id":4002027736,"area":"150m²","rooms":4.5}
+{"address":"Wehrlisteig 21, 8049 Zürich","price":3770,"property_id":4002027692,"area":"150m²","rooms":4.5}
+{"address":"Chemin de la Coffette, 1032 Romanel-sur-Lausanne","price":3770,"property_id":4002026689,"area":"150m²","rooms":4.5}
+{"address":"Rittergutstrasse 14, 8200 Schaffhausen","price":3770,"property_id":4002025866,"area":"150m²","rooms":4.5}
+{"address":"Chapfstrasse 1, 8625 Gossau","price":3770,"property_id":4002024688,"area":"150m²","rooms":4.5}
+{"address":"Brünnenstrasse 108, 3018 Berna","price":3770,"property_id":4002023779,"area":"150m²","rooms":4.5}
+{"address":"Route de Valavran, 1294 Genthod","price":3770,"property_id":4002022678,"area":"150m²","rooms":4.5}
+{"address":"Stationsstrasse 31, 9014 St. Gallen","price":3770,"property_id":4002022514,"area":"150m²","rooms":4.5}
+{"address":"Längistrasse 11, 4133 Pratteln","price":3770,"property_id":4002020757,"area":"150m²","rooms":4.5}
+{"address":"Riedmattstrasse 3c, 4500 Solothurn","price":1440,"property_id":4002020535,"area":"51m²","rooms":3.0}
+{"address":"Flurmatte 10, 6033 Buchrain","price":1440,"property_id":4002020273,"area":"51m²","rooms":3.0}
+{"address":"Buckhauserstrasse 45, 8048 Zürich","price":1440,"property_id":4002017368,"area":"51m²","rooms":3.0}
+{"address":"Landecy, 1227 Carouge GE","price":1440,"property_id":4002016260,"area":"51m²","rooms":3.0}
+{"address":"Zürcherstrasse 7, 8730 Uznach","price":1440,"property_id":4002010471,"area":"51m²","rooms":3.0}
+{"address":"Socinstrasse, 4051 Basel","price":1440,"property_id":4002009342,"area":"51m²","rooms":3.0}
+{"address":"Schweizerhaus 2, 8755 Ennenda","price":1440,"property_id":4002006184,"area":"51m²","rooms":3.0}
+{"address":"Rue de France 24, 2400 Le Locle","price":1440,"property_id":4002003069,"area":"51m²","rooms":3.0}
+{"address":"Seestrasse 72e, 9320 Arbon","price":1440,"property_id":4002002339,"area":"51m²","rooms":3.0}
+{"address":"Via Santuario 8, 6644 Orselina","price":1440,"property_id":4001997388,"area":"51m²","rooms":3.0}
+{"address":"Unterdorfstr. 43, 3072 Ostermundigen","price":1440,"property_id":4001987270,"area":"51m²","rooms":3.0}
+{"address":"Dornacherstrasse 3, 6003 Luzern","price":1440,"property_id":4001987253,"area":"51m²","rooms":3.0}
+{"address":"Scheuermattweg 4, 3007 Bern","price":1440,"property_id":4001983870,"area":"51m²","rooms":3.0}
+{"address":"Lange Gasse 32, 4052 Basel","price":1440,"property_id":4001981304,"area":"51m²","rooms":3.0}
+{"address":"Rue Charles Monnard 6, 1003 Lausanne","price":1440,"property_id":4001980204,"area":"51m²","rooms":3.0}
+{"address":"Av. d'Echallens 8, 1004 Lausanne","price":1440,"property_id":4001980189,"area":"51m²","rooms":3.0}
+{"address":"Stegacker 8, 6280 Hochdorf","price":1440,"property_id":4001980185,"area":"51m²","rooms":3.0}
+{"address":"General-Guisan-Quai, 8002 Zürich","price":1440,"property_id":4001978372,"area":"51m²","rooms":3.0}
+{"address":"Unterdorfstr. 11a, 3072 Ostermundigen","price":1440,"property_id":4001976824,"area":"51m²","rooms":3.0}
+{"address":"Alte Landstrasse 5, 8302 Kloten","price":1440,"property_id":4001976814,"area":"51m²","rooms":3.0}
+{"address":"Gutenbergstr. 39, 3011 Bern","price":2550,"property_id":4001976800,"area":"69m²","rooms":3.5}
+{"address":"Eigerstr. 60, 3007 Bern","price":2550,"property_id":4001976798,"area":"69m²","rooms":3.5}
+{"address":"Alpwegern 7, 3860 Meiringen","price":2550,"property_id":4001976786,"area":"69m²","rooms":3.5}
+{"address":"Eugen-Huber-Strasse 22, 8048 Zürich","price":2550,"property_id":4001976700,"area":"69m²","rooms":3.5}
+{"address":"Waagtalstrasse 32, 8842 Unteriberg","price":2550,"property_id":4001976165,"area":"69m²","rooms":3.5}
+{"address":"Rue du Centre 8, 1025 Saint-Sulpice","price":2550,"property_id":4001974048,"area":"69m²","rooms":3.5}
+{"address":"Kilchbergstrasse 122, 8038 Zürich","price":2550,"property_id":4001973951,"area":"69m²","rooms":3.5}
+{"address":"Käpfnerweg 11, 8810 Horgen","price":2550,"property_id":4001973447,"area":"69m²","rooms":3.5}
+{"address":"Alte Landstrasse 1, 8302 Kloten","price":2550,"property_id":4001970793,"area":"69m²","rooms":3.5}
+{"address":"Alte Landstrasse 3, 8302 Kloten","price":2550,"property_id":4001970790,"area":"69m²","rooms":3.5}
+{"address":"Alte Landstrasse 5, 8302 Kloten","price":2550,"property_id":4001970769,"area":"69m²","rooms":3.5}
+{"address":"Ch. du Devin 57, 1012 Lausanne","price":2550,"property_id":4001970767,"area":"69m²","rooms":3.5}
+{"address":"Av. d'Epenex 25, 1024 Ecublens VD","price":2550,"property_id":4001970765,"area":"69m²","rooms":3.5}
+{"address":"Sentiero Tazzino, 6605 Locarno","price":2550,"property_id":4001969461,"area":"69m²","rooms":3.5}
+{"address":"Langhagstr. 28, 4600 Olten","price":2550,"property_id":4001967220,"area":"69m²","rooms":3.5}
+{"address":"Weidstr. 1, 8135 Langnau am Albis","price":2550,"property_id":4001964149,"area":"69m²","rooms":3.5}
+{"address":"Hegenheimerstrasse 43, 4055 Basel","price":2550,"property_id":4001964148,"area":"69m²","rooms":3.5}
+{"address":"Route de la Veveyse 14, 1700 Fribourg","price":2550,"property_id":4001964127,"area":"69m²","rooms":3.5}
+{"address":"Neumattstrasse 29, 4657 Dulliken","price":2550,"property_id":4001961202,"area":"69m²","rooms":3.5}
+{"address":"Wiggisstrasse 14, 8752 Glarus Nord","price":2550,"property_id":4001956647,"area":"69m²","rooms":3.5}
+{"address":"Dammweg, 3176 Neuenegg","price":4550,"property_id":4001953719,"area":"220m²","rooms":6.5}
+{"address":"Rue du Lac 19, 1342 Le Pont","price":4550,"property_id":4001951399,"area":"220m²","rooms":6.5}
+{"address":"Rosenweg 6, 4103 Bottmingen","price":4550,"property_id":4001946514,"area":"220m²","rooms":6.5}
+{"address":"Weinfelderstrasse 71, 8580 Amriswil","price":4550,"property_id":4001940398,"area":"220m²","rooms":6.5}
+{"address":"Im Stoffel 31, 8887 Mels","price":4550,"property_id":4001939155,"area":"220m²","rooms":6.5}
+{"address":"Hofgasse 4, 4144 Arlesheim","price":4550,"property_id":4001935507,"area":"220m²","rooms":6.5}
+{"address":"Längmattstrasse, 4632 Trimbach","price":4550,"property_id":4001914312,"area":"220m²","rooms":6.5}
+{"address":"Mühleweg 4, 7307 Jenins","price":4550,"property_id":4001912434,"area":"220m²","rooms":6.5}
+{"address":"Bruchstrasse 4, 6003 Luzern","price":4550,"property_id":4001905695,"area":"220m²","rooms":6.5}
+{"address":"im Hofacker, 4461 Böckten","price":4550,"property_id":4001895988,"area":"220m²","rooms":6.5}
+{"address":"Hofackerstrasse 15, 8032 Zürich","price":4550,"property_id":4001892538,"area":"220m²","rooms":6.5}
+{"address":"Strada dra Vall, 6968 Sonvico","price":4550,"property_id":4001887912,"area":"220m²","rooms":6.5}
+{"address":"Hinterkirchweg 7, 4106 Therwil","price":4550,"property_id":4001875100,"area":"220m²","rooms":6.5}
+{"address":"Spinnereistrasse, 8640 Rapperswil-Jona","price":4550,"property_id":4001864560,"area":"220m²","rooms":6.5}
+{"address":"Via Calchera 2, 6825 Capolago","price":4550,"property_id":4001859833,"area":"220m²","rooms":6.5}
+{"address":"Kurvenstrasse 6, 9062 Lustmühle","price":4550,"property_id":4001848684,"area":"220m²","rooms":6.5}
+{"address":"Einschlagweg 10, 4153 Reinach BL","price":4550,"property_id":4001840934,"area":"220m²","rooms":6.5}
+{"address":"Plateau de Frontenex 9D, 1223 Cologny","price":4550,"property_id":4001834378,"area":"220m²","rooms":6.5}
+{"address":"Schützenwisstr. 1, 8124 Maur","price":4550,"property_id":4001792610,"area":"220m²","rooms":6.5}
+{"address":"Schädrütihalde, 6006 Luzern","price":4550,"property_id":4001785989,"area":"220m²","rooms":6.5}

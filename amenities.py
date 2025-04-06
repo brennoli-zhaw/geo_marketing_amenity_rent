@@ -125,7 +125,7 @@ def add_amenities_to_properties(input_file, output_file, transport_type, radius=
 def main():
     input_file = 'rental_properties_geocoded.json'
     radiuses = [500, 1000, 1500]  # search radius in meters
-    distances_in_minutes = [5, 10, 15]  # distance in minutes for isochrone
+    distances_in_minutes = [3, 7, 10]  # distance in minutes for isochrone
     transport_types = ["driving","walking", "radius"]
     # list of allowed amenities to search for
     allowed_amenities = [

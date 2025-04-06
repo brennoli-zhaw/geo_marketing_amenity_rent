@@ -47,22 +47,43 @@ def create_feature_dict(property_data):
     return feat
 
 def main():
-    input_file = 'rental_properties_with_driving_5_amenities.json'
-    output_csv = 'rental_features.csv'
-    
-    # load properties from the json file (one object per line)
-    props = read_json_clean(input_file)
-    
-    # build a list of feature dicts
-    features = [create_feature_dict(p) for p in props]
-    
-    # create a dataframe from features
-    df = pd.DataFrame(features)
-    
-    # save the dataframe to csv
-    df.to_csv(output_csv, index=False)
-    print("dataframe saved to", output_csv)
-    print(df.head())
+    infput_files = [
+        "rental_properties_with_driving_3_amenities.json",
+        "rental_properties_with_driving_7_amenities.json",
+        "rental_properties_with_driving_10_amenities.json",
+        "rental_properties_with_radius_500_amenities.json",
+        "rental_properties_with_radius_1000_amenities.json",
+        "rental_properties_with_radius_1500_amenities.json",
+        "rental_properties_with_walking_3_amenities.json",
+        "rental_properties_with_walking_7_amenities.json",
+        "rental_properties_with_walking_10_amenities.json",
+    ]
+    output_files = [
+        "rental_features_driving_3_amenities.csv",
+        "rental_features_driving_7_amenities.csv",
+        "rental_features_driving_10_amenities.csv",
+        "rental_features_radius_500_amenities.csv",
+        "rental_features_radius_1000_amenities.csv",
+        "rental_features_radius_1500_amenities.csv",
+        "rental_features_walking_3_amenities.csv",
+        "rental_features_walking_7_amenities.csv",
+        "rental_features_walking_10_amenities.csv",
+    ]
+    for index, input_file in enumerate(infput_files):
+        output_csv = output_files[index]
+        # load properties from the json file (one object per line)
+        props = read_json_clean(input_file)
+        
+        # build a list of feature dicts
+        features = [create_feature_dict(p) for p in props]
+        
+        # create a dataframe from features
+        df = pd.DataFrame(features)
+        
+        # save the dataframe to csv
+        df.to_csv(output_csv, index=False)
+        print("dataframe saved to", output_csv)
+        print(df.head())
 
 if __name__ == "__main__":
     main()
