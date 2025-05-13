@@ -88,6 +88,7 @@ def get_isochrone_by_query(query=None, retries=1, retry_delay=1, current_try=0):
     if response.status_code == 200:
         geoJSON = response.json()
     else:
+        # In case of error messages or limits from the API
         if current_try < retries:
             print(f"Retrying in {retry_delay} seconds...")
             time.sleep(retry_delay)

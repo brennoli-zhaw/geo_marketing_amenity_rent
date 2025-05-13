@@ -83,29 +83,50 @@ def extract_and_save_amenities(properties, output_csv):
         print("No amenities found to save.")
 
 def main():
+    input_dir = "property_amenities_area/"
     input_files = [
-        "rental_properties_with_driving_3_amenities.json",
-        "rental_properties_with_driving_7_amenities.json",
-        "rental_properties_with_driving_10_amenities.json",
-        "rental_properties_with_radius_500_amenities.json",
-        "rental_properties_with_radius_1000_amenities.json",
-        "rental_properties_with_radius_1500_amenities.json",
-        "rental_properties_with_walking_3_amenities.json",
-        "rental_properties_with_walking_7_amenities.json",
-        "rental_properties_with_walking_10_amenities.json",
+        f"{input_dir}property_isochrone_driving_1.json",
+        f"{input_dir}property_isochrone_driving_2.json",
+        f"{input_dir}property_isochrone_driving_3.json",
+        f"{input_dir}property_isochrone_driving_5.json",
+        f"{input_dir}property_isochrone_driving_7.json",
+        f"{input_dir}property_isochrone_driving_10.json",
+        f"{input_dir}property_radius_100.json",
+        f"{input_dir}property_radius_250.json",
+        f"{input_dir}property_radius_400.json",
+        f"{input_dir}property_radius_500.json",
+        f"{input_dir}property_radius_1000.json",
+        f"{input_dir}property_radius_1500.json",
+        f"{input_dir}property_isochrone_driving_1.json",
+        f"{input_dir}property_isochrone_driving_2.json",
+        f"{input_dir}property_isochrone_walking_3.json",
+        f"{input_dir}property_isochrone_walking_5.json",
+        f"{input_dir}property_isochrone_walking_7.json",
+        f"{input_dir}property_isochrone_walking_10.json",   
     ]
+
+    output_dir = "features/"
     output_feature_files = [
-        "rental_features_driving_3_amenities.csv",
-        "rental_features_driving_7_amenities.csv",
-        "rental_features_driving_10_amenities.csv",
-        "rental_features_radius_500_amenities.csv",
-        "rental_features_radius_1000_amenities.csv",
-        "rental_features_radius_1500_amenities.csv",
-        "rental_features_walking_3_amenities.csv",
-        "rental_features_walking_7_amenities.csv",
-        "rental_features_walking_10_amenities.csv",
+        f"{output_dir}features_driving_1.csv",
+        f"{output_dir}features_driving_2.csv",
+        f"{output_dir}features_driving_3.csv",
+        f"{output_dir}features_driving_5.csv",
+        f"{output_dir}features_driving_7.csv",
+        f"{output_dir}features_driving_10.csv",
+        f"{output_dir}features_radius_100.csv",
+        f"{output_dir}features_radius_250.csv",
+        f"{output_dir}features_radius_400.csv",
+        f"{output_dir}features_radius_500.csv",
+        f"{output_dir}features_radius_1000.csv",
+        f"{output_dir}features_radius_1500.csv",
+        f"{output_dir}features_walking_1.csv",
+        f"{output_dir}features_walking_2.csv",
+        f"{output_dir}features_walking_3.csv",
+        f"{output_dir}features_walking_5.csv",
+        f"{output_dir}features_walking_7.csv",
+        f"{output_dir}features_walking_10.csv",
     ]
-    
+
     # Process each JSON file to build the features dataframe
     for index, input_file in enumerate(input_files):
         output_csv = output_feature_files[index]
@@ -122,7 +143,7 @@ def main():
         
         # Optionally, also save a CSV with individual amenity records
         # This CSV will include coordinates which you can later load into QGIS.
-        amenities_output = output_csv.replace("features", "amenities").replace(".csv", "_amenities.csv")
+        amenities_output = output_csv.replace("features", "amenities").replace("amenities/", "amenity_coordinates/")
         extract_and_save_amenities(props, amenities_output)
 
 if __name__ == "__main__":
